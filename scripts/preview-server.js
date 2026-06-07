@@ -4,6 +4,7 @@ const path = require('path')
 
 const root = path.resolve(__dirname, '..')
 const cardsDir = path.join(root, 'cards')
+const cardDesignsDir = path.join(__dirname, 'cards')
 const port = Number(process.env.PORT || 4178)
 
 const mimeTypes = {
@@ -13,19 +14,70 @@ const mimeTypes = {
   '.js': 'text/javascript; charset=utf-8',
 }
 
+function loadCardOrders() {
+  if (!fs.existsSync(cardDesignsDir)) return new Map()
+
+  const orders = new Map()
+  for (const file of fs.readdirSync(cardDesignsDir)) {
+    if (!file.endsWith('.js')) continue
+
+    const cardPath = path.join(cardDesignsDir, file)
+    delete require.cache[require.resolve(cardPath)]
+    const card = require(cardPath)
+    if (card && card.id) {
+      orders.set(card.id, Number.isFinite(card.order) ? card.order : Number.MAX_SAFE_INTEGER)
+    }
+  }
+  return orders
+}
+
 function listCards() {
   if (!fs.existsSync(cardsDir)) return []
 
-  return fs
-    .readdirSync(cardsDir)
-    .filter((file) => file.endsWith('.svg'))
+  const files = []
+  const walk = (dir) => {
+    for (const file of fs.readdirSync(dir)) {
+      const filePath = path.join(dir, file)
+      const stat = fs.statSync(filePath)
+      if (stat.isDirectory()) {
+        walk(filePath)
+        continue
+      }
+
+      if (file.endsWith('.svg')) {
+        files.push(path.relative(cardsDir, filePath).replace(/\\/g, '/'))
+      }
+    }
+  }
+
+  walk(cardsDir)
+
+  const cardOrders = loadCardOrders()
+  const themeOrder = ['dark', 'light']
+  const sizeOrder = ['large', 'medium', 'small']
+
+  return files
     .sort((a, b) => {
-      const order = ['large', 'medium', 'small']
-      const themeA = a.includes('dark') ? 0 : 1
-      const themeB = b.includes('dark') ? 0 : 1
-      const sizeA = order.findIndex((size) => a.includes(size))
-      const sizeB = order.findIndex((size) => b.includes(size))
-      return themeA - themeB || sizeA - sizeB || a.localeCompare(b)
+      const parse = (file) => {
+        const [cardId, filename = ''] = file.split('/')
+        const basename = filename.replace(/\.svg$/, '')
+        const size = sizeOrder.find((item) => basename.endsWith(`-${item}`)) || ''
+        const variant = size ? basename.slice(0, -size.length - 1) : basename
+
+        return {
+          cardId,
+          card: cardOrders.has(cardId) ? cardOrders.get(cardId) : Number.MAX_SAFE_INTEGER,
+          theme: themeOrder.includes(variant) ? themeOrder.indexOf(variant) : themeOrder.length,
+          size: sizeOrder.includes(size) ? sizeOrder.indexOf(size) : sizeOrder.length,
+        }
+      }
+      const left = parse(a)
+      const right = parse(b)
+
+      return left.card - right.card
+        || left.theme - right.theme
+        || left.size - right.size
+        || a.localeCompare(b)
     })
 }
 
@@ -34,9 +86,9 @@ function renderPage() {
   const cardMarkup = cards
     .map((file) => {
       const label = file
-        .replace('netease-', '')
+        .replace(/\//g, ' / ')
         .replace('.svg', '')
-        .replace('-', ' / ')
+        // .replace('-', ' / ')
 
       return `
         <section class="preview-card">

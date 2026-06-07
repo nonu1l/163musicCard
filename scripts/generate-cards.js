@@ -1,11 +1,16 @@
 const fs = require('fs')
 const path = require('path')
-const { getRecentSongs } = require('./music')
-const { renderCard, sizes } = require('./svg-card')
+const {
+  buildListeningState,
+  getRecentSongs,
+  getWeeklyRank,
+} = require('./music')
 
 const root = path.resolve(__dirname, '..')
-const themeDir = path.join(root, 'themes')
+const cardDir = path.join(__dirname, 'cards')
 const outputDir = path.join(root, 'cards')
+const dataDir = path.join(root, 'data')
+const listeningStatePath = path.join(dataDir, 'listening-state.json')
 
 function normalizeImageUrl(url) {
   if (!url) return ''
@@ -28,44 +33,92 @@ async function fetchCoverDataUri(url) {
   }
 }
 
-function loadThemes() {
-  if (!fs.existsSync(themeDir)) return []
+async function embedCover(song, cache) {
+  if (!song?.coverUrl) return
+  if (!cache.has(song.coverUrl)) {
+    cache.set(song.coverUrl, await fetchCoverDataUri(song.coverUrl))
+  }
+  song.coverDataUri = cache.get(song.coverUrl)
+}
+
+function loadCardDesigns() {
+  if (!fs.existsSync(cardDir)) return []
 
   return fs
-    .readdirSync(themeDir)
+    .readdirSync(cardDir)
     .filter((file) => file.endsWith('.js'))
     .sort()
     .map((file) => {
-      const themePath = path.join(themeDir, file)
-      delete require.cache[require.resolve(themePath)]
-      const theme = require(themePath)
+      const cardPath = path.join(cardDir, file)
+      delete require.cache[require.resolve(cardPath)]
+      const card = require(cardPath)
       return {
-        ...theme,
-        id: theme.id || path.basename(file, '.js'),
+        ...card,
+        id: card.id || path.basename(file, '.js'),
       }
     })
 }
 
 async function main() {
-  const themes = loadThemes()
-  if (!themes.length) {
-    throw new Error('No theme files found in themes/.')
+  const cards = loadCardDesigns()
+  if (!cards.length) {
+    throw new Error('No card design files found in scripts/cards/.')
   }
 
   fs.mkdirSync(outputDir, { recursive: true })
 
   const maxLimit = Number(process.env.MUSIC_LIMIT || 5)
-  const result = await getRecentSongs({ limit: maxLimit })
-  if (result.songs?.[0]?.coverUrl) {
-    result.songs[0].coverDataUri = await fetchCoverDataUri(result.songs[0].coverUrl)
+  const rankLimit = Number(process.env.RANK_LIMIT || 20)
+  const recentResult = await getRecentSongs({ limit: maxLimit })
+  const weeklyRank = await getWeeklyRank({ limit: rankLimit })
+  const listeningState = buildListeningState(recentResult)
+  const coverCache = new Map()
+
+  if (recentResult.songs?.[0]) {
+    await embedCover(recentResult.songs[0], coverCache)
+  }
+  for (const item of weeklyRank.songs || []) {
+    await embedCover(item.song, coverCache)
   }
 
-  for (const theme of themes) {
-    for (const size of Object.values(sizes)) {
-      const svg = renderCard({ theme, size, result })
-      const filename = `netease-${theme.id}-${size.id}.svg`
-      fs.writeFileSync(path.join(outputDir, filename), svg, 'utf8')
-      console.log(`Generated cards/${filename}`)
+  const result = {
+    ...recentResult,
+    listeningState,
+    weeklyRank,
+  }
+
+  fs.mkdirSync(dataDir, { recursive: true })
+  fs.writeFileSync(
+    listeningStatePath,
+    JSON.stringify(
+      {
+        ...listeningState,
+        latestSong: recentResult.songs?.[0]
+          ? {
+              id: recentResult.songs[0].id,
+              name: recentResult.songs[0].name,
+              artists: recentResult.songs[0].artists,
+              album: recentResult.songs[0].album,
+            }
+          : null,
+      },
+      null,
+      2
+    ) + '\n',
+    'utf8'
+  )
+
+  for (const card of cards) {
+    const cardOutputDir = path.join(outputDir, card.id)
+    fs.mkdirSync(cardOutputDir, { recursive: true })
+
+    for (const variant of Object.values(card.variants)) {
+      for (const size of Object.values(card.sizes)) {
+        const svg = card.renderCard({ variant, size, result })
+        const filename = `${variant.id}-${size.id}.svg`
+        fs.writeFileSync(path.join(cardOutputDir, filename), svg, 'utf8')
+        console.log(`Generated cards/${card.id}/${filename}`)
+      }
     }
   }
 }

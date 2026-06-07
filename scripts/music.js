@@ -3,6 +3,7 @@ const {
   login_status,
   record_recent_song,
   recent_listen_list,
+  user_record,
 } = require('NeteaseCloudMusicApi')
 const { loadLocalEnv } = require('./env')
 
@@ -19,6 +20,11 @@ function formatTime(value) {
   const date = new Date(Number(value))
   if (Number.isNaN(date.getTime())) return ''
   return date.toLocaleString('zh-CN', { hour12: false })
+}
+
+function parsePlayTime(value) {
+  const time = Number(value || 0)
+  return Number.isFinite(time) && time > 0 ? time : 0
 }
 
 function normalizeTitlePart(value) {
@@ -70,6 +76,7 @@ function pickSong(item) {
   const coverUrl = album.picUrl || song.picUrl || song.coverUrl || song.songPicUrl || ''
   const playTime =
     item.playTime || item.time || item.resourcePlayTime || item.playedTime
+  const playTimeMs = parsePlayTime(playTime)
 
   return {
     name: song.name || '',
@@ -78,6 +85,8 @@ function pickSong(item) {
     album: album.name || '',
     coverUrl,
     id: song.id || '',
+    durationMs: Number(song.dt || song.duration || 0),
+    playTimeMs,
     playTime: formatTime(playTime),
   }
 }
@@ -165,6 +174,72 @@ async function getRecentSongs({ limit = 10 } = {}) {
   }
 }
 
+function pickRankSong(item, index, maxPlayCount) {
+  const song = item.song || item.data || item.resource || item
+  const picked = pickSong({ data: song })
+  const playCount = Number(item.playCount || item.count || 0)
+
+  return {
+    rank: index + 1,
+    playCount,
+    progress: maxPlayCount > 0 ? Math.round((playCount / maxPlayCount) * 100) : 0,
+    score: Number(item.score || 0),
+    song: picked,
+  }
+}
+
+async function getWeeklyRank({ limit = 20 } = {}) {
+  const cookie = loadCookie()
+  if (!cookie) {
+    throw new Error('No login cookie found. Run `npm run login` first, or set NETEASE_COOKIE/MUSIC_U.')
+  }
+
+  const profile = await getLoginProfile(cookie)
+  const week = await getWeekStats(cookie)
+  const uid = profile?.userId
+  if (!uid) {
+    return {
+      profile,
+      week,
+      songs: [],
+      source: 'user_record',
+    }
+  }
+
+  const response = await user_record({ uid, type: 1, cookie })
+  const list = response.body?.weekData || []
+  const sliced = list.slice(0, limit)
+  const maxPlayCount = Math.max(...sliced.map((item) => Number(item.playCount || 0)), 0)
+
+  return {
+    profile,
+    week,
+    songs: sliced.map((item, index) => pickRankSong(item, index, maxPlayCount)),
+    source: 'user_record',
+  }
+}
+
+function buildListeningState(result, now = Date.now(), graceMs = 90 * 1000) {
+  const latest = result.songs?.[0] || null
+  const latestPlayTime = Number(latest?.playTimeMs || 0)
+  const latestDuration = Number(latest?.durationMs || 0)
+  const expiresAt = latestPlayTime > 0
+    ? latestPlayTime + Math.max(0, latestDuration) + graceMs
+    : 0
+
+  return {
+    generatedAt: new Date(now).toISOString(),
+    latestSongId: latest?.id || '',
+    latestPlayTime,
+    latestDuration,
+    graceMs,
+    expiresAt,
+    isRecentlyPlaying: expiresAt >= now,
+  }
+}
+
 module.exports = {
+  buildListeningState,
   getRecentSongs,
+  getWeeklyRank,
 }
