@@ -1,0 +1,21 @@
+module.exports = {
+  id: 'dark',
+  label: 'Aurora Dark',
+  background: '#090018',
+  border: '#4b2386',
+  panel: '#12072b',
+  panelBorder: '#372066',
+  divider: '#2b174f',
+  text: '#fff8ff',
+  muted: '#b79cff',
+  subtle: '#00d9ff',
+  accent: '#ff67c8',
+  accent2: '#18d5ff',
+  accent3: '#9b7cff',
+  glow: '#ff4fbd',
+  shadow: '#05000d',
+  band: '#171433',
+  band2: '#221444',
+  waveform: ['#25d7ff', '#7c8cff', '#ff6bc8'],
+}
+

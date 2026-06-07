@@ -1,0 +1,37 @@
+name: Update Netease Music
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate SVG cards
+        env:
+          NETEASE_COOKIE: ${{ secrets.NETEASE_COOKIE }}
+          MUSIC_U: ${{ secrets.MUSIC_U }}
+        run: npm run generate-cards
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Netease recent music
+          file_pattern: cards/*.svg README.md
