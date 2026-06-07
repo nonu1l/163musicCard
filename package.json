@@ -1,0 +1,22 @@
+{
+  "name": "163musiccard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "node scripts/qr-login.js",
+    "recent": "node scripts/recent.js",
+    "generate-cards": "node scripts/generate-cards.js",
+    "update-readme": "node scripts/update-readme.js",
+    "preview": "node scripts/preview-server.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.32.0",
+    "qrcode": "^1.5.4"
+  }
+}

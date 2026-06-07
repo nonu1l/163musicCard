@@ -49,7 +49,7 @@ async function main() {
 
   console.log(`Open or scan this QR code: ${qrPath}`)
   console.log(loginUrl)
-  console.log('Waiting for confirmation in Netease Cloud Music app...')
+  console.log('Waiting for confirmation in NetEase Cloud Music app...')
 
   const deadline = Date.now() + 3 * 60 * 1000
   while (Date.now() < deadline) {

@@ -21,6 +21,48 @@ function formatTime(value) {
   return date.toLocaleString('zh-CN', { hour12: false })
 }
 
+function normalizeTitlePart(value) {
+  return String(value || '')
+    .toLowerCase()
+    .replace(/[（）]/g, (char) => (char === '（' ? '(' : ')'))
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function firstNonEmptyText(...values) {
+  for (const value of values) {
+    const items = Array.isArray(value) ? value : [value]
+    const found = items.find((item) => String(item || '').trim())
+    if (found) return String(found).trim()
+  }
+
+  return ''
+}
+
+function pickAlias(song) {
+  const alias = firstNonEmptyText(
+    song.alia,
+    song.alias,
+    song.transNames,
+    song.tns,
+    song.additionalTitle
+  )
+  if (!alias) return ''
+
+  const normalizedName = normalizeTitlePart(song.name)
+  const normalizedAlias = normalizeTitlePart(alias)
+  const normalizedWrappedAlias = normalizeTitlePart(`(${alias})`)
+
+  if (
+    normalizedName.includes(normalizedAlias) ||
+    normalizedName.includes(normalizedWrappedAlias)
+  ) {
+    return ''
+  }
+
+  return alias
+}
+
 function pickSong(item) {
   const song = item.data || item.song || item.resource || item
   const artists = song.ar || song.artists || []
@@ -31,7 +73,8 @@ function pickSong(item) {
 
   return {
     name: song.name || '',
-    artists: artists.map((artist) => artist.name).filter(Boolean).join(', '),
+    alias: pickAlias(song),
+    artists: artists.map((artist) => artist.name).filter(Boolean).join(' / '),
     album: album.name || '',
     coverUrl,
     id: song.id || '',

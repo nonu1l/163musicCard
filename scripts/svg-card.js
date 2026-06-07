@@ -2,7 +2,7 @@ const sizes = {
   small: {
     id: 'small',
     width: 320,
-    height: 430,
+    height: 460,
     radius: 24,
     mode: 'vertical',
   },
@@ -31,10 +31,30 @@ function escapeXml(value) {
     .replace(/'/g, '&apos;')
 }
 
-function truncate(value, max) {
+function truncateToWidth(value, fontSize, maxWidth) {
   const text = String(value || '')
-  if (text.length <= max) return text
-  return `${text.slice(0, Math.max(0, max - 1))}…`
+  if (estimateTextWidth(text, fontSize) <= maxWidth) return text
+
+  const ellipsis = '…'
+  let result = ''
+  for (const char of Array.from(text)) {
+    const next = `${result}${char}`
+    if (estimateTextWidth(`${next}${ellipsis}`, fontSize) > maxWidth) break
+    result = next
+  }
+
+  return result ? `${result}${ellipsis}` : ellipsis
+}
+
+function estimateTextWidth(value, fontSize) {
+  return Array.from(String(value || '')).reduce((width, char) => {
+    if (/[\u4e00-\u9fff\u3040-\u30ff\uac00-\ud7af]/.test(char)) return width + fontSize
+    if (/\s/.test(char)) return width + fontSize * 0.34
+    if (/[A-Z0-9]/.test(char)) return width + fontSize * 0.64
+    if (/[il.,'`]/.test(char)) return width + fontSize * 0.3
+    if (/[mwMW]/.test(char)) return width + fontSize * 0.86
+    return width + fontSize * 0.56
+  }, 0)
 }
 
 function linearGradient(id, colors, x1 = '0%', y1 = '0%', x2 = '100%', y2 = '0%') {
@@ -45,16 +65,6 @@ function linearGradient(id, colors, x1 = '0%', y1 = '0%', x2 = '100%', y2 = '0%'
     })
     .join('')
   return `<linearGradient id="${id}" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}">${stops}</linearGradient>`
-}
-
-function formatUpdatedAt(date = new Date()) {
-  return date.toLocaleString('zh-CN', {
-    hour12: false,
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit',
-  })
 }
 
 function latestSong(result) {
@@ -97,12 +107,18 @@ function renderDefs({ theme, id, size }) {
 }
 
 function renderBackground({ theme, size, id }) {
+  const shineX = -Math.round(size.width * 0.72)
+  const shineY = -Math.round(size.height * 0.25)
+  const shineWidth = Math.round(size.width * 0.46)
+  const shineHeight = Math.round(size.height * 1.55)
+  const shineEndX = Math.round(size.width + size.height * 0.58)
+
   return `
     <rect x="1" y="1" width="${size.width - 2}" height="${size.height - 2}" rx="${size.radius}" fill="url(#bg-${id})" stroke="${theme.border}" />
     <g clip-path="url(#card-clip-${id})">
       <path d="M ${Math.round(size.width * 0.62)} -10 L ${Math.round(size.width * 0.78)} ${size.height + 12} L ${size.width + 24} ${size.height + 12} L ${Math.round(size.width * 0.88)} -10 Z" fill="${theme.band2}" opacity="0.32" />
-      <rect x="-${size.width}" y="0" width="${Math.round(size.width * 0.42)}" height="${size.height}" fill="url(#shine-${id})" opacity="0.18" transform="skewX(-18)">
-        <animate attributeName="x" values="-${size.width};${size.width * 1.15}" dur="8s" repeatCount="indefinite" />
+      <rect x="${shineX}" y="${shineY}" width="${shineWidth}" height="${shineHeight}" fill="url(#shine-${id})" opacity="0.18" transform="skewX(-18)">
+        <animate attributeName="x" values="${shineX};${shineEndX}" dur="9s" repeatCount="indefinite" />
       </rect>
     </g>
   `
@@ -135,15 +151,59 @@ function renderCover({ song, theme, id, x, y, size }) {
   `
 }
 
-function renderSongInfo({ song, theme, x, y, width, titleSize, metaSize, align = 'start' }) {
-  const anchor = align === 'center' ? 'middle' : 'start'
-  const titleMax = width < 260 ? 17 : width < 390 ? 24 : 36
-  const metaMax = width < 260 ? 24 : width < 390 ? 34 : 52
+function renderTitleParts({ title, alias, theme }) {
+  const safeTitle = escapeXml(title)
+  const safeAlias = escapeXml(alias)
+
+  if (!safeAlias) {
+    return `<tspan fill="${theme.text}" font-weight="900">${safeTitle}</tspan>`
+  }
+
+  return `<tspan fill="${theme.text}" font-weight="900">${safeTitle}</tspan><tspan fill="${theme.muted}" font-weight="700" opacity="0.82"> (${safeAlias})</tspan>`
+}
+
+function renderMarqueeTitle({ title, alias, theme, id, x, y, width, fontSize, align = 'start' }) {
+  const left = align === 'center' ? x - width / 2 : x
+  const clipId = `title-clip-${id}-${Math.round(x)}-${Math.round(y)}`
+  const displayTitle = alias ? `${title} (${alias})` : title
+  const measuredWidth = Math.ceil(estimateTextWidth(displayTitle, fontSize))
+  const textWidth = Math.max(width, measuredWidth)
+  const gap = Math.max(46, Math.round(width * 0.2))
+  const step = textWidth + gap
+  const duration = Math.max(9, Math.round(step / 34))
+  const titleParts = renderTitleParts({ title, alias, theme })
+
+  if (measuredWidth <= width) {
+    const anchor = align === 'center' ? 'middle' : 'start'
+    return `<text x="${x}" y="${y}" text-anchor="${anchor}" font-size="${fontSize}">${titleParts}</text>`
+  }
 
   return `
-    <text x="${x}" y="${y}" text-anchor="${anchor}" font-size="${titleSize}" fill="${theme.text}" font-weight="900">${escapeXml(truncate(song.name || 'Unknown', titleMax))}</text>
-    <text x="${x}" y="${y + titleSize + 22}" text-anchor="${anchor}" font-size="${metaSize}" fill="${theme.accent}" font-weight="800">${escapeXml(truncate(song.artists || 'Unknown artist', metaMax))}</text>
-    <text x="${x}" y="${y + titleSize + 48}" text-anchor="${anchor}" font-size="${metaSize}" fill="${theme.muted}">${escapeXml(truncate(song.album || 'Unknown album', metaMax))}</text>
+    <clipPath id="${clipId}">
+      <rect x="${left}" y="${y - fontSize - 8}" width="${width}" height="${fontSize + 18}" />
+    </clipPath>
+    <g clip-path="url(#${clipId})">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-${step} 0" dur="${duration}s" repeatCount="indefinite" />
+        <text x="${left}" y="${y}" font-size="${fontSize}">${titleParts}</text>
+        <text x="${left + step}" y="${y}" font-size="${fontSize}">${titleParts}</text>
+      </g>
+    </g>
+  `
+}
+
+function renderSongInfo({ song, theme, id, x, y, width, titleSize, metaSize, align = 'start' }) {
+  const anchor = align === 'center' ? 'middle' : 'start'
+  const title = song.name || 'Unknown'
+  const alias = song.alias || ''
+  const albumSize = Math.max(11, metaSize - 1)
+  const artistText = truncateToWidth(song.artists || 'Unknown artist', metaSize, width)
+  const albumText = truncateToWidth(song.album || 'Unknown album', albumSize, width)
+
+  return `
+    ${renderMarqueeTitle({ title, alias, theme, id, x, y, width, fontSize: titleSize, align })}
+    <text x="${x}" y="${y + titleSize + 22}" text-anchor="${anchor}" font-size="${metaSize}" fill="${theme.accent}" font-weight="800">${escapeXml(artistText)}</text>
+    <text x="${x}" y="${y + titleSize + 48}" text-anchor="${anchor}" font-size="${albumSize}" fill="${theme.muted}" font-weight="500" opacity="0.86">${escapeXml(albumText)}</text>
   `
 }
 
@@ -154,13 +214,14 @@ function renderEqualizer({ theme, x, y, width, height, id }) {
   return bars
     .map((value, index) => {
       const barHeight = Math.max(8, value * height)
+      const initialHeight = barHeight * 0.52
       const bx = x + index * gap
       const delay = (index * 0.17).toFixed(2)
       const color = theme.waveform[index % theme.waveform.length]
       return `
-        <rect x="${bx.toFixed(1)}" y="${(y + height - barHeight).toFixed(1)}" width="${Math.max(4, gap * 0.42).toFixed(1)}" height="${barHeight.toFixed(1)}" rx="3" fill="${color}" opacity="0.92">
-          <animate attributeName="height" values="${(barHeight * 0.5).toFixed(1)};${barHeight.toFixed(1)};${(barHeight * 0.65).toFixed(1)}" dur="1.8s" begin="${delay}s" repeatCount="indefinite" />
-          <animate attributeName="y" values="${(y + height - barHeight * 0.5).toFixed(1)};${(y + height - barHeight).toFixed(1)};${(y + height - barHeight * 0.65).toFixed(1)}" dur="1.8s" begin="${delay}s" repeatCount="indefinite" />
+        <rect x="${bx.toFixed(1)}" y="${(y + height - initialHeight).toFixed(1)}" width="${Math.max(4, gap * 0.42).toFixed(1)}" height="${initialHeight.toFixed(1)}" rx="3" fill="${color}" opacity="0.92">
+          <animate attributeName="height" values="${initialHeight.toFixed(1)};${barHeight.toFixed(1)};${(barHeight * 0.7).toFixed(1)};${initialHeight.toFixed(1)}" keyTimes="0;0.42;0.72;1" calcMode="spline" keySplines="0.33 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" dur="1.8s" begin="${delay}s" repeatCount="indefinite" />
+          <animate attributeName="y" values="${(y + height - initialHeight).toFixed(1)};${(y + height - barHeight).toFixed(1)};${(y + height - barHeight * 0.7).toFixed(1)};${(y + height - initialHeight).toFixed(1)}" keyTimes="0;0.42;0.72;1" calcMode="spline" keySplines="0.33 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" dur="1.8s" begin="${delay}s" repeatCount="indefinite" />
         </rect>
       `
     })
@@ -176,16 +237,13 @@ function renderWeekRing({ result, theme, id, x, y, size }) {
   const dash = circumference * percent
   const rest = circumference - dash
   const label = week.label || '0m'
-  const percentLabel = `${Math.round(percent * 100)}%`
 
   return `
     <g transform="translate(${x} ${y})">
       <circle cx="${center}" cy="${center}" r="${radius}" fill="${theme.panel}" stroke="${theme.divider}" stroke-width="13" opacity="0.9" />
-      <circle cx="${center}" cy="${center}" r="${radius}" fill="none" stroke="url(#ring-${id})" stroke-width="13" stroke-linecap="round" stroke-dasharray="${dash.toFixed(2)} ${rest.toFixed(2)}" transform="rotate(-90 ${center} ${center})">
-        <animateTransform attributeName="transform" type="rotate" from="-90 ${center} ${center}" to="270 ${center} ${center}" dur="18s" repeatCount="indefinite" />
-      </circle>
+      <circle cx="${center}" cy="${center}" r="${radius}" fill="none" stroke="url(#ring-${id})" stroke-width="13" stroke-linecap="round" stroke-dasharray="${dash.toFixed(2)} ${rest.toFixed(2)}" transform="rotate(-90 ${center} ${center})" />
       <text x="${center}" y="${center - 4}" text-anchor="middle" font-size="${Math.max(18, size * 0.16)}" fill="${theme.text}" font-weight="900">${escapeXml(label)}</text>
-      <text x="${center}" y="${center + 22}" text-anchor="middle" font-size="${Math.max(10, size * 0.08)}" fill="${theme.muted}">this week · ${percentLabel}</text>
+      <text x="${center}" y="${center + 24}" text-anchor="middle" font-size="${Math.max(10, size * 0.075)}" fill="${theme.subtle}" font-weight="800" letter-spacing="1.2" opacity="0.82">THIS WEEK</text>
     </g>
   `
 }
@@ -196,16 +254,15 @@ function renderLargeCard({ theme, size, result, id }) {
   const ringSize = 150
 
   return `
-    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Netease recent music">
+    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music recent music">
       ${renderDefs({ theme, id, size })}
       ${renderBackground({ theme, size, id })}
       ${renderCover({ song, theme, id, x: 34, y: 30, size: coverSize })}
-      <text x="282" y="56" font-size="13" fill="${theme.subtle}" font-weight="900">LATEST PLAY</text>
-      ${renderSongInfo({ song, theme, x: 282, y: 104, width: 390, titleSize: 32, metaSize: 16 })}
-      <g transform="translate(282 202)">${renderEqualizer({ theme, x: 0, y: 0, width: 140, height: 34, id })}</g>
-      <text x="444" y="224" font-size="12" fill="${theme.muted}">updated ${escapeXml(formatUpdatedAt())}</text>
-      ${renderWeekRing({ result, theme, id, x: 752, y: 34, size: ringSize })}
-      <text x="827" y="214" text-anchor="middle" font-size="13" fill="${theme.muted}">weekly listening time</text>
+      <text x="322" y="56" font-size="13" fill="${theme.subtle}" font-weight="900" letter-spacing="1.2">RECENTLY PLAYED</text>
+      ${renderSongInfo({ song, theme, id, x: 322, y: 104, width: 400, titleSize: 32, metaSize: 16 })}
+      <g transform="translate(322 202)">${renderEqualizer({ theme, x: 0, y: 0, width: 140, height: 34, id })}</g>
+      <text x="484" y="236" font-size="16" fill="${theme.muted}" font-weight="800">NetEase Cloud Music</text>
+      ${renderWeekRing({ result, theme, id, x: 752, y: 55, size: ringSize })}
     </svg>
   `
 }
@@ -215,30 +272,30 @@ function renderMediumCard({ theme, size, result, id }) {
   const coverSize = 158
 
   return `
-    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Netease recent music">
+    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music recent music">
       ${renderDefs({ theme, id, size })}
       ${renderBackground({ theme, size, id })}
       ${renderCover({ song, theme, id, x: 28, y: 31, size: coverSize })}
-      <text x="222" y="54" font-size="12" fill="${theme.subtle}" font-weight="900">RECENTLY PLAYED</text>
-      ${renderSongInfo({ song, theme, x: 222, y: 100, width: 360, titleSize: 28, metaSize: 15 })}
-      <g transform="translate(222 172)">${renderEqualizer({ theme, x: 0, y: 0, width: 122, height: 26, id })}</g>
-      <text x="365" y="190" font-size="12" fill="${theme.muted}">${escapeXml(formatUpdatedAt())}</text>
+      <text x="248" y="54" font-size="12" fill="${theme.subtle}" font-weight="900" letter-spacing="1.2">RECENTLY PLAYED</text>
+      ${renderSongInfo({ song, theme, id, x: 248, y: 100, width: 330, titleSize: 28, metaSize: 15 })}
+      <g transform="translate(248 188)">${renderEqualizer({ theme, x: 0, y: 0, width: 122, height: 16, id })}</g>
+      <text x="391" y="204" font-size="15" fill="${theme.muted}" font-weight="800">NetEase Cloud Music</text>
     </svg>
   `
 }
 
 function renderSmallCard({ theme, size, result, id }) {
   const song = latestSong(result)
-  const coverSize = 260
+  const coverSize = 248
   const centerX = size.width / 2
 
   return `
-    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Netease recent music">
+    <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music recent music">
       ${renderDefs({ theme, id, size })}
       ${renderBackground({ theme, size, id })}
-      ${renderCover({ song, theme, id, x: 30, y: 28, size: coverSize })}
-      <text x="${centerX}" y="330" text-anchor="middle" font-size="12" fill="${theme.subtle}" font-weight="900">LATEST PLAY</text>
-      ${renderSongInfo({ song, theme, x: centerX, y: 362, width: 270, titleSize: 22, metaSize: 13, align: 'center' })}
+      ${renderCover({ song, theme, id, x: 36, y: 28, size: coverSize })}
+      <text x="${centerX}" y="326" text-anchor="middle" font-size="12" fill="${theme.subtle}" font-weight="900" letter-spacing="1.2">RECENTLY PLAYED</text>
+      ${renderSongInfo({ song, theme, id, x: centerX, y: 360, width: 270, titleSize: 21, metaSize: 13, align: 'center' })}
     </svg>
   `
 }

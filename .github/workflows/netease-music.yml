@@ -1,4 +1,4 @@
-name: Update Netease Music
+name: Update NetEase Cloud Music
 
 on:
   schedule:
@@ -33,5 +33,5 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update Netease recent music
+          commit_message: Update NetEase Cloud Music recent music
           file_pattern: cards/*.svg README.md
