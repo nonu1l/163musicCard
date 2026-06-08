@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T16:15:50.844Z",
-  "latestSongId": 31877076,
-  "weekPlayMinutes": 1587,
-  "stateSignature": "31877076:1587",
-  "previousSignature": "1299818:1486",
+  "generatedAt": "2026-06-08T16:42:41.809Z",
+  "latestSongId": 432384,
+  "weekPlayMinutes": 1610,
+  "stateSignature": "432384:1610",
+  "previousSignature": "31877076:1587",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31877076,
-    "name": "爱与诚 (Live)",
-    "artists": "古巨基",
-    "album": "我是歌手第三季 第1期"
+    "id": 432384,
+    "name": "アストロノーツ",
+    "artists": "椎名もた / 初音ミク",
+    "album": "夢のまにまに"
   }
 }
