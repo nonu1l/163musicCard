@@ -2,7 +2,7 @@ name: Update NetEase Cloud Music
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
