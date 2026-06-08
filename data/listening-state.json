@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T12:45:08.716Z",
-  "latestSongId": 2759266913,
-  "weekPlayMinutes": 1381,
-  "stateSignature": "2759266913:1381",
-  "previousSignature": "4126140:1355",
+  "generatedAt": "2026-06-08T14:29:48.700Z",
+  "latestSongId": 1299818,
+  "weekPlayMinutes": 1486,
+  "stateSignature": "1299818:1486",
+  "previousSignature": "2759266913:1381",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2759266913,
-    "name": "簪花雨（Flower hairpin）",
-    "artists": "陈抒妮",
-    "album": "着万象（Let it be）"
+    "id": 1299818,
+    "name": "Without Me",
+    "artists": "Eminem",
+    "album": "The Singles (Eminem album)"
   }
 }
