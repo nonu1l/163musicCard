@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T09:43:46.061Z",
-  "latestSongId": 3026472,
-  "weekPlayMinutes": 1315,
-  "stateSignature": "3026472:1315",
-  "previousSignature": "254317:1260",
+  "generatedAt": "2026-06-08T10:24:03.566Z",
+  "latestSongId": 4126140,
+  "weekPlayMinutes": 1355,
+  "stateSignature": "4126140:1355",
+  "previousSignature": "3026472:1315",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3026472,
-    "name": "Burning",
-    "artists": "Maria Arredondo",
-    "album": "Not Going Under"
+    "id": 4126140,
+    "name": "Got To Go",
+    "artists": "Incise",
+    "album": "Daily Methods"
   }
 }
