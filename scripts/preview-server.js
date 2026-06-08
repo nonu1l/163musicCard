@@ -15,7 +15,7 @@ const mimeTypes = {
 }
 
 // 临时:不显示以该前缀开头的卡片目录(注释掉或清空数组即可恢复显示)
-const EXCLUDED_DIR_PREFIXES = ['classic']
+const EXCLUDED_DIR_PREFIXES = []
 
 function loadCardOrders() {
   if (!fs.existsSync(cardDesignsDir)) return new Map()

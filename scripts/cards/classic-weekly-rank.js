@@ -114,7 +114,7 @@ function linearGradient(gradientId, colors, x1 = '0%', y1 = '0%', x2 = '100%', y
 }
 
 function coverHref(song) {
-  const href = song.coverDataUri || song.coverUrl || ''
+  const href = song.coverDataUri64 || song.coverDataUri || song.coverUrl || ''
   return href.startsWith('http://') ? href.replace('http://', 'https://') : href
 }
 
@@ -225,6 +225,7 @@ function renderRankRow({
   compact = false,
   compactLineGap = 4,
   centerStacked = false,
+  rankSize = compact ? 9 : 11,
 }) {
   const song = item.song || {}
   const rankText = `#${item.rank}`
@@ -290,7 +291,7 @@ function renderRankRow({
         ? inlineArtist ? `<text x="${compactArtistX}" y="${titleY}" font-size="${metaSize}" fill="${theme.accent}" font-weight="800">${escapeXml(inlineArtist)}</text>` : ''
         : `<text x="${textX}" y="${artistY}" text-anchor="start" font-size="${metaSize}" fill="${theme.accent}" font-weight="800">${escapeXml(artist)}</text>`}
       <text x="${textX}" y="${albumY}" text-anchor="start" font-size="${albumFontSize}" fill="${theme.muted}" font-weight="600" opacity="0.88">${escapeXml(album)}</text>
-      <text x="${x + width}" y="${rankY}" text-anchor="end" font-size="${compact ? 9 : 11}" fill="${theme.subtle}" font-weight="900" letter-spacing="0.8">${rankText}</text>
+      <text x="${x + width}" y="${rankY}" text-anchor="end" font-size="${rankSize}" fill="${theme.subtle}" font-weight="900" letter-spacing="0.8">${rankText}</text>
     </g>
   `
 }
@@ -312,6 +313,7 @@ function renderPagedRankRows({
   compactLineGap = 4,
   centerStacked = false,
   pageDuration = 10,
+  rankSize,
 }) {
   const pages = chunkItems((rank?.songs || []).slice(0, 20), 5)
   const pageCount = pages.length
@@ -346,6 +348,7 @@ function renderPagedRankRows({
             textMaxWidth,
             compactLineGap,
             centerStacked,
+            rankSize,
             delay: pageCount > 1 ? pageBegin + index * 0.16 : index * 0.16,
             cycle: pageCount > 1 ? cycle : 0,
             pageEnd,
@@ -387,6 +390,7 @@ function renderLargeCard({ theme, size, result, renderId }) {
         textMaxWidth: 500,
         compactLineGap: 8,
         compact: true,
+        rankSize: 13,
       })}
       ${renderWeekRing({ result: { ...result, week: rank.week || result.week }, theme, id: renderId, x: 752, y: 55, size: 150 })}
     </svg>
@@ -416,6 +420,7 @@ function renderMediumCard({ theme, size, result, renderId }) {
         textMaxWidth: 405,
         compactLineGap: 4,
         compact: true,
+        rankSize: 12,
       })}
     </svg>
   `

@@ -89,7 +89,7 @@ function formatNumber(value) {
 }
 
 function coverHref(song) {
-  const href = song.coverDataUri || song.coverUrl || ''
+  const href = song.coverDataUri64 || song.coverDataUri || song.coverUrl || ''
   return href.startsWith('http://') ? href.replace('http://', 'https://') : href
 }
 
@@ -190,8 +190,6 @@ function renderRankRow({
            <animateTransform attributeName="transform" type="translate" values="${animation.transformValues}" keyTimes="${animation.keyTimes}" dur="${cycle}s" repeatCount="indefinite" />`
         : `<animate attributeName="opacity" values="0;1" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />
            <animateTransform attributeName="transform" type="translate" values="0 6;0 0" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />`}
-      <rect x="${x}" y="${y}" width="${width}" height="${rowHeight}" rx="0" fill="${theme.surfaceAlt}" />
-      <line x1="${x}" y1="${y + rowHeight}" x2="${x + width}" y2="${y + rowHeight}" stroke="${theme.divider}" />
       ${renderRankBadge({ theme, rank: item.rank, x: x + 18, y: y + 22 })}
       ${renderCover({ song, theme, renderId, x: x + 54, y: y + 4, size: 26 })}
       <text x="${x + 94}" y="${y + 22}" font-size="13" fill="${theme.text}" font-weight="700">
@@ -258,14 +256,13 @@ function renderWeekPanel({ theme, rank, x, y }) {
   return `
     <g transform="translate(${x} ${y})">
       <rect width="224" height="212" rx="8" fill="${theme.surfaceAlt}" stroke="${theme.border}" />
-      <text x="18" y="30" font-size="12" fill="${theme.muted}" font-weight="800" letter-spacing="1">THIS WEEK</text>
-      <text x="18" y="72" font-size="32" fill="${theme.text}" font-weight="800">${escapeXml(label)}</text>
-      <text x="18" y="99" font-size="13" fill="${theme.muted}" font-weight="600">weekly listening time</text>
-      <line x1="18" y1="122" x2="206" y2="122" stroke="${theme.divider}" />
+      <text x="18" y="44" font-size="12" fill="${theme.muted}" font-weight="800" letter-spacing="1">THIS WEEK</text>
+      <text x="18" y="89" font-size="32" fill="${theme.text}" font-weight="800">${escapeXml(label)}</text>
+      <line x1="18" y1="119" x2="206" y2="119" stroke="${theme.divider}" />
       <text x="18" y="151" font-size="13" fill="${theme.muted}" font-weight="700">Tracks</text>
       <text x="206" y="151" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
-      <text x="18" y="179" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
-      <text x="206" y="179" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
+      <text x="18" y="183" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
+      <text x="206" y="183" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
     </g>
   `
 }
@@ -276,7 +273,7 @@ function renderLargeCard({ theme, size, result, renderId }) {
   return `
     <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music weekly rank GitHub style card">
       ${renderDefs({ theme, renderId })}
-      <rect x="0.5" y="0.5" width="${size.width - 1}" height="${size.height - 1}" rx="${size.radius}" fill="${theme.canvas}" stroke="${theme.border}" />
+      <rect x="0" y="0" width="${size.width}" height="${size.height}" rx="${size.radius}" fill="${theme.canvas}" />
       <rect x="24" y="24" width="650" height="212" rx="8" fill="${theme.surfaceAlt}" stroke="${theme.border}" />
       <g transform="translate(24 24)">
         <rect width="650" height="42" rx="8" fill="${theme.surface}" />

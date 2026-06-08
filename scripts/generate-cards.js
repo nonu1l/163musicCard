@@ -17,12 +17,12 @@ function normalizeImageUrl(url) {
   return url.startsWith('http://') ? url.replace('http://', 'https://') : url
 }
 
-async function fetchCoverDataUri(url) {
+async function fetchCoverDataUri(url, size = '512y512') {
   const normalized = normalizeImageUrl(url)
   if (!normalized || typeof fetch !== 'function') return ''
 
   try {
-    const response = await fetch(`${normalized}?param=512y512`)
+    const response = await fetch(`${normalized}?param=${size}`)
     if (!response.ok) return ''
 
     const contentType = response.headers.get('content-type') || 'image/jpeg'
@@ -33,12 +33,13 @@ async function fetchCoverDataUri(url) {
   }
 }
 
-async function embedCover(song, cache) {
+async function embedCover(song, cache, size = '512y512', target = 'coverDataUri') {
   if (!song?.coverUrl) return
-  if (!cache.has(song.coverUrl)) {
-    cache.set(song.coverUrl, await fetchCoverDataUri(song.coverUrl))
+  const cacheKey = `${size}:${song.coverUrl}`
+  if (!cache.has(cacheKey)) {
+    cache.set(cacheKey, await fetchCoverDataUri(song.coverUrl, size))
   }
-  song.coverDataUri = cache.get(song.coverUrl)
+  song[target] = cache.get(cacheKey)
 }
 
 function loadCardDesigns() {
@@ -89,7 +90,7 @@ async function main() {
     await embedCover(recentResult.songs[0], coverCache)
   }
   for (const item of weeklyRank.songs || []) {
-    await embedCover(item.song, coverCache)
+    await embedCover(item.song, coverCache, '64y64', 'coverDataUri64')
   }
 
   const result = {
