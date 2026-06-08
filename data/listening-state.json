@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T19:56:56.724Z",
-  "latestSongId": 1930226363,
-  "weekPlayMinutes": 1742,
-  "stateSignature": "1930226363:1742",
-  "previousSignature": "2159641385:1735",
+  "generatedAt": "2026-06-08T20:00:24.609Z",
+  "latestSongId": 1445642029,
+  "weekPlayMinutes": 1747,
+  "stateSignature": "1445642029:1747",
+  "previousSignature": "1930226363:1742",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1930226363,
-    "name": "You and Me",
-    "artists": "小瀬村晶",
-    "album": "「サマーゴースト」オリジナルサウンドトラック"
+    "id": 1445642029,
+    "name": "Phantasmic VIP",
+    "artists": "Cre-sc3NT / 橙沁Asa",
+    "album": "Phantasmic VIP"
   }
 }
