@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T19:51:45.434Z",
-  "latestSongId": 2159641385,
-  "weekPlayMinutes": 1735,
-  "stateSignature": "2159641385:1735",
-  "previousSignature": "2003591:1672",
+  "generatedAt": "2026-06-08T19:56:56.724Z",
+  "latestSongId": 1930226363,
+  "weekPlayMinutes": 1742,
+  "stateSignature": "1930226363:1742",
+  "previousSignature": "2159641385:1735",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2159641385,
-    "name": "轻舞（Moonlit paths heart follows）",
-    "artists": "陈抒妮",
-    "album": "轻舞（soft music and graceful dances）"
+    "id": 1930226363,
+    "name": "You and Me",
+    "artists": "小瀬村晶",
+    "album": "「サマーゴースト」オリジナルサウンドトラック"
   }
 }
