@@ -115,7 +115,7 @@ function renderDefs({ theme, renderId }) {
         <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="${theme.shadow}" flood-opacity="0.12" />
       </filter>
       <clipPath id="cover-clip-${renderId}">
-        <rect x="0" y="0" width="26" height="26" rx="5" />
+        <rect x="0" y="0" width="32" height="32" rx="6" />
       </clipPath>
     </defs>
   `
@@ -163,10 +163,10 @@ function renderRankRow({
                          pageEnd,
                        }) {
   const song = item.song || {}
-  const title = truncateToWidth(song.name || 'Unknown', 13, 170)
+  const title = truncateToWidth(song.name || 'Unknown', 13, 180)
   const titleWidth = estimateTextWidth(title, 13)
-  const artists = truncateToWidth(song.artists || 'Unknown artist', 12, Math.max(62, 252 - titleWidth))
-  const album = truncateToWidth(song.album || 'Unknown album', 12, 158)
+  const artists = truncateToWidth(song.artists || 'Unknown artist', 12, Math.max(62, 268 - titleWidth))
+  const album = truncateToWidth(song.album || 'Unknown album', 12, 148)
   const playCount = Number(item.playCount || 0)
   const animation = cycle > 0
       ? {
@@ -190,14 +190,14 @@ function renderRankRow({
            <animateTransform attributeName="transform" type="translate" values="${animation.transformValues}" keyTimes="${animation.keyTimes}" dur="${cycle}s" repeatCount="indefinite" />`
       : `<animate attributeName="opacity" values="0;1" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />
            <animateTransform attributeName="transform" type="translate" values="0 6;0 0" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />`}
-      ${renderRankBadge({ theme, rank: item.rank, x: x + 18, y: y + 22 })}
-      ${renderCover({ song, theme, renderId, x: x + 54, y: y + 4, size: 26 })}
-      <text x="${x + 94}" y="${y + 22}" font-size="13" fill="${theme.text}" font-weight="700">
+      ${renderRankBadge({ theme, rank: item.rank, x: x + 18, y: y + 24.5 })}
+      ${renderCover({ song, theme, renderId, x: x + 58, y: y + 3.5, size: 32 })}
+      <text x="${x + 112}" y="${y + 24.5}" font-size="13" fill="${theme.text}" font-weight="700">
         ${escapeXml(title)}
         <tspan dx="10" font-size="12" fill="${theme.accent}" font-weight="700">${escapeXml(artists)}</tspan>
       </text>
-      <text x="${x + 410}" y="${y + 22}" font-size="12" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
-      <text x="${x + width - 22}" y="${y + 22}" text-anchor="end" font-size="11" fill="${theme.subtle}" font-weight="700">${formatNumber(playCount)} plays</text>
+      <text x="${x + 442}" y="${y + 24.5}" font-size="12" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
+      <text x="${x + width - 22}" y="${y + 24.5}" text-anchor="end" font-size="11" fill="${theme.subtle}" font-weight="700">${formatNumber(playCount)} plays</text>
     </g>
   `
 }
@@ -205,7 +205,7 @@ function renderRankRow({
 function renderPagedRows({ rank, theme, renderId, x, y, width }) {
   const pages = chunkItems((rank.songs || []).slice(0, 20), 5)
   const pageCount = pages.length
-  const rowHeight = 34
+  const rowHeight = 39
   const pageDuration = 10
 
   if (!pageCount) {
@@ -255,15 +255,15 @@ function renderWeekPanel({ theme, rank, x, y }) {
 
   return `
     <g transform="translate(${x} ${y})">
-      <rect width="238" height="224" rx="8" fill="${theme.surfaceAlt}" />
-      <text x="18" y="44" font-size="12" fill="${theme.muted}" font-weight="800" letter-spacing="1">THIS WEEK</text>
-      <text x="18" y="89" font-size="32" fill="${theme.text}" font-weight="800">${escapeXml(label)}</text>
-      <line x1="18" y1="119" x2="220" y2="119" stroke="${theme.divider}" />
-      <text x="18" y="151" font-size="13" fill="${theme.muted}" font-weight="700">Tracks</text>
-      <text x="220" y="151" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
-      <text x="18" y="183" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
-      <text x="220" y="183" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
-      <rect x="0.5" y="0.5" width="237" height="223" rx="7.5" fill="none" stroke="${theme.border}" />
+      <rect width="238" height="260" rx="8" fill="${theme.surfaceAlt}" />
+      <text x="18" y="64" font-size="17" fill="${theme.muted}" font-weight="800" letter-spacing="1">THIS WEEK</text>
+      <text x="18" y="116" font-size="32" fill="${theme.text}" font-weight="800">${escapeXml(label)}</text>
+      <line x1="18" y1="150" x2="220" y2="150" stroke="${theme.divider}" />
+      <text x="18" y="192" font-size="13" fill="${theme.muted}" font-weight="700">Tracks</text>
+      <text x="220" y="192" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
+      <text x="18" y="229" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
+      <text x="220" y="229" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
+      <rect x="0.5" y="0.5" width="237" height="259" rx="7.5" fill="none" stroke="${theme.border}" />
     </g>
   `
 }
@@ -275,16 +275,16 @@ function renderLargeCard({ theme, size, result, renderId }) {
     <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music weekly rank GitHub style card">
       ${renderDefs({ theme, renderId })}
       <rect x="0" y="0" width="${size.width}" height="${size.height}" rx="${size.radius}" fill="${theme.canvas}" />
-      <rect x="0" y="16" width="704" height="224" rx="8" fill="${theme.surfaceAlt}" />
-      <g transform="translate(0 16)">
+      <rect x="0" y="0" width="704" height="260" rx="8" fill="${theme.surfaceAlt}" />
+      <g transform="translate(0 0)">
         <path d="M0 8Q0 0 8 0H696Q704 0 704 8V42H0Z" fill="${theme.surface}" />
         <line x1="0" y1="42" x2="704" y2="42" stroke="${theme.border}" />
         <text x="20" y="27" font-size="13" fill="${theme.text}" font-weight="800">Weekly top plays</text>
         <text x="506" y="27" font-size="12" fill="${theme.muted}" font-weight="700">NetEase Cloud Music</text>
       </g>
-      ${renderPagedRows({ rank, theme, renderId, x: 0, y: 58, width: 704 })}
-      <rect x="0.5" y="16.5" width="703" height="223" rx="7.5" fill="none" stroke="${theme.border}" />
-      ${renderWeekPanel({ theme, rank, x: 722, y: 16 })}
+      ${renderPagedRows({ rank, theme, renderId, x: 0, y: 52, width: 704 })}
+      <rect x="0.5" y="0.5" width="703" height="259" rx="7.5" fill="none" stroke="${theme.border}" />
+      ${renderWeekPanel({ theme, rank, x: 722, y: 0 })}
     </svg>
   `
 }
