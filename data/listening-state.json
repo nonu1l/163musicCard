@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T20:00:24.609Z",
-  "latestSongId": 1445642029,
-  "weekPlayMinutes": 1747,
-  "stateSignature": "1445642029:1747",
-  "previousSignature": "1930226363:1742",
+  "generatedAt": "2026-06-08T23:15:32.525Z",
+  "latestSongId": 2608096507,
+  "weekPlayMinutes": 1778,
+  "stateSignature": "2608096507:1778",
+  "previousSignature": "1445642029:1747",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1445642029,
-    "name": "Phantasmic VIP",
-    "artists": "Cre-sc3NT / 橙沁Asa",
-    "album": "Phantasmic VIP"
+    "id": 2608096507,
+    "name": "Aurora In The Snow",
+    "artists": "Vanguard Sound / GhostFinal / Kinoko蘑菇 / azusaTaxhi",
+    "album": "Aurora In The Snow"
   }
 }
