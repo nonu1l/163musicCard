@@ -49,11 +49,11 @@ const variants = {
 
 function escapeXml(value) {
   return String(value || '')
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&apos;')
 }
 
 function estimateTextWidth(value, fontSize) {
@@ -151,17 +151,17 @@ function renderRankBadge({ theme, rank, x, y }) {
 }
 
 function renderRankRow({
-  item,
-  theme,
-  renderId,
-  x,
-  y,
-  width,
-  rowHeight,
-  delay,
-  cycle,
-  pageEnd,
-}) {
+                         item,
+                         theme,
+                         renderId,
+                         x,
+                         y,
+                         width,
+                         rowHeight,
+                         delay,
+                         cycle,
+                         pageEnd,
+                       }) {
   const song = item.song || {}
   const title = truncateToWidth(song.name || 'Unknown', 13, 170)
   const titleWidth = estimateTextWidth(title, 13)
@@ -169,7 +169,7 @@ function renderRankRow({
   const album = truncateToWidth(song.album || 'Unknown album', 12, 158)
   const playCount = Number(item.playCount || 0)
   const animation = cycle > 0
-    ? {
+      ? {
         keyTimes: [
           0,
           Math.max(0.001, delay / cycle),
@@ -181,14 +181,14 @@ function renderRankRow({
         opacityValues: '0;0;1;1;0;0',
         transformValues: '0 6;0 6;0 0;0 0;0 0;0 6',
       }
-    : null
+      : null
 
   return `
     <g opacity="0" transform="translate(0 6)">
       ${animation
-        ? `<animate attributeName="opacity" values="${animation.opacityValues}" keyTimes="${animation.keyTimes}" dur="${cycle}s" repeatCount="indefinite" />
+      ? `<animate attributeName="opacity" values="${animation.opacityValues}" keyTimes="${animation.keyTimes}" dur="${cycle}s" repeatCount="indefinite" />
            <animateTransform attributeName="transform" type="translate" values="${animation.transformValues}" keyTimes="${animation.keyTimes}" dur="${cycle}s" repeatCount="indefinite" />`
-        : `<animate attributeName="opacity" values="0;1" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />
+      : `<animate attributeName="opacity" values="0;1" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />
            <animateTransform attributeName="transform" type="translate" values="0 6;0 0" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />`}
       ${renderRankBadge({ theme, rank: item.rank, x: x + 18, y: y + 22 })}
       ${renderCover({ song, theme, renderId, x: x + 54, y: y + 4, size: 26 })}
@@ -196,7 +196,7 @@ function renderRankRow({
         ${escapeXml(title)}
         <tspan dx="10" font-size="12" fill="${theme.accent}" font-weight="700">${escapeXml(artists)}</tspan>
       </text>
-      <text x="${x + 386}" y="${y + 22}" font-size="12" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
+      <text x="${x + 410}" y="${y + 22}" font-size="12" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
       <text x="${x + width - 22}" y="${y + 22}" text-anchor="end" font-size="11" fill="${theme.subtle}" font-weight="700">${formatNumber(playCount)} plays</text>
     </g>
   `
@@ -219,32 +219,32 @@ function renderPagedRows({ rank, theme, renderId, x, y, width }) {
   const cycle = pageCount * pageDuration
 
   return pages
-    .map((page, pageIndex) => {
-      const pageBegin = pageIndex * pageDuration
-      const pageEnd = pageBegin + pageDuration
-      const pageAnimation = pageCount > 1
-        ? `<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.035;${((pageDuration - 0.35) / cycle).toFixed(3)};${(pageDuration / cycle).toFixed(3)};1" dur="${cycle}s" begin="${pageBegin}s" repeatCount="indefinite" />`
-        : ''
+      .map((page, pageIndex) => {
+        const pageBegin = pageIndex * pageDuration
+        const pageEnd = pageBegin + pageDuration
+        const pageAnimation = pageCount > 1
+            ? `<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.035;${((pageDuration - 0.35) / cycle).toFixed(3)};${(pageDuration / cycle).toFixed(3)};1" dur="${cycle}s" begin="${pageBegin}s" repeatCount="indefinite" />`
+            : ''
 
-      return `
+        return `
         <g opacity="${pageIndex === 0 ? 1 : 0}">
           ${pageAnimation}
           ${page.map((item, index) => renderRankRow({
-            item,
-            theme,
-            renderId,
-            x,
-            y: y + index * rowHeight,
-            width,
-            rowHeight,
-            delay: pageCount > 1 ? pageBegin + index * 0.14 : index * 0.14,
-            cycle: pageCount > 1 ? cycle : 0,
-            pageEnd,
-          })).join('')}
+          item,
+          theme,
+          renderId,
+          x,
+          y: y + index * rowHeight,
+          width,
+          rowHeight,
+          delay: pageCount > 1 ? pageBegin + index * 0.14 : index * 0.14,
+          cycle: pageCount > 1 ? cycle : 0,
+          pageEnd,
+        })).join('')}
         </g>
       `
-    })
-    .join('')
+      })
+      .join('')
 }
 
 function renderWeekPanel({ theme, rank, x, y }) {
@@ -255,14 +255,15 @@ function renderWeekPanel({ theme, rank, x, y }) {
 
   return `
     <g transform="translate(${x} ${y})">
-      <rect width="224" height="212" rx="8" fill="${theme.surfaceAlt}" stroke="${theme.border}" />
+      <rect width="238" height="224" rx="8" fill="${theme.surfaceAlt}" />
       <text x="18" y="44" font-size="12" fill="${theme.muted}" font-weight="800" letter-spacing="1">THIS WEEK</text>
       <text x="18" y="89" font-size="32" fill="${theme.text}" font-weight="800">${escapeXml(label)}</text>
-      <line x1="18" y1="119" x2="206" y2="119" stroke="${theme.divider}" />
+      <line x1="18" y1="119" x2="220" y2="119" stroke="${theme.divider}" />
       <text x="18" y="151" font-size="13" fill="${theme.muted}" font-weight="700">Tracks</text>
-      <text x="206" y="151" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
+      <text x="220" y="151" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
       <text x="18" y="183" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
-      <text x="206" y="183" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
+      <text x="220" y="183" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
+      <rect x="0.5" y="0.5" width="237" height="223" rx="7.5" fill="none" stroke="${theme.border}" />
     </g>
   `
 }
@@ -274,15 +275,16 @@ function renderLargeCard({ theme, size, result, renderId }) {
     <svg width="${size.width}" height="${size.height}" viewBox="0 0 ${size.width} ${size.height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NetEase Cloud Music weekly rank GitHub style card">
       ${renderDefs({ theme, renderId })}
       <rect x="0" y="0" width="${size.width}" height="${size.height}" rx="${size.radius}" fill="${theme.canvas}" />
-      <rect x="24" y="24" width="650" height="212" rx="8" fill="${theme.surfaceAlt}" stroke="${theme.border}" />
-      <g transform="translate(24 24)">
-        <rect width="650" height="42" rx="8" fill="${theme.surface}" />
-        <line x1="0" y1="42" x2="650" y2="42" stroke="${theme.border}" />
+      <rect x="0" y="16" width="704" height="224" rx="8" fill="${theme.surfaceAlt}" />
+      <g transform="translate(0 16)">
+        <path d="M0 8Q0 0 8 0H696Q704 0 704 8V42H0Z" fill="${theme.surface}" />
+        <line x1="0" y1="42" x2="704" y2="42" stroke="${theme.border}" />
         <text x="20" y="27" font-size="13" fill="${theme.text}" font-weight="800">Weekly top plays</text>
         <text x="506" y="27" font-size="12" fill="${theme.muted}" font-weight="700">NetEase Cloud Music</text>
       </g>
-      ${renderPagedRows({ rank, theme, renderId, x: 24, y: 66, width: 650 })}
-      ${renderWeekPanel({ theme, rank, x: 712, y: 24 })}
+      ${renderPagedRows({ rank, theme, renderId, x: 0, y: 58, width: 704 })}
+      <rect x="0.5" y="16.5" width="703" height="223" rx="7.5" fill="none" stroke="${theme.border}" />
+      ${renderWeekPanel({ theme, rank, x: 722, y: 16 })}
     </svg>
   `
 }
@@ -296,8 +298,8 @@ function renderCard({ variant, size, result }) {
   const svg = renderLargeCard({ theme, size, result, renderId })
 
   return svg
-    .replace(/>\s+</g, '><')
-    .trim()
+      .replace(/>\s+</g, '><')
+      .trim()
 }
 
 module.exports = {
