@@ -24,6 +24,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Sync with remote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin "$GITHUB_REF_NAME" || git rebase --abort
+
       - name: Generate SVG cards
         env:
           NETEASE_COOKIE: ${{ secrets.NETEASE_COOKIE }}
@@ -32,9 +38,6 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin "$GITHUB_REF_NAME" || git rebase --abort
           git add cards/ data/listening-state.json README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update NetEase Cloud Music recent music"
