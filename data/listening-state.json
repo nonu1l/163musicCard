@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T16:42:41.809Z",
-  "latestSongId": 432384,
-  "weekPlayMinutes": 1610,
-  "stateSignature": "432384:1610",
-  "previousSignature": "31877076:1587",
+  "generatedAt": "2026-06-08T16:48:04.498Z",
+  "latestSongId": 2746702076,
+  "weekPlayMinutes": 1618,
+  "stateSignature": "2746702076:1618",
+  "previousSignature": "432384:1610",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 432384,
-    "name": "アストロノーツ",
-    "artists": "椎名もた / 初音ミク",
-    "album": "夢のまにまに"
+    "id": 2746702076,
+    "name": "“MOBILE SUIT GUNDAM UNICORN” suite",
+    "artists": "澤野弘之",
+    "album": "“MOBILE SUIT GUNDAM UNICORN” suite"
   }
 }
