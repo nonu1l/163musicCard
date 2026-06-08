@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T10:24:03.566Z",
-  "latestSongId": 4126140,
-  "weekPlayMinutes": 1355,
-  "stateSignature": "4126140:1355",
-  "previousSignature": "3026472:1315",
+  "generatedAt": "2026-06-08T12:45:08.716Z",
+  "latestSongId": 2759266913,
+  "weekPlayMinutes": 1381,
+  "stateSignature": "2759266913:1381",
+  "previousSignature": "4126140:1355",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4126140,
-    "name": "Got To Go",
-    "artists": "Incise",
-    "album": "Daily Methods"
+    "id": 2759266913,
+    "name": "簪花雨（Flower hairpin）",
+    "artists": "陈抒妮",
+    "album": "着万象（Let it be）"
   }
 }
