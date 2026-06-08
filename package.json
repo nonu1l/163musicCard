@@ -9,6 +9,7 @@
     "generate-cards": "node scripts/generate-cards.js",
     "update-readme": "node scripts/update-readme.js",
     "preview": "node scripts/preview-server.js",
+    "preview-card": "node scripts/preview-card.js",
     "start": "node index.js"
   },
   "keywords": [],

@@ -14,6 +14,9 @@ const mimeTypes = {
   '.js': 'text/javascript; charset=utf-8',
 }
 
+// 临时:不显示以该前缀开头的卡片目录(注释掉或清空数组即可恢复显示)
+const EXCLUDED_DIR_PREFIXES = ['classic']
+
 function loadCardOrders() {
   if (!fs.existsSync(cardDesignsDir)) return new Map()
 
@@ -40,6 +43,7 @@ function listCards() {
       const filePath = path.join(dir, file)
       const stat = fs.statSync(filePath)
       if (stat.isDirectory()) {
+        if (EXCLUDED_DIR_PREFIXES.some((prefix) => file.startsWith(prefix))) continue
         walk(filePath)
         continue
       }

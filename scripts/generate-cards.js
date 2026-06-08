@@ -59,6 +59,16 @@ function loadCardDesigns() {
     })
 }
 
+function loadPreviousListeningState() {
+  if (!fs.existsSync(listeningStatePath)) return null
+
+  try {
+    return JSON.parse(fs.readFileSync(listeningStatePath, 'utf8'))
+  } catch {
+    return null
+  }
+}
+
 async function main() {
   const cards = loadCardDesigns()
   if (!cards.length) {
@@ -69,9 +79,10 @@ async function main() {
 
   const maxLimit = Number(process.env.MUSIC_LIMIT || 5)
   const rankLimit = Number(process.env.RANK_LIMIT || 20)
+  const previousListeningState = loadPreviousListeningState()
   const recentResult = await getRecentSongs({ limit: maxLimit })
   const weeklyRank = await getWeeklyRank({ limit: rankLimit })
-  const listeningState = buildListeningState(recentResult)
+  const listeningState = buildListeningState(recentResult, previousListeningState)
   const coverCache = new Map()
 
   if (recentResult.songs?.[0]) {

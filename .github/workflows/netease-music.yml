@@ -1,6 +1,8 @@
 name: Update NetEase Cloud Music
 
 on:
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,4 +34,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update NetEase Cloud Music recent music
-          file_pattern: cards/**/*.svg README.md
+          file_pattern: cards/**/*.svg data/listening-state.json README.md

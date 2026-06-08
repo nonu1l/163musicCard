@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-06-08T08:46:06.770Z",
+  "latestSongId": 254317,
+  "weekPlayMinutes": 1260,
+  "stateSignature": "254317:1260",
+  "previousSignature": "",
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
+  "latestSong": {
+    "id": 254317,
+    "name": "如果有一天",
+    "artists": "梁静茹",
+    "album": "恋爱的力量"
+  }
+}

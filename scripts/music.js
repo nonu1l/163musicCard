@@ -219,22 +219,26 @@ async function getWeeklyRank({ limit = 20 } = {}) {
   }
 }
 
-function buildListeningState(result, now = Date.now(), graceMs = 90 * 1000) {
+function buildListeningState(result, previousState = null, now = Date.now()) {
   const latest = result.songs?.[0] || null
-  const latestPlayTime = Number(latest?.playTimeMs || 0)
-  const latestDuration = Number(latest?.durationMs || 0)
-  const expiresAt = latestPlayTime > 0
-    ? latestPlayTime + Math.max(0, latestDuration) + graceMs
-    : 0
+  const latestSongId = latest?.id || ''
+  const weekPlayMinutes = Number(result.week?.playMinutes || 0)
+  const stateSignature = `${latestSongId}:${weekPlayMinutes}`
+  const previousSignature = previousState?.stateSignature || ''
+  const stableBuildCount = latestSongId && stateSignature === previousSignature
+    ? Number(previousState?.stableBuildCount || 0) + 1
+    : latestSongId
+      ? 1
+      : 0
 
   return {
     generatedAt: new Date(now).toISOString(),
-    latestSongId: latest?.id || '',
-    latestPlayTime,
-    latestDuration,
-    graceMs,
-    expiresAt,
-    isRecentlyPlaying: expiresAt >= now,
+    latestSongId,
+    weekPlayMinutes,
+    stateSignature,
+    previousSignature,
+    stableBuildCount,
+    isRecentlyPlaying: Boolean(latestSongId) && stableBuildCount < 3,
   }
 }
 
