@@ -46,7 +46,7 @@
    - 进入 Fork 后的仓库，依次点击 **Settings → Secrets and variables → Actions → Repository secrets → New repository secret**。
    - 添加 `MUSIC_U`：对应 `.env.local` 中 `MUSIC_U=` 后面的值。
    - 添加 `NETEASE_COOKIE`：对应 `.env.local` 中 `NETEASE_COOKIE=` 后面的整段值。
-6. 在 Actions 页面手动运行 `Update NetEase Cloud Music`。定时任务每 30 分钟获取一次你的网易云听歌信息。
+6. 在 Actions 页面手动运行 `Update NetEase Cloud Music`。定时任务每 2 小时获取一次你的网易云听歌信息。
 
 运行成功后，SVG 会生成到 `cards/` 目录并自动提交。
 
