@@ -31,7 +31,12 @@ jobs:
         run: npm run generate-cards
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Update NetEase Cloud Music recent music
-          file_pattern: cards/**/*.svg data/listening-state.json README.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin "$GITHUB_REF_NAME" || git rebase --abort
+          git add cards/ data/listening-state.json README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update NetEase Cloud Music recent music"
+            git push
+          fi

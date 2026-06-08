@@ -140,3 +140,10 @@ Actions 每轮会读取并写入 data/listening-state.json，里面包含：
 3. 和上一轮不一样：stableBuildCount = 1 
 4. 连续 3 轮不变：isRecentlyPlaying = false 
 5. classic-dynamic 会因此切换到周排行卡片
+
+## 致谢
+
+本项目得以实现，离不开以下开源项目：
+
+- [NeteaseCloudMusicApi](https://www.npmjs.com/package/NeteaseCloudMusicApi)：网易云音乐 API 封装，本项目获取歌曲信息、最近播放、周排行的核心依赖。
+- [kgnio/github-profile-stats-card](https://github.com/kgnio/github-profile-stats-card)：部分卡片主题的灵感与设计参考。
