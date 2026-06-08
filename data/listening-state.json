@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-08T14:29:48.700Z",
-  "latestSongId": 1299818,
-  "weekPlayMinutes": 1486,
-  "stateSignature": "1299818:1486",
-  "previousSignature": "2759266913:1381",
+  "generatedAt": "2026-06-08T16:15:50.844Z",
+  "latestSongId": 31877076,
+  "weekPlayMinutes": 1587,
+  "stateSignature": "31877076:1587",
+  "previousSignature": "1299818:1486",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299818,
-    "name": "Without Me",
-    "artists": "Eminem",
-    "album": "The Singles (Eminem album)"
+    "id": 31877076,
+    "name": "爱与诚 (Live)",
+    "artists": "古巨基",
+    "album": "我是歌手第三季 第1期"
   }
 }
