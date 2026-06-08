@@ -143,12 +143,9 @@ function renderCover({ song, theme, renderId, x, y, size }) {
 }
 
 function renderRankBadge({ theme, rank, x, y }) {
-  const label = `#${rank}`
-
   return `
     <g transform="translate(${x} ${y})">
-      <rect width="38" height="22" rx="11" fill="${theme.badge}" fill-opacity="0.1" stroke="${theme.badge}" stroke-opacity="0.26" />
-      <text x="19" y="15" text-anchor="middle" font-size="11" fill="${theme.accent}" font-weight="800">${label}</text>
+      <text x="0" y="0" font-size="12" fill="${theme.subtle}" font-weight="800">#${rank}</text>
     </g>
   `
 }
@@ -166,9 +163,10 @@ function renderRankRow({
   pageEnd,
 }) {
   const song = item.song || {}
-  const title = truncateToWidth(song.name || 'Unknown', 13, 232)
-  const artists = truncateToWidth(song.artists || 'Unknown artist', 11, 164)
-  const album = truncateToWidth(song.album || 'Unknown album', 11, 190)
+  const title = truncateToWidth(song.name || 'Unknown', 13, 170)
+  const titleWidth = estimateTextWidth(title, 13)
+  const artists = truncateToWidth(song.artists || 'Unknown artist', 12, Math.max(62, 252 - titleWidth))
+  const album = truncateToWidth(song.album || 'Unknown album', 12, 158)
   const playCount = Number(item.playCount || 0)
   const animation = cycle > 0
     ? {
@@ -194,11 +192,13 @@ function renderRankRow({
            <animateTransform attributeName="transform" type="translate" values="0 6;0 0" dur="0.5s" begin="${delay.toFixed(2)}s" fill="freeze" />`}
       <rect x="${x}" y="${y}" width="${width}" height="${rowHeight}" rx="0" fill="${theme.surfaceAlt}" />
       <line x1="${x}" y1="${y + rowHeight}" x2="${x + width}" y2="${y + rowHeight}" stroke="${theme.divider}" />
-      ${renderRankBadge({ theme, rank: item.rank, x: x + 14, y: y + 9 })}
-      ${renderCover({ song, theme, renderId, x: x + 64, y: y + 4, size: 26 })}
-      <text x="${x + 104}" y="${y + 14}" font-size="13" fill="${theme.text}" font-weight="700">${escapeXml(title)}</text>
-      <text x="${x + 104}" y="${y + 28}" font-size="11" fill="${theme.accent}" font-weight="700">${escapeXml(artists)}</text>
-      <text x="${x + 290}" y="${y + 28}" font-size="11" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
+      ${renderRankBadge({ theme, rank: item.rank, x: x + 18, y: y + 22 })}
+      ${renderCover({ song, theme, renderId, x: x + 54, y: y + 4, size: 26 })}
+      <text x="${x + 94}" y="${y + 22}" font-size="13" fill="${theme.text}" font-weight="700">
+        ${escapeXml(title)}
+        <tspan dx="10" font-size="12" fill="${theme.accent}" font-weight="700">${escapeXml(artists)}</tspan>
+      </text>
+      <text x="${x + 386}" y="${y + 22}" font-size="12" fill="${theme.muted}" font-weight="600">${escapeXml(album)}</text>
       <text x="${x + width - 22}" y="${y + 22}" text-anchor="end" font-size="11" fill="${theme.subtle}" font-weight="700">${formatNumber(playCount)} plays</text>
     </g>
   `
@@ -252,10 +252,8 @@ function renderPagedRows({ rank, theme, renderId, x, y, width }) {
 function renderWeekPanel({ theme, rank, x, y }) {
   const week = rank.week || {}
   const label = week.label || '0m'
-  const listenDays = Number(week.listenDays || 0)
   const totalSongs = rank.songs?.length || 0
   const topPlayCount = rank.songs?.[0]?.playCount || 0
-  const source = rank.source || 'user_record'
 
   return `
     <g transform="translate(${x} ${y})">
@@ -268,7 +266,6 @@ function renderWeekPanel({ theme, rank, x, y }) {
       <text x="206" y="151" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(totalSongs)}</text>
       <text x="18" y="179" font-size="13" fill="${theme.muted}" font-weight="700">Top plays</text>
       <text x="206" y="179" text-anchor="end" font-size="17" fill="${theme.text}" font-weight="800">${formatNumber(topPlayCount)}</text>
-      <text x="18" y="200" font-size="11" fill="${theme.subtle}" font-weight="600">${escapeXml(source)} · ${listenDays} days</text>
     </g>
   `
 }
