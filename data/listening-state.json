@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-09T12:42:22.794Z",
-  "latestSongId": 3374975194,
-  "weekPlayMinutes": 2082,
-  "stateSignature": "3374975194:2082",
-  "previousSignature": "17159438:1987",
+  "generatedAt": "2026-06-09T16:33:55.140Z",
+  "latestSongId": 3337551871,
+  "weekPlayMinutes": 2192,
+  "stateSignature": "3337551871:2192",
+  "previousSignature": "3374975194:2082",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3374975194,
-    "name": "Lonely Nights",
-    "artists": "Jux",
-    "album": "Epilogue"
+    "id": 3337551871,
+    "name": "归晓之月 (暁の月に還る)",
+    "artists": "Ruri Matsumura / 网易阴阳师手游",
+    "album": "归晓之月 (暁の月に還る)"
   }
 }
