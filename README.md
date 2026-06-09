@@ -18,14 +18,6 @@
 
 <p><img src="./cards/classic-weekly-rank/light-large.svg" width="960" alt="classic weekly rank light large" /></p>
 
-### Classic Dynamic
-
-最近有播放记录时显示 `classic`，没有最近播放时显示 `classic-weekly-rank`。
-
-<p><img src="./cards/classic-dynamic/dark-large.svg" width="960" alt="classic dynamic dark large" /></p>
-
-<p><img src="./cards/classic-dynamic/light-large.svg" width="960" alt="classic dynamic light large" /></p>
-
 ### Apple Music
 
 <p><img src="./cards/apple-music/light-large.svg" width="960" alt="apple music light large" /></p>
@@ -64,7 +56,7 @@
 <img src="./cards/classic-dynamic/light-large.svg" width="960" alt="NetEase Cloud Music Card" />
 ```
 
-明暗主题可以使用 `picture`：
+明暗主题自动切换可以使用 `picture`：
 
 ```md
 <picture>
@@ -73,6 +65,8 @@
   <img src="./cards/classic-dynamic/light-large.svg" width="960" alt="NetEase Cloud Music Card">
 </picture>
 ```
+卡片会根据你当前的系统主题进行自动切换
+
 
 ## 卡片尺寸
 
