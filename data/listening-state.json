@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-09T16:33:55.140Z",
-  "latestSongId": 3337551871,
-  "weekPlayMinutes": 2192,
-  "stateSignature": "3337551871:2192",
-  "previousSignature": "3374975194:2082",
+  "generatedAt": "2026-06-09T20:12:56.648Z",
+  "latestSongId": 26625541,
+  "weekPlayMinutes": 2301,
+  "stateSignature": "26625541:2301",
+  "previousSignature": "3337551871:2192",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3337551871,
-    "name": "归晓之月 (暁の月に還る)",
-    "artists": "Ruri Matsumura / 网易阴阳师手游",
-    "album": "归晓之月 (暁の月に還る)"
+    "id": 26625541,
+    "name": "The Moment That Time Stood Still",
+    "artists": "Near Light",
+    "album": "Near Light: All B-Sides"
   }
 }
