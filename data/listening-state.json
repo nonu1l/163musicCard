@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-09T06:32:14.068Z",
-  "latestSongId": 22764969,
-  "weekPlayMinutes": 1786,
-  "stateSignature": "22764969:1786",
-  "previousSignature": "2608096507:1778",
+  "generatedAt": "2026-06-09T09:55:24.282Z",
+  "latestSongId": 17159438,
+  "weekPlayMinutes": 1987,
+  "stateSignature": "17159438:1987",
+  "previousSignature": "22764969:1786",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22764969,
-    "name": "The beginning",
-    "artists": "絢香",
-    "album": "The beginning"
+    "id": 17159438,
+    "name": "Empathy",
+    "artists": "Crystal Castles",
+    "album": "(II)"
   }
 }
