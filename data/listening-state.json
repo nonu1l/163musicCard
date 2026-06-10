@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-10T10:12:39.389Z",
-  "latestSongId": 1297721,
-  "weekPlayMinutes": 2662,
-  "stateSignature": "1297721:2662",
-  "previousSignature": "1297721:2660",
+  "generatedAt": "2026-06-10T15:51:24.117Z",
+  "latestSongId": 3346323827,
+  "weekPlayMinutes": 2955,
+  "stateSignature": "3346323827:2955",
+  "previousSignature": "1297721:2662",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1297721,
-    "name": "So Bad",
-    "artists": "Eminem",
-    "album": "Recovery (Deluxe Edition)"
+    "id": 3346323827,
+    "name": "I Believe",
+    "artists": "Dan Romer",
+    "album": "Stranger Things: The Orchestral Cues (from the Netflix Series)"
   }
 }
