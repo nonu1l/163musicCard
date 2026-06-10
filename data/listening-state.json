@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-10T18:34:11.221Z",
-  "latestSongId": 1299923,
-  "weekPlayMinutes": 3109,
-  "stateSignature": "1299923:3109",
-  "previousSignature": "3346323827:2955",
+  "generatedAt": "2026-06-10T22:09:06.680Z",
+  "latestSongId": 22668847,
+  "weekPlayMinutes": 3271,
+  "stateSignature": "22668847:3271",
+  "previousSignature": "1299923:3109",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299923,
-    "name": "Sing For The Moment (Instrumental)",
-    "artists": "Eminem",
-    "album": "Sing For The Moment"
+    "id": 22668847,
+    "name": "Et cetera (Live TOUR in YOKOHAMA ARENA)",
+    "artists": "ONE OK ROCK",
+    "album": "Zankyou Reference Tour"
   }
 }
