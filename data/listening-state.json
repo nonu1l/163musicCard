@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-10T15:51:24.117Z",
-  "latestSongId": 3346323827,
-  "weekPlayMinutes": 2955,
-  "stateSignature": "3346323827:2955",
-  "previousSignature": "1297721:2662",
+  "generatedAt": "2026-06-10T18:34:11.221Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 3109,
+  "stateSignature": "1299923:3109",
+  "previousSignature": "3346323827:2955",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3346323827,
-    "name": "I Believe",
-    "artists": "Dan Romer",
-    "album": "Stranger Things: The Orchestral Cues (from the Netflix Series)"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
