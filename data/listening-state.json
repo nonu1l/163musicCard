@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-10T04:13:12.928Z",
-  "latestSongId": 792228,
-  "weekPlayMinutes": 2430,
-  "stateSignature": "792228:2430",
-  "previousSignature": "26093064:2388",
+  "generatedAt": "2026-06-10T09:46:48.811Z",
+  "latestSongId": 1297721,
+  "weekPlayMinutes": 2660,
+  "stateSignature": "1297721:2660",
+  "previousSignature": "792228:2430",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 792228,
-    "name": "夜光虫",
-    "artists": "N-tone",
-    "album": "やさしくひかるかえでのき"
+    "id": 1297721,
+    "name": "So Bad",
+    "artists": "Eminem",
+    "album": "Recovery (Deluxe Edition)"
   }
 }
