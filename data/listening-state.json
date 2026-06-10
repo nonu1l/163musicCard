@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-09T23:20:35.637Z",
-  "latestSongId": 26093064,
-  "weekPlayMinutes": 2388,
-  "stateSignature": "26093064:2388",
-  "previousSignature": "26625541:2301",
+  "generatedAt": "2026-06-10T04:13:12.928Z",
+  "latestSongId": 792228,
+  "weekPlayMinutes": 2430,
+  "stateSignature": "792228:2430",
+  "previousSignature": "26093064:2388",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26093064,
-    "name": "Sacred Play Secret Place",
-    "artists": "Matryoshka",
-    "album": "Laideronnette"
+    "id": 792228,
+    "name": "夜光虫",
+    "artists": "N-tone",
+    "album": "やさしくひかるかえでのき"
   }
 }
