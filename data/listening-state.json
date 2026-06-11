@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-11T16:12:10.289Z",
-  "latestSongId": 512989806,
-  "weekPlayMinutes": 3731,
-  "stateSignature": "512989806:3731",
-  "previousSignature": "28534502:3580",
+  "generatedAt": "2026-06-11T20:28:10.782Z",
+  "latestSongId": 31134633,
+  "weekPlayMinutes": 3865,
+  "stateSignature": "31134633:3865",
+  "previousSignature": "512989806:3731",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 512989806,
-    "name": "A Story of Fate",
-    "artists": "Jannik",
-    "album": "A Story of Fate"
+    "id": 31134633,
+    "name": "《夜色钢琴曲》在一起的时光",
+    "artists": "赵海洋",
+    "album": "《夜色钢琴曲》"
   }
 }
