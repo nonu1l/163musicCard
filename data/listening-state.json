@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-11T20:28:10.782Z",
+  "generatedAt": "2026-06-11T23:41:02.424Z",
   "latestSongId": 31134633,
-  "weekPlayMinutes": 3865,
-  "stateSignature": "31134633:3865",
-  "previousSignature": "512989806:3731",
+  "weekPlayMinutes": 3863,
+  "stateSignature": "31134633:3863",
+  "previousSignature": "31134633:3865",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
