@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T10:22:31.557Z",
-  "latestSongId": 28164935,
-  "weekPlayMinutes": 4258,
-  "stateSignature": "28164935:4258",
-  "previousSignature": "441532:3930",
+  "generatedAt": "2026-06-12T15:27:50.413Z",
+  "latestSongId": 28912900,
+  "weekPlayMinutes": 4552,
+  "stateSignature": "28912900:4552",
+  "previousSignature": "28164935:4258",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28164935,
-    "name": "Hidden Path",
-    "artists": "Sleep Dealer",
-    "album": "Imminence"
+    "id": 28912900,
+    "name": "Firefly Evanesces",
+    "artists": "SeikoP",
+    "album": "Lune"
   }
 }
