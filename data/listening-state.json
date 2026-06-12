@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-12T15:27:50.413Z",
-  "latestSongId": 28912900,
-  "weekPlayMinutes": 4552,
-  "stateSignature": "28912900:4552",
-  "previousSignature": "28164935:4258",
+  "generatedAt": "2026-06-12T18:11:45.974Z",
+  "latestSongId": 2029209290,
+  "weekPlayMinutes": 4706,
+  "stateSignature": "2029209290:4706",
+  "previousSignature": "28912900:4552",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28912900,
-    "name": "Firefly Evanesces",
-    "artists": "SeikoP",
-    "album": "Lune"
+    "id": 2029209290,
+    "name": "Better With You",
+    "artists": "ZuWay / 陈韩",
+    "album": "Better With You"
   }
 }
