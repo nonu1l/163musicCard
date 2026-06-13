@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-13T04:17:06.376Z",
-  "latestSongId": 31066264,
-  "weekPlayMinutes": 4776,
-  "stateSignature": "31066264:4776",
+  "generatedAt": "2026-06-13T09:24:37.658Z",
+  "latestSongId": 1900273314,
+  "weekPlayMinutes": 4909,
+  "stateSignature": "1900273314:4909",
   "previousSignature": "31066264:4776",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31066264,
-    "name": "PSYCHO-PASS (Movie Mix)",
-    "artists": "菅野祐悟",
-    "album": "「PSYCHO-PASS サイコパス」Complete Original Soundtrack 2"
+    "id": 1900273314,
+    "name": "记忆管理局2.0",
+    "artists": "我好困",
+    "album": "记忆管理局 概念PV原声"
   }
 }
