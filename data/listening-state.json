@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-12T23:23:08.184Z",
+  "generatedAt": "2026-06-13T04:17:06.376Z",
   "latestSongId": 31066264,
   "weekPlayMinutes": 4776,
   "stateSignature": "31066264:4776",
   "previousSignature": "31066264:4776",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 31066264,
     "name": "PSYCHO-PASS (Movie Mix)",
