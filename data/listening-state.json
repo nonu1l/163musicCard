@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-14T21:19:00.208Z",
-  "latestSongId": 1306386508,
-  "weekPlayMinutes": 710,
-  "stateSignature": "1306386508:710",
-  "previousSignature": "2003591:685",
+  "generatedAt": "2026-06-14T23:13:46.932Z",
+  "latestSongId": 4017240,
+  "weekPlayMinutes": 748,
+  "stateSignature": "4017240:748",
+  "previousSignature": "1306386508:710",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1306386508,
-    "name": "Fall",
-    "artists": "Eminem",
-    "album": "Kamikaze"
+    "id": 4017240,
+    "name": "Intro",
+    "artists": "Dreamtale",
+    "album": "Beyond Reality"
   }
 }
