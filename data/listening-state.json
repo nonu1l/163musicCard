@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-14T15:50:32.234Z",
-  "latestSongId": 26093064,
-  "weekPlayMinutes": 473,
-  "stateSignature": "26093064:473",
-  "previousSignature": "27669599:286",
+  "generatedAt": "2026-06-14T17:24:47.652Z",
+  "latestSongId": 1408700819,
+  "weekPlayMinutes": 567,
+  "stateSignature": "1408700819:567",
+  "previousSignature": "26093064:473",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26093064,
-    "name": "Sacred Play Secret Place",
-    "artists": "Matryoshka",
-    "album": "Laideronnette"
+    "id": 1408700819,
+    "name": "Blue Monday",
+    "artists": "Sebastian Böhm",
+    "album": "Blue Monday"
   }
 }
