@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-14T09:44:56.943Z",
-  "latestSongId": 2004658236,
-  "weekPlayMinutes": 164,
-  "stateSignature": "2004658236:164",
-  "previousSignature": "1900273314:4917",
+  "generatedAt": "2026-06-14T12:02:03.334Z",
+  "latestSongId": 27669599,
+  "weekPlayMinutes": 286,
+  "stateSignature": "27669599:286",
+  "previousSignature": "2004658236:164",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2004658236,
-    "name": "I Really Want to Stay at Your House (Cyberpunk)",
-    "artists": "Rifti Beats",
-    "album": "I Really Want to Stay at Your House (Cyberpunk)"
+    "id": 27669599,
+    "name": "Lithium (Acoustic Piano Mix)",
+    "artists": "Blue Horizon / Shyprince",
+    "album": "Lithium"
   }
 }
