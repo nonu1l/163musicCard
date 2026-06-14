@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-13T23:11:31.290Z",
+  "generatedAt": "2026-06-14T04:44:13.962Z",
   "latestSongId": 1900273314,
-  "weekPlayMinutes": 4909,
-  "stateSignature": "1900273314:4909",
+  "weekPlayMinutes": 4917,
+  "stateSignature": "1900273314:4917",
   "previousSignature": "1900273314:4909",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 1900273314,
     "name": "记忆管理局2.0",
