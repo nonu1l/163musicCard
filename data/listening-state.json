@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-15T04:59:38.563Z",
-  "latestSongId": 4017240,
-  "weekPlayMinutes": 751,
-  "stateSignature": "4017240:751",
-  "previousSignature": "4017240:748",
+  "generatedAt": "2026-06-15T12:28:14.072Z",
+  "latestSongId": 22701841,
+  "weekPlayMinutes": 1253,
+  "stateSignature": "22701841:1253",
+  "previousSignature": "4017240:751",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4017240,
-    "name": "Intro",
-    "artists": "Dreamtale",
-    "album": "Beyond Reality"
+    "id": 22701841,
+    "name": "人間ってそんなものね",
+    "artists": "KOKIA",
+    "album": "trip trip"
   }
 }
