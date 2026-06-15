@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-15T12:28:14.072Z",
-  "latestSongId": 22701841,
-  "weekPlayMinutes": 1253,
-  "stateSignature": "22701841:1253",
-  "previousSignature": "4017240:751",
+  "generatedAt": "2026-06-15T18:43:09.240Z",
+  "latestSongId": 32166864,
+  "weekPlayMinutes": 1595,
+  "stateSignature": "32166864:1595",
+  "previousSignature": "22701841:1253",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22701841,
-    "name": "人間ってそんなものね",
-    "artists": "KOKIA",
-    "album": "trip trip"
+    "id": 32166864,
+    "name": "Uncontrollable",
+    "artists": "小林未郁 / mpi",
+    "album": "XenobladeX Original Soundtrack"
   }
 }
