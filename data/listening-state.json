@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-16T17:05:19.761Z",
-  "latestSongId": 22731539,
-  "weekPlayMinutes": 3176,
-  "stateSignature": "22731539:3176",
-  "previousSignature": "2010701483:3062",
+  "generatedAt": "2026-06-16T21:09:22.940Z",
+  "latestSongId": 1408763802,
+  "weekPlayMinutes": 3376,
+  "stateSignature": "1408763802:3376",
+  "previousSignature": "22731539:3176",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22731539,
-    "name": "a fruitless love",
-    "artists": "梶浦由記",
-    "album": "歴史秘話ヒストリアオリジナル・サウンドトラック2"
+    "id": 1408763802,
+    "name": "朧月夜",
+    "artists": "神前暁",
+    "album": "《阴阳师：百闻牌》OST"
   }
 }
