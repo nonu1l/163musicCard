@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-16T11:21:54.052Z",
-  "latestSongId": 2010701483,
-  "weekPlayMinutes": 3062,
-  "stateSignature": "2010701483:3062",
-  "previousSignature": "2114420586:2691",
+  "generatedAt": "2026-06-16T17:05:19.761Z",
+  "latestSongId": 22731539,
+  "weekPlayMinutes": 3176,
+  "stateSignature": "22731539:3176",
+  "previousSignature": "2010701483:3062",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2010701483,
-    "name": "Apocrypha I: Warrior's Vigil",
-    "artists": "Satellite Empire / DREAMOIR",
-    "album": "Apocrypha I: Warrior's Vigil"
+    "id": 22731539,
+    "name": "a fruitless love",
+    "artists": "梶浦由記",
+    "album": "歴史秘話ヒストリアオリジナル・サウンドトラック2"
   }
 }
