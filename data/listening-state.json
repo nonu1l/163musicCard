@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-16T21:09:22.940Z",
-  "latestSongId": 1408763802,
-  "weekPlayMinutes": 3376,
-  "stateSignature": "1408763802:3376",
-  "previousSignature": "22731539:3176",
+  "generatedAt": "2026-06-16T23:26:45.058Z",
+  "latestSongId": 730792,
+  "weekPlayMinutes": 3378,
+  "stateSignature": "730792:3378",
+  "previousSignature": "1408763802:3376",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1408763802,
-    "name": "朧月夜",
-    "artists": "神前暁",
-    "album": "《阴阳师：百闻牌》OST"
+    "id": 730792,
+    "name": "夕暮れ赤とんぼ…",
+    "artists": "Foxtail-Grass Studio",
+    "album": "Remember*C -autumn-"
   }
 }
