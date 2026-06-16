@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-15T22:23:17.236Z",
-  "latestSongId": 589937,
-  "weekPlayMinutes": 1852,
-  "stateSignature": "589937:1852",
-  "previousSignature": "32166864:1595",
+  "generatedAt": "2026-06-16T05:00:00.463Z",
+  "latestSongId": 2114420586,
+  "weekPlayMinutes": 2691,
+  "stateSignature": "2114420586:2691",
+  "previousSignature": "589937:1852",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 589937,
-    "name": "blues in my heaven",
-    "artists": "菅野よう子",
-    "album": "映画「阿修羅城の瞳」オリジナルサウンドトラック"
+    "id": 2114420586,
+    "name": "时间机器 - Extended Version",
+    "artists": "DEEPEST",
+    "album": "时间机器 Original Soundtrack"
   }
 }
