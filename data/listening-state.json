@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-16T05:00:00.463Z",
-  "latestSongId": 2114420586,
-  "weekPlayMinutes": 2691,
-  "stateSignature": "2114420586:2691",
-  "previousSignature": "589937:1852",
+  "generatedAt": "2026-06-16T11:21:54.052Z",
+  "latestSongId": 2010701483,
+  "weekPlayMinutes": 3062,
+  "stateSignature": "2010701483:3062",
+  "previousSignature": "2114420586:2691",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2114420586,
-    "name": "时间机器 - Extended Version",
-    "artists": "DEEPEST",
-    "album": "时间机器 Original Soundtrack"
+    "id": 2010701483,
+    "name": "Apocrypha I: Warrior's Vigil",
+    "artists": "Satellite Empire / DREAMOIR",
+    "album": "Apocrypha I: Warrior's Vigil"
   }
 }
