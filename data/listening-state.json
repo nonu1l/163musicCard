@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T04:44:45.919Z",
-  "latestSongId": 730792,
-  "weekPlayMinutes": 3378,
-  "stateSignature": "730792:3378",
+  "generatedAt": "2026-06-17T06:04:28.818Z",
+  "latestSongId": 31140621,
+  "weekPlayMinutes": 3380,
+  "stateSignature": "31140621:3380",
   "previousSignature": "730792:3378",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 730792,
-    "name": "夕暮れ赤とんぼ…",
-    "artists": "Foxtail-Grass Studio",
-    "album": "Remember*C -autumn-"
+    "id": 31140621,
+    "name": "clean",
+    "artists": "天門",
+    "album": "Sunflower"
   }
 }
