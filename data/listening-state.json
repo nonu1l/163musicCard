@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T06:04:28.818Z",
-  "latestSongId": 31140621,
-  "weekPlayMinutes": 3380,
-  "stateSignature": "31140621:3380",
-  "previousSignature": "730792:3378",
+  "generatedAt": "2026-06-17T11:06:49.831Z",
+  "latestSongId": 441102365,
+  "weekPlayMinutes": 3679,
+  "stateSignature": "441102365:3679",
+  "previousSignature": "31140621:3380",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31140621,
-    "name": "clean",
-    "artists": "天門",
-    "album": "Sunflower"
+    "id": 441102365,
+    "name": "Burning Desire",
+    "artists": "Hudson Mohawke",
+    "album": "Ded Sec - Watch Dogs 2 (Original Game Soundtrack)"
   }
 }
