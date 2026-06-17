@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T15:47:51.971Z",
-  "latestSongId": 1970324170,
-  "weekPlayMinutes": 3938,
-  "stateSignature": "1970324170:3938",
-  "previousSignature": "441102365:3679",
+  "generatedAt": "2026-06-17T18:29:33.879Z",
+  "latestSongId": 1948477767,
+  "weekPlayMinutes": 4092,
+  "stateSignature": "1948477767:4092",
+  "previousSignature": "1970324170:3938",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1970324170,
-    "name": "秋日",
-    "artists": "大五度Major_Fifth",
-    "album": "秋日（ft. Junny@瀚海澜汐）"
+    "id": 1948477767,
+    "name": "夜",
+    "artists": "彩文乐队ColorfulBar",
+    "album": "夜"
   }
 }
