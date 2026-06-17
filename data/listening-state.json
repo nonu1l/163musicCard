@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T11:06:49.831Z",
-  "latestSongId": 441102365,
-  "weekPlayMinutes": 3679,
-  "stateSignature": "441102365:3679",
-  "previousSignature": "31140621:3380",
+  "generatedAt": "2026-06-17T15:47:51.971Z",
+  "latestSongId": 1970324170,
+  "weekPlayMinutes": 3938,
+  "stateSignature": "1970324170:3938",
+  "previousSignature": "441102365:3679",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 441102365,
-    "name": "Burning Desire",
-    "artists": "Hudson Mohawke",
-    "album": "Ded Sec - Watch Dogs 2 (Original Game Soundtrack)"
+    "id": 1970324170,
+    "name": "秋日",
+    "artists": "大五度Major_Fifth",
+    "album": "秋日（ft. Junny@瀚海澜汐）"
   }
 }
