@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T18:29:33.879Z",
-  "latestSongId": 1948477767,
-  "weekPlayMinutes": 4092,
-  "stateSignature": "1948477767:4092",
-  "previousSignature": "1970324170:3938",
+  "generatedAt": "2026-06-17T22:05:35.208Z",
+  "latestSongId": 4010876,
+  "weekPlayMinutes": 4222,
+  "stateSignature": "4010876:4222",
+  "previousSignature": "1948477767:4092",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1948477767,
-    "name": "夜",
-    "artists": "彩文乐队ColorfulBar",
-    "album": "夜"
+    "id": 4010876,
+    "name": "Fade Away",
+    "artists": "Capo Productions",
+    "album": "Escape"
   }
 }
