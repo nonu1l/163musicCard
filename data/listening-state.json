@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-17T22:05:35.208Z",
-  "latestSongId": 4010876,
-  "weekPlayMinutes": 4222,
-  "stateSignature": "4010876:4222",
-  "previousSignature": "1948477767:4092",
+  "generatedAt": "2026-06-18T04:27:37.931Z",
+  "latestSongId": 431610359,
+  "weekPlayMinutes": 4482,
+  "stateSignature": "431610359:4482",
+  "previousSignature": "4010876:4222",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4010876,
-    "name": "Fade Away",
-    "artists": "Capo Productions",
-    "album": "Escape"
+    "id": 431610359,
+    "name": "We are all kind of weird twisted and drowning",
+    "artists": "Xeuphoria",
+    "album": "Xeuphoria"
   }
 }
