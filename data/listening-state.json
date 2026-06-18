@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-18T15:38:09.514Z",
-  "latestSongId": 756561,
-  "weekPlayMinutes": 5021,
-  "stateSignature": "756561:5021",
-  "previousSignature": "1345027:4733",
+  "generatedAt": "2026-06-18T18:29:03.264Z",
+  "latestSongId": 857983,
+  "weekPlayMinutes": 5187,
+  "stateSignature": "857983:5187",
+  "previousSignature": "756561:5021",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 756561,
-    "name": "storia",
-    "artists": "Kalafina",
-    "album": "storia"
+    "id": 857983,
+    "name": "Unchanged Mind",
+    "artists": "Valentin",
+    "album": "Make You"
   }
 }
