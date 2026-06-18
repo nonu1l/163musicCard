@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-18T18:29:03.264Z",
-  "latestSongId": 857983,
-  "weekPlayMinutes": 5187,
-  "stateSignature": "857983:5187",
-  "previousSignature": "756561:5021",
+  "generatedAt": "2026-06-18T22:19:13.297Z",
+  "latestSongId": 421148106,
+  "weekPlayMinutes": 5244,
+  "stateSignature": "421148106:5244",
+  "previousSignature": "857983:5187",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 857983,
-    "name": "Unchanged Mind",
-    "artists": "Valentin",
-    "album": "Make You"
+    "id": 421148106,
+    "name": "For When You Are Alone",
+    "artists": "Xeuphoria",
+    "album": "For When You Are Alone"
   }
 }
