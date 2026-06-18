@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-18T04:27:37.931Z",
-  "latestSongId": 431610359,
-  "weekPlayMinutes": 4482,
-  "stateSignature": "431610359:4482",
-  "previousSignature": "4010876:4222",
+  "generatedAt": "2026-06-18T10:38:33.747Z",
+  "latestSongId": 1345027,
+  "weekPlayMinutes": 4733,
+  "stateSignature": "1345027:4733",
+  "previousSignature": "431610359:4482",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 431610359,
-    "name": "We are all kind of weird twisted and drowning",
-    "artists": "Xeuphoria",
-    "album": "Xeuphoria"
+    "id": 1345027,
+    "name": "Feel Like Home (feat. Styles Of Beyond)",
+    "artists": "Fort Minor / Styles of Beyond",
+    "album": "The Rising Tied"
   }
 }
