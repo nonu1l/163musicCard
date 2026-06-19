@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-19T10:46:03.788Z",
-  "latestSongId": 1485777161,
-  "weekPlayMinutes": 5505,
-  "stateSignature": "1485777161:5505",
-  "previousSignature": "857881:5293",
+  "generatedAt": "2026-06-19T15:31:36.798Z",
+  "latestSongId": 1847213004,
+  "weekPlayMinutes": 5741,
+  "stateSignature": "1847213004:5741",
+  "previousSignature": "1485777161:5505",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1485777161,
-    "name": "Rap God",
-    "artists": "Eminem",
-    "album": "The Marshall Mathers LP2"
+    "id": 1847213004,
+    "name": "Into the Sky <MODv>",
+    "artists": "SawanoHiroyuki[nZk] / Tielle",
+    "album": "Avid / Hands Up to the Sky"
   }
 }
