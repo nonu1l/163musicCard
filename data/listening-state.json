@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-19T04:56:02.643Z",
-  "latestSongId": 857881,
-  "weekPlayMinutes": 5293,
-  "stateSignature": "857881:5293",
-  "previousSignature": "421148106:5244",
+  "generatedAt": "2026-06-19T10:46:03.788Z",
+  "latestSongId": 1485777161,
+  "weekPlayMinutes": 5505,
+  "stateSignature": "1485777161:5505",
+  "previousSignature": "857881:5293",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 857881,
-    "name": "Sometime",
-    "artists": "Valentin",
-    "album": "My View"
+    "id": 1485777161,
+    "name": "Rap God",
+    "artists": "Eminem",
+    "album": "The Marshall Mathers LP2"
   }
 }
