@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-19T15:31:36.798Z",
-  "latestSongId": 1847213004,
-  "weekPlayMinutes": 5741,
-  "stateSignature": "1847213004:5741",
-  "previousSignature": "1485777161:5505",
+  "generatedAt": "2026-06-19T18:02:58.391Z",
+  "latestSongId": 31426633,
+  "weekPlayMinutes": 5889,
+  "stateSignature": "31426633:5889",
+  "previousSignature": "1847213004:5741",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1847213004,
-    "name": "Into the Sky <MODv>",
-    "artists": "SawanoHiroyuki[nZk] / Tielle",
-    "album": "Avid / Hands Up to the Sky"
+    "id": 31426633,
+    "name": "Fluquor (feat. Rin)",
+    "artists": "onoken / Rin",
+    "album": "Testimony Cytus / Deemo"
   }
 }
