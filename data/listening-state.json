@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-18T22:19:13.297Z",
-  "latestSongId": 421148106,
-  "weekPlayMinutes": 5244,
-  "stateSignature": "421148106:5244",
-  "previousSignature": "857983:5187",
+  "generatedAt": "2026-06-19T04:56:02.643Z",
+  "latestSongId": 857881,
+  "weekPlayMinutes": 5293,
+  "stateSignature": "857881:5293",
+  "previousSignature": "421148106:5244",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 421148106,
-    "name": "For When You Are Alone",
-    "artists": "Xeuphoria",
-    "album": "For When You Are Alone"
+    "id": 857881,
+    "name": "Sometime",
+    "artists": "Valentin",
+    "album": "My View"
   }
 }
