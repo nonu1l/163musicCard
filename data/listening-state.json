@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-19T18:02:58.391Z",
-  "latestSongId": 31426633,
-  "weekPlayMinutes": 5889,
-  "stateSignature": "31426633:5889",
-  "previousSignature": "1847213004:5741",
+  "generatedAt": "2026-06-19T21:13:19.386Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 5989,
+  "stateSignature": "1299923:5989",
+  "previousSignature": "31426633:5889",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31426633,
-    "name": "Fluquor (feat. Rin)",
-    "artists": "onoken / Rin",
-    "album": "Testimony Cytus / Deemo"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
