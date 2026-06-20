@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-19T23:03:29.669Z",
-  "latestSongId": 2164298706,
-  "weekPlayMinutes": 6104,
-  "stateSignature": "2164298706:6104",
-  "previousSignature": "1299923:5989",
+  "generatedAt": "2026-06-20T04:10:24.528Z",
+  "latestSongId": 2081458449,
+  "weekPlayMinutes": 6128,
+  "stateSignature": "2081458449:6128",
+  "previousSignature": "2164298706:6104",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2164298706,
-    "name": "Forgotten Words 忘れじの言の葉 (feat. GUMI) [English Ver.]",
-    "artists": "未来古代楽団 / GUMI",
-    "album": "Forgotten Words 忘れじの言の葉"
+    "id": 2081458449,
+    "name": "How Do You Do (nightcore)",
+    "artists": "Enether / beFour",
+    "album": "Upbeat Nightcore Vol. 1 (nightcore)"
   }
 }
