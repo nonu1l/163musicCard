@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-20T12:01:31.826Z",
-  "latestSongId": 536099106,
-  "weekPlayMinutes": 6357,
-  "stateSignature": "536099106:6357",
-  "previousSignature": "1474401:6230",
+  "generatedAt": "2026-06-20T15:47:05.050Z",
+  "latestSongId": 2092324876,
+  "weekPlayMinutes": 6547,
+  "stateSignature": "2092324876:6547",
+  "previousSignature": "536099106:6357",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 536099106,
-    "name": "NOCTIS (FINAL FANTASY XV)",
-    "artists": "下村陽子",
-    "album": "Final Fantasy 30th Anniversary Tracks 1987 – 2017"
+    "id": 2092324876,
+    "name": "M3",
+    "artists": "Les Apollo",
+    "album": "M3"
   }
 }
