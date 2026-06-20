@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-20T17:39:20.820Z",
-  "latestSongId": 2759266913,
+  "generatedAt": "2026-06-20T19:45:00.384Z",
+  "latestSongId": 1459281273,
   "weekPlayMinutes": 6560,
-  "stateSignature": "2759266913:6560",
-  "previousSignature": "2092324876:6547",
+  "stateSignature": "1459281273:6560",
+  "previousSignature": "2759266913:6560",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2759266913,
-    "name": "簪花雨（Flower hairpin）",
-    "artists": "陈抒妮",
-    "album": "着万象（Let it be）"
+    "id": 1459281273,
+    "name": "お礼参り",
+    "artists": "羽生まゐご",
+    "album": "魔性のカマトト"
   }
 }
