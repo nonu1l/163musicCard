@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-20T09:26:52.466Z",
-  "latestSongId": 1474401,
-  "weekPlayMinutes": 6230,
-  "stateSignature": "1474401:6230",
-  "previousSignature": "2081458449:6128",
+  "generatedAt": "2026-06-20T12:01:31.826Z",
+  "latestSongId": 536099106,
+  "weekPlayMinutes": 6357,
+  "stateSignature": "536099106:6357",
+  "previousSignature": "1474401:6230",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1474401,
-    "name": "4 Minutes",
-    "artists": "Timbaland / Justin Timberlake / Madonna",
-    "album": "Mr. Timberlake"
+    "id": 536099106,
+    "name": "NOCTIS (FINAL FANTASY XV)",
+    "artists": "下村陽子",
+    "album": "Final Fantasy 30th Anniversary Tracks 1987 – 2017"
   }
 }
