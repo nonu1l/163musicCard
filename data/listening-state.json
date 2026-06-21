@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-21T04:51:56.110Z",
-  "latestSongId": 2114419823,
-  "weekPlayMinutes": 6553,
-  "stateSignature": "2114419823:6553",
-  "previousSignature": "2114419823:6560",
+  "generatedAt": "2026-06-21T09:57:39.164Z",
+  "latestSongId": 437876,
+  "weekPlayMinutes": 353,
+  "stateSignature": "437876:353",
+  "previousSignature": "2114419823:6553",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2114419823,
-    "name": "纤维",
-    "artists": "林忆莲",
-    "album": "0 (2024版)"
+    "id": 437876,
+    "name": "冬のサクラ",
+    "artists": "市川淳",
+    "album": "日曜剧场 冬のサクラ オリジナル・サウンドトラック"
   }
 }
