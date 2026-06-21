@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-21T21:20:08.109Z",
+  "generatedAt": "2026-06-21T23:20:41.046Z",
   "latestSongId": 22736726,
   "weekPlayMinutes": 784,
   "stateSignature": "22736726:784",
   "previousSignature": "22736726:784",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 22736726,
     "name": "青空が渗んだ日",
