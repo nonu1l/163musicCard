@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-21T17:46:56.354Z",
-  "latestSongId": 766272,
-  "weekPlayMinutes": 733,
-  "stateSignature": "766272:733",
-  "previousSignature": "4010814:655",
+  "generatedAt": "2026-06-21T19:51:12.877Z",
+  "latestSongId": 22736726,
+  "weekPlayMinutes": 784,
+  "stateSignature": "22736726:784",
+  "previousSignature": "766272:733",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 766272,
-    "name": "秋风のとおり道",
-    "artists": "趣味工房にんじんわいん",
-    "album": "飒 HAYATE 风神华伝"
+    "id": 22736726,
+    "name": "青空が渗んだ日",
+    "artists": "THE MUSMUS",
+    "album": "射的"
   }
 }
