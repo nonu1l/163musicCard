@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-21T15:57:44.749Z",
-  "latestSongId": 4010814,
-  "weekPlayMinutes": 655,
-  "stateSignature": "4010814:655",
-  "previousSignature": "471934:469",
+  "generatedAt": "2026-06-21T17:46:56.354Z",
+  "latestSongId": 766272,
+  "weekPlayMinutes": 733,
+  "stateSignature": "766272:733",
+  "previousSignature": "4010814:655",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4010814,
-    "name": "Sogni d'oro",
-    "artists": "Capo Productions",
-    "album": "Music Dreams"
+    "id": 766272,
+    "name": "秋风のとおり道",
+    "artists": "趣味工房にんじんわいん",
+    "album": "飒 HAYATE 风神华伝"
   }
 }
