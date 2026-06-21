@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-21T12:16:19.415Z",
-  "latestSongId": 471934,
-  "weekPlayMinutes": 469,
-  "stateSignature": "471934:469",
-  "previousSignature": "437876:353",
+  "generatedAt": "2026-06-21T15:57:44.749Z",
+  "latestSongId": 4010814,
+  "weekPlayMinutes": 655,
+  "stateSignature": "4010814:655",
+  "previousSignature": "471934:469",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 471934,
-    "name": "kanade",
-    "artists": "麻枝准",
-    "album": "Angel Beats! Original SoundTrack"
+    "id": 4010814,
+    "name": "Sogni d'oro",
+    "artists": "Capo Productions",
+    "album": "Music Dreams"
   }
 }
