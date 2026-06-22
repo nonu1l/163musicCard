@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-22T12:14:34.444Z",
-  "latestSongId": 28219269,
-  "weekPlayMinutes": 927,
-  "stateSignature": "28219269:927",
-  "previousSignature": "29127076:827",
+  "generatedAt": "2026-06-22T18:14:40.813Z",
+  "latestSongId": 1007581,
+  "weekPlayMinutes": 1240,
+  "stateSignature": "1007581:1240",
+  "previousSignature": "28219269:927",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28219269,
-    "name": "あの小さな星空",
-    "artists": "月代彩",
-    "album": "AD:60"
+    "id": 1007581,
+    "name": "Only One",
+    "artists": "Alex Band",
+    "album": "We've All Been There"
   }
 }
