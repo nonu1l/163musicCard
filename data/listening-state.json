@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-22T18:14:40.813Z",
-  "latestSongId": 1007581,
-  "weekPlayMinutes": 1240,
-  "stateSignature": "1007581:1240",
-  "previousSignature": "28219269:927",
+  "generatedAt": "2026-06-22T22:08:36.036Z",
+  "latestSongId": 2663693139,
+  "weekPlayMinutes": 1333,
+  "stateSignature": "2663693139:1333",
+  "previousSignature": "1007581:1240",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1007581,
-    "name": "Only One",
-    "artists": "Alex Band",
-    "album": "We've All Been There"
+    "id": 2663693139,
+    "name": "The Seed of Dreams",
+    "artists": "Shymie / 幻塔手游",
+    "album": "The Seed of Dreams"
   }
 }
