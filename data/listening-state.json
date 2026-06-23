@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-23T12:38:01.826Z",
-  "latestSongId": 22770035,
-  "weekPlayMinutes": 1464,
-  "stateSignature": "22770035:1464",
+  "generatedAt": "2026-06-23T16:29:08.336Z",
+  "latestSongId": 2091087128,
+  "weekPlayMinutes": 1645,
+  "stateSignature": "2091087128:1645",
   "previousSignature": "22770035:1464",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22770035,
-    "name": "Planetes",
-    "artists": "EGOIST",
-    "album": "Extra terrestrial Biological Entities"
+    "id": 2091087128,
+    "name": "そらごと",
+    "artists": "rinri / 鳴花ヒメ",
+    "album": "the 90 days of summer"
   }
 }
