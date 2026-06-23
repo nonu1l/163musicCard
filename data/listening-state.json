@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-23T04:00:29.069Z",
-  "latestSongId": 2663693139,
-  "weekPlayMinutes": 1333,
-  "stateSignature": "2663693139:1333",
+  "generatedAt": "2026-06-23T09:52:54.793Z",
+  "latestSongId": 22770035,
+  "weekPlayMinutes": 1464,
+  "stateSignature": "22770035:1464",
   "previousSignature": "2663693139:1333",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2663693139,
-    "name": "The Seed of Dreams",
-    "artists": "Shymie / 幻塔手游",
-    "album": "The Seed of Dreams"
+    "id": 22770035,
+    "name": "Planetes",
+    "artists": "EGOIST",
+    "album": "Extra terrestrial Biological Entities"
   }
 }
