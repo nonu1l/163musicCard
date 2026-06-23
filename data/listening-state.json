@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-23T16:29:08.336Z",
-  "latestSongId": 2091087128,
-  "weekPlayMinutes": 1645,
-  "stateSignature": "2091087128:1645",
-  "previousSignature": "22770035:1464",
+  "generatedAt": "2026-06-23T20:12:25.032Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 1853,
+  "stateSignature": "1299923:1853",
+  "previousSignature": "2091087128:1645",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2091087128,
-    "name": "そらごと",
-    "artists": "rinri / 鳴花ヒメ",
-    "album": "the 90 days of summer"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
