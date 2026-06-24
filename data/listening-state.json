@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-24T19:53:13.277Z",
-  "latestSongId": 1364362045,
-  "weekPlayMinutes": 2456,
-  "stateSignature": "1364362045:2456",
-  "previousSignature": "529668906:2298",
+  "generatedAt": "2026-06-24T21:26:40.910Z",
+  "latestSongId": 518077040,
+  "weekPlayMinutes": 2465,
+  "stateSignature": "518077040:2465",
+  "previousSignature": "1364362045:2456",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1364362045,
-    "name": "Homicide",
-    "artists": "Logic / Eminem",
-    "album": "Confessions of a Dangerous Mind"
+    "id": 518077040,
+    "name": "Walk On Water",
+    "artists": "Eminem / Beyoncé",
+    "album": "Revival"
   }
 }
