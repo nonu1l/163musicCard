@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-24T12:22:18.747Z",
-  "latestSongId": 2116719047,
-  "weekPlayMinutes": 2099,
-  "stateSignature": "2116719047:2099",
-  "previousSignature": "1364362045:2031",
+  "generatedAt": "2026-06-24T16:25:46.647Z",
+  "latestSongId": 529668906,
+  "weekPlayMinutes": 2298,
+  "stateSignature": "529668906:2298",
+  "previousSignature": "2116719047:2099",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2116719047,
-    "name": "夢遊",
-    "artists": "tayori",
-    "album": "memento"
+    "id": 529668906,
+    "name": "Where Are You (Duet Vers.)",
+    "artists": "Kan R. Gao",
+    "album": "Finding Paradise Soundtrack"
   }
 }
