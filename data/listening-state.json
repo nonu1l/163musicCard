@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-24T09:40:12.695Z",
-  "latestSongId": 1364362045,
-  "weekPlayMinutes": 2031,
-  "stateSignature": "1364362045:2031",
-  "previousSignature": "1437311884:2027",
+  "generatedAt": "2026-06-24T12:22:18.747Z",
+  "latestSongId": 2116719047,
+  "weekPlayMinutes": 2099,
+  "stateSignature": "2116719047:2099",
+  "previousSignature": "1364362045:2031",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1364362045,
-    "name": "Homicide",
-    "artists": "Logic / Eminem",
-    "album": "Confessions of a Dangerous Mind"
+    "id": 2116719047,
+    "name": "夢遊",
+    "artists": "tayori",
+    "album": "memento"
   }
 }
