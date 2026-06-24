@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-24T04:02:54.093Z",
-  "latestSongId": 1437311884,
-  "weekPlayMinutes": 2027,
-  "stateSignature": "1437311884:2027",
-  "previousSignature": "691506:1940",
+  "generatedAt": "2026-06-24T09:40:12.695Z",
+  "latestSongId": 1364362045,
+  "weekPlayMinutes": 2031,
+  "stateSignature": "1364362045:2031",
+  "previousSignature": "1437311884:2027",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1437311884,
-    "name": "溺れるナイフ-Chasing Kou/追逐阿航（Öxacillis remix）",
-    "artists": "Öxacillis",
-    "album": "Chasing Kou"
+    "id": 1364362045,
+    "name": "Homicide",
+    "artists": "Logic / Eminem",
+    "album": "Confessions of a Dangerous Mind"
   }
 }
