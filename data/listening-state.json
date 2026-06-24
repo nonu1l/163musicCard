@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-24T16:25:46.647Z",
-  "latestSongId": 529668906,
-  "weekPlayMinutes": 2298,
-  "stateSignature": "529668906:2298",
-  "previousSignature": "2116719047:2099",
+  "generatedAt": "2026-06-24T19:53:13.277Z",
+  "latestSongId": 1364362045,
+  "weekPlayMinutes": 2456,
+  "stateSignature": "1364362045:2456",
+  "previousSignature": "529668906:2298",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 529668906,
-    "name": "Where Are You (Duet Vers.)",
-    "artists": "Kan R. Gao",
-    "album": "Finding Paradise Soundtrack"
+    "id": 1364362045,
+    "name": "Homicide",
+    "artists": "Logic / Eminem",
+    "album": "Confessions of a Dangerous Mind"
   }
 }
