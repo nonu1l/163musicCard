@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-25T16:29:35.534Z",
-  "latestSongId": 22753346,
-  "weekPlayMinutes": 2824,
-  "stateSignature": "22753346:2824",
-  "previousSignature": "523249566:2668",
+  "generatedAt": "2026-06-25T20:08:38.021Z",
+  "latestSongId": 3335815618,
+  "weekPlayMinutes": 3007,
+  "stateSignature": "3335815618:3007",
+  "previousSignature": "22753346:2824",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22753346,
-    "name": "Ego",
-    "artists": "Hiroyuki Sawano",
-    "album": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2"
+    "id": 3335815618,
+    "name": "また夢の中で (feat. 歌愛ユキ)",
+    "artists": "シチウム / 歌愛ユキ",
+    "album": "DreamFog"
   }
 }
