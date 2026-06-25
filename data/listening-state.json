@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-25T09:32:33.402Z",
-  "latestSongId": 26569499,
+  "generatedAt": "2026-06-25T12:26:16.560Z",
+  "latestSongId": 523249566,
   "weekPlayMinutes": 2668,
-  "stateSignature": "26569499:2668",
-  "previousSignature": "518077040:2465",
+  "stateSignature": "523249566:2668",
+  "previousSignature": "26569499:2668",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26569499,
-    "name": "The Ecstasy Of Gold",
-    "artists": "Chill Loungers",
-    "album": "Nostalgie Café 3"
+    "id": 523249566,
+    "name": "Tragic Endings",
+    "artists": "Eminem / Skylar Grey",
+    "album": "Revival"
   }
 }
