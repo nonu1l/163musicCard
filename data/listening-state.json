@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-25T12:26:16.560Z",
-  "latestSongId": 523249566,
-  "weekPlayMinutes": 2668,
-  "stateSignature": "523249566:2668",
-  "previousSignature": "26569499:2668",
+  "generatedAt": "2026-06-25T16:29:35.534Z",
+  "latestSongId": 22753346,
+  "weekPlayMinutes": 2824,
+  "stateSignature": "22753346:2824",
+  "previousSignature": "523249566:2668",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 523249566,
-    "name": "Tragic Endings",
-    "artists": "Eminem / Skylar Grey",
-    "album": "Revival"
+    "id": 22753346,
+    "name": "Ego",
+    "artists": "Hiroyuki Sawano",
+    "album": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2"
   }
 }
