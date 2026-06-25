@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-24T23:09:39.185Z",
+  "generatedAt": "2026-06-25T04:03:17.320Z",
   "latestSongId": 518077040,
   "weekPlayMinutes": 2465,
   "stateSignature": "518077040:2465",
   "previousSignature": "518077040:2465",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 518077040,
     "name": "Walk On Water",
