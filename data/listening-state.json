@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-25T04:03:17.320Z",
-  "latestSongId": 518077040,
-  "weekPlayMinutes": 2465,
-  "stateSignature": "518077040:2465",
+  "generatedAt": "2026-06-25T09:32:33.402Z",
+  "latestSongId": 26569499,
+  "weekPlayMinutes": 2668,
+  "stateSignature": "26569499:2668",
   "previousSignature": "518077040:2465",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 518077040,
-    "name": "Walk On Water",
-    "artists": "Eminem / Beyoncé",
-    "album": "Revival"
+    "id": 26569499,
+    "name": "The Ecstasy Of Gold",
+    "artists": "Chill Loungers",
+    "album": "Nostalgie Café 3"
   }
 }
