@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-26T04:10:27.424Z",
-  "latestSongId": 3335815618,
-  "weekPlayMinutes": 3007,
-  "stateSignature": "3335815618:3007",
+  "generatedAt": "2026-06-26T09:37:12.957Z",
+  "latestSongId": 1861938220,
+  "weekPlayMinutes": 3146,
+  "stateSignature": "1861938220:3146",
   "previousSignature": "3335815618:3007",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3335815618,
-    "name": "また夢の中で (feat. 歌愛ユキ)",
-    "artists": "シチウム / 歌愛ユキ",
-    "album": "DreamFog"
+    "id": 1861938220,
+    "name": "DIE IN THE SEA (2021 Ver.)",
+    "artists": "sakanauosakana",
+    "album": "DIE IN THE SEA (2021 Ver.)"
   }
 }
