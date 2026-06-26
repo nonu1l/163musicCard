@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-25T23:22:51.092Z",
+  "generatedAt": "2026-06-26T04:10:27.424Z",
   "latestSongId": 3335815618,
   "weekPlayMinutes": 3007,
   "stateSignature": "3335815618:3007",
   "previousSignature": "3335815618:3007",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3335815618,
     "name": "また夢の中で (feat. 歌愛ユキ)",
