@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-26T12:15:11.262Z",
-  "latestSongId": 2704709111,
-  "weekPlayMinutes": 3303,
-  "stateSignature": "2704709111:3303",
-  "previousSignature": "1861938220:3146",
+  "generatedAt": "2026-06-26T16:21:31.813Z",
+  "latestSongId": 29544794,
+  "weekPlayMinutes": 3543,
+  "stateSignature": "29544794:3543",
+  "previousSignature": "2704709111:3303",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2704709111,
-    "name": "21",
-    "artists": "Lcz-Sv",
-    "album": "21"
+    "id": 29544794,
+    "name": "Everything",
+    "artists": "Yinyues",
+    "album": "Everything"
   }
 }
