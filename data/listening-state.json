@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-26T09:37:12.957Z",
-  "latestSongId": 1861938220,
-  "weekPlayMinutes": 3146,
-  "stateSignature": "1861938220:3146",
-  "previousSignature": "3335815618:3007",
+  "generatedAt": "2026-06-26T12:15:11.262Z",
+  "latestSongId": 2704709111,
+  "weekPlayMinutes": 3303,
+  "stateSignature": "2704709111:3303",
+  "previousSignature": "1861938220:3146",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1861938220,
-    "name": "DIE IN THE SEA (2021 Ver.)",
-    "artists": "sakanauosakana",
-    "album": "DIE IN THE SEA (2021 Ver.)"
+    "id": 2704709111,
+    "name": "21",
+    "artists": "Lcz-Sv",
+    "album": "21"
   }
 }
