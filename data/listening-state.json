@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-26T16:21:31.813Z",
-  "latestSongId": 29544794,
-  "weekPlayMinutes": 3543,
-  "stateSignature": "29544794:3543",
-  "previousSignature": "2704709111:3303",
+  "generatedAt": "2026-06-26T19:57:43.421Z",
+  "latestSongId": 2610954677,
+  "weekPlayMinutes": 3585,
+  "stateSignature": "2610954677:3585",
+  "previousSignature": "29544794:3543",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29544794,
-    "name": "Everything",
-    "artists": "Yinyues",
-    "album": "Everything"
+    "id": 2610954677,
+    "name": "梦的流光 Dreams Aglow",
+    "artists": "陈致逸 / 无尽梦回",
+    "album": "赴梦之约"
   }
 }
