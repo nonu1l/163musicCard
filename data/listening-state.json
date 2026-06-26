@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-26T21:25:17.022Z",
+  "generatedAt": "2026-06-26T23:12:51.476Z",
   "latestSongId": 2610954677,
   "weekPlayMinutes": 3585,
   "stateSignature": "2610954677:3585",
   "previousSignature": "2610954677:3585",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 2610954677,
     "name": "梦的流光 Dreams Aglow",
