@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-27T15:19:51.065Z",
-  "latestSongId": 4949130,
-  "weekPlayMinutes": 3622,
-  "stateSignature": "4949130:3622",
-  "previousSignature": "27902187:3602",
+  "generatedAt": "2026-06-27T17:17:08.629Z",
+  "latestSongId": 3335815618,
+  "weekPlayMinutes": 3663,
+  "stateSignature": "3335815618:3663",
+  "previousSignature": "4949130:3622",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4949130,
-    "name": "ふたりの未来",
-    "artists": "忍",
-    "album": "星空のメモリア サウンドコレクション"
+    "id": 3335815618,
+    "name": "また夢の中で (feat. 歌愛ユキ)",
+    "artists": "シチウム / 歌愛ユキ",
+    "album": "DreamFog"
   }
 }
