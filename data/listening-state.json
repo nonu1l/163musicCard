@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-27T10:14:20.432Z",
-  "latestSongId": 2610954677,
-  "weekPlayMinutes": 3585,
-  "stateSignature": "2610954677:3585",
+  "generatedAt": "2026-06-27T13:54:09.337Z",
+  "latestSongId": 27902187,
+  "weekPlayMinutes": 3602,
+  "stateSignature": "27902187:3602",
   "previousSignature": "2610954677:3585",
-  "stableBuildCount": 6,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2610954677,
-    "name": "梦的流光 Dreams Aglow",
-    "artists": "陈致逸 / 无尽梦回",
-    "album": "赴梦之约"
+    "id": 27902187,
+    "name": "The Monster",
+    "artists": "Eminem / Rihanna",
+    "album": "The Monster"
   }
 }
