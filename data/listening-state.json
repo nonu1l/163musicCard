@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-27T23:08:35.087Z",
+  "generatedAt": "2026-06-28T04:18:47.593Z",
   "latestSongId": 1417093533,
   "weekPlayMinutes": 3663,
   "stateSignature": "1417093533:3663",
   "previousSignature": "1417093533:3663",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1417093533,
     "name": "Godzilla",
