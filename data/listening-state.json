@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-28T15:24:30.380Z",
-  "latestSongId": 1857318023,
-  "weekPlayMinutes": 588,
-  "stateSignature": "1857318023:588",
-  "previousSignature": "33891269:509",
+  "generatedAt": "2026-06-28T17:19:00.275Z",
+  "latestSongId": 1300885884,
+  "weekPlayMinutes": 698,
+  "stateSignature": "1300885884:698",
+  "previousSignature": "1857318023:588",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1857318023,
-    "name": "Broken Heart of Gold (Acoustic)",
-    "artists": "ONE OK ROCK",
-    "album": "Broken Heart of Gold (Acoustic)"
+    "id": 1300885884,
+    "name": "Not in Love",
+    "artists": "Tyler Morrison",
+    "album": "Not in Love"
   }
 }
