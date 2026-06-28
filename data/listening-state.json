@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-28T09:18:34.880Z",
-  "latestSongId": 1987017378,
-  "weekPlayMinutes": 278,
-  "stateSignature": "1987017378:278",
-  "previousSignature": "1417093533:3663",
+  "generatedAt": "2026-06-28T11:49:14.625Z",
+  "latestSongId": 4109274,
+  "weekPlayMinutes": 424,
+  "stateSignature": "4109274:424",
+  "previousSignature": "1987017378:278",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1987017378,
-    "name": "CRY",
-    "artists": "Tielle",
-    "album": "CRY"
+    "id": 4109274,
+    "name": "Lullabye For Ian",
+    "artists": "Hypomanie",
+    "album": "Calm Down, You Weren’t Set On Fire"
   }
 }
