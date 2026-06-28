@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-28T11:49:14.625Z",
-  "latestSongId": 4109274,
-  "weekPlayMinutes": 424,
-  "stateSignature": "4109274:424",
-  "previousSignature": "1987017378:278",
+  "generatedAt": "2026-06-28T13:59:59.793Z",
+  "latestSongId": 33891269,
+  "weekPlayMinutes": 509,
+  "stateSignature": "33891269:509",
+  "previousSignature": "4109274:424",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4109274,
-    "name": "Lullabye For Ian",
-    "artists": "Hypomanie",
-    "album": "Calm Down, You Weren’t Set On Fire"
+    "id": 33891269,
+    "name": "肉のソナタ",
+    "artists": "加藤達也",
+    "album": "TVアニメ「食戟のソーマ」オリジナルサウンドトラック1"
   }
 }
