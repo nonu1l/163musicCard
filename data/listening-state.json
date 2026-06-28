@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-28T21:08:20.280Z",
-  "latestSongId": 1417093533,
-  "weekPlayMinutes": 721,
-  "stateSignature": "1417093533:721",
-  "previousSignature": "2116200180:721",
+  "generatedAt": "2026-06-28T23:09:19.039Z",
+  "latestSongId": 28219269,
+  "weekPlayMinutes": 727,
+  "stateSignature": "28219269:727",
+  "previousSignature": "1417093533:721",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1417093533,
-    "name": "Godzilla",
-    "artists": "Eminem / Juice WRLD",
-    "album": "Music To Be Murdered By"
+    "id": 28219269,
+    "name": "あの小さな星空",
+    "artists": "月代彩",
+    "album": "AD:60"
   }
 }
