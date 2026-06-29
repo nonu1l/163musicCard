@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-29T04:25:23.432Z",
+  "generatedAt": "2026-06-29T11:10:29.117Z",
   "latestSongId": 28219269,
   "weekPlayMinutes": 727,
   "stateSignature": "28219269:727",
   "previousSignature": "28219269:727",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 28219269,
     "name": "あの小さな星空",
