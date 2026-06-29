@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-29T21:38:38.849Z",
-  "latestSongId": 3344743950,
-  "weekPlayMinutes": 818,
-  "stateSignature": "3344743950:818",
-  "previousSignature": "34078322:810",
+  "generatedAt": "2026-06-29T23:02:50.148Z",
+  "latestSongId": 26625535,
+  "weekPlayMinutes": 900,
+  "stateSignature": "26625535:900",
+  "previousSignature": "3344743950:818",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3344743950,
-    "name": "To Be Alive",
-    "artists": "HACHI",
-    "album": "Revealia"
+    "id": 26625535,
+    "name": "Sheltered From The Storm II",
+    "artists": "Syzygys",
+    "album": "Near Light: All B-Sides"
   }
 }
