@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-29T11:10:29.117Z",
-  "latestSongId": 28219269,
-  "weekPlayMinutes": 727,
-  "stateSignature": "28219269:727",
+  "generatedAt": "2026-06-29T15:56:07.106Z",
+  "latestSongId": 3357869089,
+  "weekPlayMinutes": 750,
+  "stateSignature": "3357869089:750",
   "previousSignature": "28219269:727",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28219269,
-    "name": "あの小さな星空",
-    "artists": "月代彩",
-    "album": "AD:60"
+    "id": 3357869089,
+    "name": "Life is Reason",
+    "artists": "Daniel Pemberton",
+    "album": "Project Hail Mary (Original Motion Picture Score)"
   }
 }
