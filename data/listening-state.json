@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-29T18:14:14.201Z",
-  "latestSongId": 34078322,
-  "weekPlayMinutes": 810,
-  "stateSignature": "34078322:810",
-  "previousSignature": "3357869089:750",
+  "generatedAt": "2026-06-29T21:38:38.849Z",
+  "latestSongId": 3344743950,
+  "weekPlayMinutes": 818,
+  "stateSignature": "3344743950:818",
+  "previousSignature": "34078322:810",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34078322,
-    "name": "Answer",
-    "artists": "V.A.",
-    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
+    "id": 3344743950,
+    "name": "To Be Alive",
+    "artists": "HACHI",
+    "album": "Revealia"
   }
 }
