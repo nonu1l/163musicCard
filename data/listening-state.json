@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-29T15:56:07.106Z",
-  "latestSongId": 3357869089,
-  "weekPlayMinutes": 750,
-  "stateSignature": "3357869089:750",
-  "previousSignature": "28219269:727",
+  "generatedAt": "2026-06-29T18:14:14.201Z",
+  "latestSongId": 34078322,
+  "weekPlayMinutes": 810,
+  "stateSignature": "34078322:810",
+  "previousSignature": "3357869089:750",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3357869089,
-    "name": "Life is Reason",
-    "artists": "Daniel Pemberton",
-    "album": "Project Hail Mary (Original Motion Picture Score)"
+    "id": 34078322,
+    "name": "Answer",
+    "artists": "V.A.",
+    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
   }
 }
