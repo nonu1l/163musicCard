@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-30T09:49:53.903Z",
-  "latestSongId": 407889870,
+  "generatedAt": "2026-06-30T12:14:04.019Z",
+  "latestSongId": 254672,
   "weekPlayMinutes": 924,
-  "stateSignature": "407889870:924",
+  "stateSignature": "254672:924",
   "previousSignature": "407889870:924",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 407889870,
-    "name": "Days to Come",
-    "artists": "Lola Marsh",
-    "album": "You're Mine"
+    "id": 254672,
+    "name": "错过",
+    "artists": "梁咏琪",
+    "album": "礼物"
   }
 }
