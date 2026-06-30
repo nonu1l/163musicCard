@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-30T12:14:04.019Z",
-  "latestSongId": 254672,
-  "weekPlayMinutes": 924,
-  "stateSignature": "254672:924",
-  "previousSignature": "407889870:924",
+  "generatedAt": "2026-06-30T16:24:30.993Z",
+  "latestSongId": 27483167,
+  "weekPlayMinutes": 928,
+  "stateSignature": "27483167:928",
+  "previousSignature": "254672:924",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 254672,
-    "name": "错过",
-    "artists": "梁咏琪",
-    "album": "礼物"
+    "id": 27483167,
+    "name": "唯一",
+    "artists": "王力宏",
+    "album": "唯一"
   }
 }
