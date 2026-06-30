@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-30T20:05:30.969Z",
-  "latestSongId": 147757,
-  "weekPlayMinutes": 938,
-  "stateSignature": "147757:938",
-  "previousSignature": "27483167:928",
+  "generatedAt": "2026-06-30T23:17:40.100Z",
+  "latestSongId": 1483378372,
+  "weekPlayMinutes": 941,
+  "stateSignature": "1483378372:941",
+  "previousSignature": "147757:938",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 147757,
-    "name": "求佛",
-    "artists": "誓言",
-    "album": "求佛"
+    "id": 1483378372,
+    "name": "Piano in the Sky",
+    "artists": "Winona Oak",
+    "album": "Piano In The Sky"
   }
 }
