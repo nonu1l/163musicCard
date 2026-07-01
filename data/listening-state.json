@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-01T09:59:01.924Z",
-  "latestSongId": 34078322,
-  "weekPlayMinutes": 998,
-  "stateSignature": "34078322:998",
-  "previousSignature": "1483378372:941",
+  "generatedAt": "2026-07-01T12:42:11.490Z",
+  "latestSongId": 17572180,
+  "weekPlayMinutes": 1154,
+  "stateSignature": "17572180:1154",
+  "previousSignature": "34078322:998",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34078322,
-    "name": "Answer",
-    "artists": "V.A.",
-    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
+    "id": 17572180,
+    "name": "Beautiful",
+    "artists": "Eminem",
+    "album": "Relapse: Refill"
   }
 }
