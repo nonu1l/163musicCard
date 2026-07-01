@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-01T16:29:51.899Z",
-  "latestSongId": 2010701483,
-  "weekPlayMinutes": 1283,
-  "stateSignature": "2010701483:1283",
-  "previousSignature": "17572180:1154",
+  "generatedAt": "2026-07-01T20:02:51.008Z",
+  "latestSongId": 29897949,
+  "weekPlayMinutes": 1474,
+  "stateSignature": "29897949:1474",
+  "previousSignature": "2010701483:1283",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2010701483,
-    "name": "Apocrypha I: Warrior's Vigil",
-    "artists": "Satellite Empire / DREAMOIR",
-    "album": "Apocrypha I: Warrior's Vigil"
+    "id": 29897949,
+    "name": "Medley: 井 / 留白 (Live)",
+    "artists": "张敬轩 / 王菀之",
+    "album": "Hins Live in Passion 张敬轩演唱会 2014"
   }
 }
