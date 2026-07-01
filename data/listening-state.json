@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-01T04:21:14.651Z",
-  "latestSongId": 1483378372,
-  "weekPlayMinutes": 941,
-  "stateSignature": "1483378372:941",
+  "generatedAt": "2026-07-01T09:59:01.924Z",
+  "latestSongId": 34078322,
+  "weekPlayMinutes": 998,
+  "stateSignature": "34078322:998",
   "previousSignature": "1483378372:941",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1483378372,
-    "name": "Piano in the Sky",
-    "artists": "Winona Oak",
-    "album": "Piano In The Sky"
+    "id": 34078322,
+    "name": "Answer",
+    "artists": "V.A.",
+    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
   }
 }
