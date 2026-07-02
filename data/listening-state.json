@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-02T09:21:41.977Z",
-  "latestSongId": 1313107926,
-  "weekPlayMinutes": 1500,
-  "stateSignature": "1313107926:1500",
-  "previousSignature": "29897949:1474",
+  "generatedAt": "2026-07-02T12:12:04.793Z",
+  "latestSongId": 2681729932,
+  "weekPlayMinutes": 1599,
+  "stateSignature": "2681729932:1599",
+  "previousSignature": "1313107926:1500",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1313107926,
-    "name": "攀登 (Live)",
-    "artists": "潘玮柏 / G.E.M.邓紫棋 / 艾热 AIR",
-    "album": "中国新说唱 第13期"
+    "id": 2681729932,
+    "name": "Love In The Dark (Stutter House)",
+    "artists": "YaKio / Wehti",
+    "album": "i cant love.."
   }
 }
