@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-02T12:12:04.793Z",
-  "latestSongId": 2681729932,
+  "generatedAt": "2026-07-02T16:07:19.570Z",
+  "latestSongId": 1434794087,
   "weekPlayMinutes": 1599,
-  "stateSignature": "2681729932:1599",
-  "previousSignature": "1313107926:1500",
+  "stateSignature": "1434794087:1599",
+  "previousSignature": "2681729932:1599",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2681729932,
-    "name": "Love In The Dark (Stutter House)",
-    "artists": "YaKio / Wehti",
-    "album": "i cant love.."
+    "id": 1434794087,
+    "name": "Children of the Dark",
+    "artists": "Mono Inc.",
+    "album": "Symphonies of Pain - Hits and Rarities"
   }
 }
