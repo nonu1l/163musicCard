@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-02T04:00:37.248Z",
-  "latestSongId": 29897949,
-  "weekPlayMinutes": 1474,
-  "stateSignature": "29897949:1474",
+  "generatedAt": "2026-07-02T09:21:41.977Z",
+  "latestSongId": 1313107926,
+  "weekPlayMinutes": 1500,
+  "stateSignature": "1313107926:1500",
   "previousSignature": "29897949:1474",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29897949,
-    "name": "Medley: 井 / 留白 (Live)",
-    "artists": "张敬轩 / 王菀之",
-    "album": "Hins Live in Passion 张敬轩演唱会 2014"
+    "id": 1313107926,
+    "name": "攀登 (Live)",
+    "artists": "潘玮柏 / G.E.M.邓紫棋 / 艾热 AIR",
+    "album": "中国新说唱 第13期"
   }
 }
