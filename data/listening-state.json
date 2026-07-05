@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-05T19:25:27.516Z",
-  "latestSongId": 77092,
-  "weekPlayMinutes": 43,
-  "stateSignature": "77092:43",
-  "previousSignature": "104241:38",
+  "generatedAt": "2026-07-05T21:07:37.764Z",
+  "latestSongId": 81834,
+  "weekPlayMinutes": 49,
+  "stateSignature": "81834:49",
+  "previousSignature": "77092:43",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 77092,
-    "name": "海角七号",
-    "artists": "东来东往",
-    "album": "路过爱"
+    "id": 81834,
+    "name": "放生",
+    "artists": "范逸臣",
+    "album": "不说出的温柔"
   }
 }
