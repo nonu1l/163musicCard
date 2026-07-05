@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-05T03:56:27.265Z",
+  "generatedAt": "2026-07-05T07:34:08.353Z",
   "latestSongId": 1434794087,
-  "weekPlayMinutes": 1599,
-  "stateSignature": "1434794087:1599",
+  "weekPlayMinutes": 0,
+  "stateSignature": "1434794087:0",
   "previousSignature": "1434794087:1599",
-  "stableBuildCount": 22,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 1434794087,
     "name": "Children of the Dark",
