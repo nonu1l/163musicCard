@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-05T10:21:48.165Z",
-  "latestSongId": 1434794087,
-  "weekPlayMinutes": 0,
-  "stateSignature": "1434794087:0",
+  "generatedAt": "2026-07-05T13:51:05.787Z",
+  "latestSongId": 408212296,
+  "weekPlayMinutes": 38,
+  "stateSignature": "408212296:38",
   "previousSignature": "1434794087:0",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1434794087,
-    "name": "Children of the Dark",
-    "artists": "Mono Inc.",
-    "album": "Symphonies of Pain - Hits and Rarities"
+    "id": 408212296,
+    "name": "Elizabeth Taylor",
+    "artists": "Clare Maguire",
+    "album": "Stranger Things Have Happened"
   }
 }
