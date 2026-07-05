@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-05T17:17:24.667Z",
-  "latestSongId": 104241,
-  "weekPlayMinutes": 38,
-  "stateSignature": "104241:38",
-  "previousSignature": "408212296:38",
+  "generatedAt": "2026-07-05T19:25:27.516Z",
+  "latestSongId": 77092,
+  "weekPlayMinutes": 43,
+  "stateSignature": "77092:43",
+  "previousSignature": "104241:38",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 104241,
-    "name": "生日礼物",
-    "artists": "江涛",
-    "album": "等到花没开"
+    "id": 77092,
+    "name": "海角七号",
+    "artists": "东来东往",
+    "album": "路过爱"
   }
 }
