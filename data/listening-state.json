@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-05T15:17:21.154Z",
-  "latestSongId": 408212296,
+  "generatedAt": "2026-07-05T17:17:24.667Z",
+  "latestSongId": 104241,
   "weekPlayMinutes": 38,
-  "stateSignature": "408212296:38",
+  "stateSignature": "104241:38",
   "previousSignature": "408212296:38",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 408212296,
-    "name": "Elizabeth Taylor",
-    "artists": "Clare Maguire",
-    "album": "Stranger Things Have Happened"
+    "id": 104241,
+    "name": "生日礼物",
+    "artists": "江涛",
+    "album": "等到花没开"
   }
 }
