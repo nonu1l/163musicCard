@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-06T15:44:38.765Z",
-  "latestSongId": 81834,
-  "weekPlayMinutes": 56,
-  "stateSignature": "81834:56",
+  "generatedAt": "2026-07-06T18:14:26.926Z",
+  "latestSongId": 498124,
+  "weekPlayMinutes": 60,
+  "stateSignature": "498124:60",
   "previousSignature": "81834:56",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 81834,
-    "name": "放生",
-    "artists": "范逸臣",
-    "album": "不说出的温柔"
+    "id": 498124,
+    "name": "Βασιλευζ",
+    "artists": "澤野弘之",
+    "album": "ギルティクラウン オリジナルサウンドトラック"
   }
 }
