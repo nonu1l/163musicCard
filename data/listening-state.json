@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T21:40:16.624Z",
+  "generatedAt": "2026-07-06T23:12:33.337Z",
   "latestSongId": 498124,
   "weekPlayMinutes": 60,
   "stateSignature": "498124:60",
   "previousSignature": "498124:60",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 498124,
     "name": "Βασιλευζ",
