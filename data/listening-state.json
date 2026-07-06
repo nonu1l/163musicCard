@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T04:03:05.371Z",
+  "generatedAt": "2026-07-06T10:48:12.017Z",
   "latestSongId": 81834,
-  "weekPlayMinutes": 49,
-  "stateSignature": "81834:49",
+  "weekPlayMinutes": 56,
+  "stateSignature": "81834:56",
   "previousSignature": "81834:49",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 81834,
     "name": "放生",
