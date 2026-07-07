@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-07T07:45:52.041Z",
-  "latestSongId": 234321,
-  "weekPlayMinutes": 60,
-  "stateSignature": "234321:60",
-  "previousSignature": "498124:60",
+  "generatedAt": "2026-07-07T11:13:27.118Z",
+  "latestSongId": 347758,
+  "weekPlayMinutes": 129,
+  "stateSignature": "347758:129",
+  "previousSignature": "234321:60",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 234321,
-    "name": "明年今日(Live)",
-    "artists": "关淑怡",
-    "album": "Unexpected Shirley Kwan In Concert 2008 Live"
+    "id": 347758,
+    "name": "大地",
+    "artists": "Beyond",
+    "album": "秘密警察"
   }
 }
