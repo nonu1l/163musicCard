@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-08T06:32:46.238Z",
-  "latestSongId": 31452487,
-  "weekPlayMinutes": 182,
-  "stateSignature": "31452487:182",
+  "generatedAt": "2026-07-08T10:23:56.806Z",
+  "latestSongId": 1807799505,
+  "weekPlayMinutes": 186,
+  "stateSignature": "1807799505:186",
   "previousSignature": "31452487:182",
-  "stableBuildCount": 6,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31452487,
-    "name": "Stay",
-    "artists": "Crywolf / Ianborg",
-    "album": "Runaway"
+    "id": 1807799505,
+    "name": "唯一",
+    "artists": "告五人",
+    "album": "运气来得若有似无"
   }
 }
