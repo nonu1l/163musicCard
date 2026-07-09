@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-09T11:19:24.018Z",
-  "latestSongId": 409353,
-  "weekPlayMinutes": 224,
-  "stateSignature": "409353:224",
-  "previousSignature": "409353:223",
+  "generatedAt": "2026-07-09T15:20:53.513Z",
+  "latestSongId": 108660,
+  "weekPlayMinutes": 258,
+  "stateSignature": "108660:258",
+  "previousSignature": "409353:224",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 409353,
-    "name": "さくらさくら ~ Japanize Dream",
-    "artists": "Demetori",
-    "album": "如臨深遠 ～雨縒煙柳～"
+    "id": 108660,
+    "name": "爱要怎么说出口",
+    "artists": "赵传",
+    "album": "作品李宗盛"
   }
 }
