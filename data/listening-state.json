@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-09T15:20:53.513Z",
-  "latestSongId": 108660,
-  "weekPlayMinutes": 258,
-  "stateSignature": "108660:258",
-  "previousSignature": "409353:224",
+  "generatedAt": "2026-07-09T18:01:08.346Z",
+  "latestSongId": 190246,
+  "weekPlayMinutes": 262,
+  "stateSignature": "190246:262",
+  "previousSignature": "108660:258",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 108660,
-    "name": "爱要怎么说出口",
-    "artists": "赵传",
-    "album": "作品李宗盛"
+    "id": 190246,
+    "name": "囚鸟",
+    "artists": "张宇",
+    "album": "男人的好 新歌+精选"
   }
 }
