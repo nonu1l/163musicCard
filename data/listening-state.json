@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-10T14:39:20.602Z",
-  "latestSongId": 22668864,
-  "weekPlayMinutes": 433,
-  "stateSignature": "22668864:433",
+  "generatedAt": "2026-07-10T17:50:37.253Z",
+  "latestSongId": 1851221469,
+  "weekPlayMinutes": 523,
+  "stateSignature": "1851221469:523",
   "previousSignature": "22668864:433",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22668864,
-    "name": "Intro into Mr. Gendai Speaker (Live TOUR in YOKOHAMA ARENA)",
-    "artists": "ONE OK ROCK",
-    "album": "Zankyou Reference Tour"
+    "id": 1851221469,
+    "name": "Shockwave",
+    "artists": "Marshmello",
+    "album": "Shockwave"
   }
 }
