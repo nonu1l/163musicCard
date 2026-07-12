@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-12T06:38:57.383Z",
+  "generatedAt": "2026-07-12T09:54:58.130Z",
   "latestSongId": 1851221469,
-  "weekPlayMinutes": 523,
-  "stateSignature": "1851221469:523",
+  "weekPlayMinutes": 0,
+  "stateSignature": "1851221469:0",
   "previousSignature": "1851221469:523",
-  "stableBuildCount": 16,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 1851221469,
     "name": "Shockwave",
