@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-17T10:03:08.624Z",
-  "latestSongId": 1851221469,
-  "weekPlayMinutes": 0,
-  "stateSignature": "1851221469:0",
+  "generatedAt": "2026-07-17T13:49:02.431Z",
+  "latestSongId": 2659688950,
+  "weekPlayMinutes": 4,
+  "stateSignature": "2659688950:4",
   "previousSignature": "1851221469:0",
-  "stableBuildCount": 45,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1851221469,
-    "name": "Shockwave",
-    "artists": "Marshmello",
-    "album": "Shockwave"
+    "id": 2659688950,
+    "name": "别说我的眼泪你无所谓（原唱）",
+    "artists": "东来东往",
+    "album": "别说我的眼泪你无所谓"
   }
 }
