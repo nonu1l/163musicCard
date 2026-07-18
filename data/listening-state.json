@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-18T19:11:40.387Z",
-  "latestSongId": 30706129,
+  "generatedAt": "2026-07-18T20:56:01.878Z",
+  "latestSongId": 64550,
   "weekPlayMinutes": 113,
-  "stateSignature": "30706129:113",
+  "stateSignature": "64550:113",
   "previousSignature": "30706129:113",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 30706129,
-    "name": "GLASSY SKY",
-    "artists": "Donna Burke",
-    "album": "TV ANIMATION Tokyo Ghoul Original Soundtrack"
+    "id": 64550,
+    "name": "反高潮(Live)",
+    "artists": "陈奕迅",
+    "album": "DUO 陈奕迅2010演唱会"
   }
 }
