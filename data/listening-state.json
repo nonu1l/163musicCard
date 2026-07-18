@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-18T02:52:04.430Z",
-  "latestSongId": 22736726,
-  "weekPlayMinutes": 50,
-  "stateSignature": "22736726:50",
+  "generatedAt": "2026-07-18T06:08:57.521Z",
+  "latestSongId": 30706129,
+  "weekPlayMinutes": 113,
+  "stateSignature": "30706129:113",
   "previousSignature": "22736726:50",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22736726,
-    "name": "青空が渗んだ日",
-    "artists": "THE MUSMUS",
-    "album": "射的"
+    "id": 30706129,
+    "name": "GLASSY SKY",
+    "artists": "Donna Burke",
+    "album": "TV ANIMATION Tokyo Ghoul Original Soundtrack"
   }
 }
