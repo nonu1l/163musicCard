@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-19T06:35:00.188Z",
+  "generatedAt": "2026-07-19T09:55:58.325Z",
   "latestSongId": 64550,
-  "weekPlayMinutes": 113,
-  "stateSignature": "64550:113",
+  "weekPlayMinutes": 1,
+  "stateSignature": "64550:1",
   "previousSignature": "64550:113",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 64550,
     "name": "反高潮(Live)",
