@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-23T10:27:56.342Z",
-  "latestSongId": 456175389,
-  "weekPlayMinutes": 5,
-  "stateSignature": "456175389:5",
-  "previousSignature": "1398879527:3",
+  "generatedAt": "2026-07-23T14:12:18.037Z",
+  "latestSongId": 2653125161,
+  "weekPlayMinutes": 112,
+  "stateSignature": "2653125161:112",
+  "previousSignature": "456175389:5",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 456175389,
-    "name": "百年孤寂 (Live)",
-    "artists": "狮子LION",
-    "album": "歌手 第3期"
+    "id": 2653125161,
+    "name": "无名的人",
+    "artists": "张韶涵",
+    "album": "《雄狮少年2》电影音乐专辑"
   }
 }
