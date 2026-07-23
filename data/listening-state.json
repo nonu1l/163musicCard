@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-23T06:34:21.938Z",
-  "latestSongId": 1398879527,
-  "weekPlayMinutes": 3,
-  "stateSignature": "1398879527:3",
+  "generatedAt": "2026-07-23T10:27:56.342Z",
+  "latestSongId": 456175389,
+  "weekPlayMinutes": 5,
+  "stateSignature": "456175389:5",
   "previousSignature": "1398879527:3",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1398879527,
-    "name": "Иллиум",
-    "artists": "Цифей",
-    "album": "Prometeus (Прометей)"
+    "id": 456175389,
+    "name": "百年孤寂 (Live)",
+    "artists": "狮子LION",
+    "album": "歌手 第3期"
   }
 }
