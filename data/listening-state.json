@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-23T19:25:17.418Z",
+  "generatedAt": "2026-07-23T21:09:52.779Z",
   "latestSongId": 139703,
   "weekPlayMinutes": 141,
   "stateSignature": "139703:141",
   "previousSignature": "139703:141",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 139703,
     "name": "我想更懂你",
