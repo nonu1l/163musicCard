@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-24T10:23:43.722Z",
-  "latestSongId": 139703,
-  "weekPlayMinutes": 144,
-  "stateSignature": "139703:144",
+  "generatedAt": "2026-07-24T13:55:34.927Z",
+  "latestSongId": 1886371886,
+  "weekPlayMinutes": 145,
+  "stateSignature": "1886371886:145",
   "previousSignature": "139703:144",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 139703,
-    "name": "我想更懂你",
-    "artists": "潘玮柏 / 苏芮",
-    "album": "反转地球"
+    "id": 1886371886,
+    "name": "百年孤寂",
+    "artists": "苏玮",
+    "album": "百年孤寂"
   }
 }
