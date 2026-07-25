@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-25T19:15:20.194Z",
-  "latestSongId": 114389,
+  "generatedAt": "2026-07-25T20:57:54.432Z",
+  "latestSongId": 169083,
   "weekPlayMinutes": 156,
-  "stateSignature": "114389:156",
+  "stateSignature": "169083:156",
   "previousSignature": "114389:156",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 114389,
-    "name": "你那么爱她",
-    "artists": "李圣杰",
-    "album": "音乐十年李圣杰唯一精选"
+    "id": 169083,
+    "name": "改造人",
+    "artists": "谢霆锋",
+    "album": "Believe"
   }
 }
