@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-25T09:53:44.827Z",
+  "generatedAt": "2026-07-25T11:15:18.514Z",
   "latestSongId": 114389,
   "weekPlayMinutes": 156,
   "stateSignature": "114389:156",
   "previousSignature": "114389:156",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 114389,
     "name": "你那么爱她",
