@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-25T03:14:46.564Z",
-  "latestSongId": 1886371886,
-  "weekPlayMinutes": 147,
-  "stateSignature": "1886371886:147",
-  "previousSignature": "1886371886:145",
+  "generatedAt": "2026-07-25T06:22:05.126Z",
+  "latestSongId": 114389,
+  "weekPlayMinutes": 156,
+  "stateSignature": "114389:156",
+  "previousSignature": "1886371886:147",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1886371886,
-    "name": "百年孤寂",
-    "artists": "苏玮",
-    "album": "百年孤寂"
+    "id": 114389,
+    "name": "你那么爱她",
+    "artists": "李圣杰",
+    "album": "音乐十年李圣杰唯一精选"
   }
 }
