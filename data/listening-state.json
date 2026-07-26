@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-26T06:40:51.369Z",
+  "generatedAt": "2026-07-26T10:04:37.542Z",
   "latestSongId": 2080527930,
-  "weekPlayMinutes": 156,
-  "stateSignature": "2080527930:156",
+  "weekPlayMinutes": 4,
+  "stateSignature": "2080527930:4",
   "previousSignature": "2080527930:156",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 2080527930,
     "name": "体面 (Live)",
