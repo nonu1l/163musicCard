@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-27T11:30:14.621Z",
-  "latestSongId": 2080527930,
-  "weekPlayMinutes": 4,
-  "stateSignature": "2080527930:4",
+  "generatedAt": "2026-07-27T14:47:05.254Z",
+  "latestSongId": 22785092,
+  "weekPlayMinutes": 79,
+  "stateSignature": "22785092:79",
   "previousSignature": "2080527930:4",
-  "stableBuildCount": 10,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2080527930,
-    "name": "体面 (Live)",
-    "artists": "于文文",
-    "album": "时光音乐会老友记 第1期"
+    "id": 22785092,
+    "name": "effulgence",
+    "artists": "EastNewSound",
+    "album": "Dione Aggregation the Instrumental"
   }
 }
