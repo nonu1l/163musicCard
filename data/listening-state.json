@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-27T14:47:05.254Z",
-  "latestSongId": 22785092,
-  "weekPlayMinutes": 79,
-  "stateSignature": "22785092:79",
-  "previousSignature": "2080527930:4",
+  "generatedAt": "2026-07-27T17:46:42.253Z",
+  "latestSongId": 492134310,
+  "weekPlayMinutes": 150,
+  "stateSignature": "492134310:150",
+  "previousSignature": "22785092:79",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22785092,
-    "name": "effulgence",
-    "artists": "EastNewSound",
-    "album": "Dione Aggregation the Instrumental"
+    "id": 492134310,
+    "name": "I Wanna Be Free",
+    "artists": "DJ Martinez / Carmelo Schifignano",
+    "album": "I Wanna Be Free"
   }
 }
