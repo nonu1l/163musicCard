@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-27T19:42:00.112Z",
-  "latestSongId": 534228257,
-  "weekPlayMinutes": 182,
-  "stateSignature": "534228257:182",
-  "previousSignature": "492134310:150",
+  "generatedAt": "2026-07-27T21:15:55.767Z",
+  "latestSongId": 34999896,
+  "weekPlayMinutes": 193,
+  "stateSignature": "34999896:193",
+  "previousSignature": "534228257:182",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 534228257,
-    "name": "Touch",
-    "artists": "3LAU / Carly Paige",
-    "album": "Ultraviolet"
+    "id": 34999896,
+    "name": "akisame",
+    "artists": "syatten",
+    "album": "Fruited Vagabond Vol.4"
   }
 }
