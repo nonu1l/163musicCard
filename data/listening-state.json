@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-28T02:53:24.573Z",
+  "generatedAt": "2026-07-28T06:30:46.527Z",
   "latestSongId": 1302171641,
   "weekPlayMinutes": 205,
   "stateSignature": "1302171641:205",
   "previousSignature": "1302171641:205",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1302171641,
     "name": "Dynamite (Dub Mix)",
