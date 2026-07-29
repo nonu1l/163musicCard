@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T06:35:41.417Z",
-  "latestSongId": 1302171641,
-  "weekPlayMinutes": 209,
-  "stateSignature": "1302171641:209",
+  "generatedAt": "2026-07-29T10:43:55.407Z",
+  "latestSongId": 31245972,
+  "weekPlayMinutes": 441,
+  "stateSignature": "31245972:441",
   "previousSignature": "1302171641:209",
-  "stableBuildCount": 8,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1302171641,
-    "name": "Dynamite (Dub Mix)",
-    "artists": "Suprafive",
-    "album": "SPRV (Dub Mixes)"
+    "id": 31245972,
+    "name": "religieuse",
+    "artists": "ロリィタノイロォゼ",
+    "album": "Regina･S"
   }
 }
