@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-29T10:43:55.407Z",
-  "latestSongId": 31245972,
-  "weekPlayMinutes": 441,
-  "stateSignature": "31245972:441",
-  "previousSignature": "1302171641:209",
+  "generatedAt": "2026-07-29T14:21:20.936Z",
+  "latestSongId": 189238,
+  "weekPlayMinutes": 582,
+  "stateSignature": "189238:582",
+  "previousSignature": "31245972:441",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31245972,
-    "name": "religieuse",
-    "artists": "ロリィタノイロォゼ",
-    "album": "Regina･S"
+    "id": 189238,
+    "name": "无能为力",
+    "artists": "张敬轩",
+    "album": "我的梦想我的路"
   }
 }
