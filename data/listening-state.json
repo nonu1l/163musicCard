@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-29T17:19:57.750Z",
+  "generatedAt": "2026-07-29T19:24:14.378Z",
   "latestSongId": 189238,
   "weekPlayMinutes": 582,
   "stateSignature": "189238:582",
   "previousSignature": "189238:582",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 189238,
     "name": "无能为力",
