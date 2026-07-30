@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-30T14:14:20.911Z",
-  "latestSongId": 189238,
-  "weekPlayMinutes": 582,
-  "stateSignature": "189238:582",
+  "generatedAt": "2026-07-30T17:40:18.272Z",
+  "latestSongId": 299936,
+  "weekPlayMinutes": 585,
+  "stateSignature": "299936:585",
   "previousSignature": "189238:582",
-  "stableBuildCount": 9,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 189238,
-    "name": "无能为力",
-    "artists": "张敬轩",
-    "album": "我的梦想我的路"
+    "id": 299936,
+    "name": "红豆",
+    "artists": "王菲",
+    "album": "唱游"
   }
 }
