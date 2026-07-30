@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T19:40:14.924Z",
+  "generatedAt": "2026-07-30T21:15:58.811Z",
   "latestSongId": 299936,
   "weekPlayMinutes": 585,
   "stateSignature": "299936:585",
   "previousSignature": "299936:585",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 299936,
     "name": "红豆",
