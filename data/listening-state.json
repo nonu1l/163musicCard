@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-01T13:38:25.722Z",
-  "latestSongId": 299936,
-  "weekPlayMinutes": 585,
-  "stateSignature": "299936:585",
+  "generatedAt": "2026-08-01T15:04:22.313Z",
+  "latestSongId": 29713754,
+  "weekPlayMinutes": 601,
+  "stateSignature": "29713754:601",
   "previousSignature": "299936:585",
-  "stableBuildCount": 16,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 299936,
-    "name": "红豆",
+    "id": 29713754,
+    "name": "匆匆那年",
     "artists": "王菲",
-    "album": "唱游"
+    "album": "匆匆那年"
   }
 }
