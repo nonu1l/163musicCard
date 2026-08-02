@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-02T17:05:24.675Z",
-  "latestSongId": 29713754,
-  "weekPlayMinutes": 0,
-  "stateSignature": "29713754:0",
+  "generatedAt": "2026-08-02T19:17:55.414Z",
+  "latestSongId": 1821769687,
+  "weekPlayMinutes": 7,
+  "stateSignature": "1821769687:7",
   "previousSignature": "29713754:0",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29713754,
-    "name": "匆匆那年",
-    "artists": "王菲",
-    "album": "匆匆那年"
+    "id": 1821769687,
+    "name": "男孩最痛 (Live)",
+    "artists": "张敬轩",
+    "album": "张敬轩X香港中乐团《盛乐》演唱会"
   }
 }
