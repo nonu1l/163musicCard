@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-02T13:38:45.143Z",
+  "generatedAt": "2026-08-02T15:06:27.378Z",
   "latestSongId": 29713754,
   "weekPlayMinutes": 0,
   "stateSignature": "29713754:0",
   "previousSignature": "29713754:0",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 29713754,
     "name": "匆匆那年",
