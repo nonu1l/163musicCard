@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-03T11:31:13.517Z",
-  "latestSongId": 1393152294,
-  "weekPlayMinutes": 447,
-  "stateSignature": "1393152294:447",
-  "previousSignature": "34078322:276",
+  "generatedAt": "2026-08-03T14:50:02.236Z",
+  "latestSongId": 31140621,
+  "weekPlayMinutes": 549,
+  "stateSignature": "31140621:549",
+  "previousSignature": "1393152294:447",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1393152294,
-    "name": "風の憧憬 / カエルのテーマ",
-    "artists": "Mariam Abounnasr",
-    "album": "CHRONO TRIGGER Orchestral Arrangement"
+    "id": 31140621,
+    "name": "clean",
+    "artists": "天門",
+    "album": "Sunflower"
   }
 }
