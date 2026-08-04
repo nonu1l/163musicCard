@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-03T23:07:01.603Z",
+  "generatedAt": "2026-08-04T02:56:41.666Z",
   "latestSongId": 31140621,
-  "weekPlayMinutes": 549,
-  "stateSignature": "31140621:549",
+  "weekPlayMinutes": 544,
+  "stateSignature": "31140621:544",
   "previousSignature": "31140621:549",
-  "stableBuildCount": 5,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 31140621,
     "name": "clean",
