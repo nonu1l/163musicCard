@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-04T14:27:15.951Z",
-  "latestSongId": 60398,
-  "weekPlayMinutes": 598,
-  "stateSignature": "60398:598",
-  "previousSignature": "307810:563",
+  "generatedAt": "2026-08-04T17:52:36.566Z",
+  "latestSongId": 1886371886,
+  "weekPlayMinutes": 609,
+  "stateSignature": "1886371886:609",
+  "previousSignature": "60398:598",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 60398,
-    "name": "追梦人",
-    "artists": "阿木",
-    "album": "有一种爱叫做放手"
+    "id": 1886371886,
+    "name": "百年孤寂",
+    "artists": "苏玮",
+    "album": "百年孤寂"
   }
 }
