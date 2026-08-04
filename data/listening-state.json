@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-04T19:42:54.041Z",
+  "generatedAt": "2026-08-04T21:16:23.797Z",
   "latestSongId": 1886371886,
   "weekPlayMinutes": 609,
   "stateSignature": "1886371886:609",
   "previousSignature": "1886371886:609",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1886371886,
     "name": "百年孤寂",
