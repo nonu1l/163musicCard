@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-05T19:42:08.243Z",
+  "generatedAt": "2026-08-05T21:17:13.191Z",
   "latestSongId": 466332763,
   "weekPlayMinutes": 632,
   "stateSignature": "466332763:632",
   "previousSignature": "466332763:632",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 466332763,
     "name": "The Sense Of Me & Chemicals",
