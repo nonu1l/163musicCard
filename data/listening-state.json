@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-06T10:44:24.907Z",
-  "latestSongId": 466332763,
-  "weekPlayMinutes": 632,
-  "stateSignature": "466332763:632",
+  "generatedAt": "2026-08-06T14:23:53.455Z",
+  "latestSongId": 31245972,
+  "weekPlayMinutes": 725,
+  "stateSignature": "31245972:725",
   "previousSignature": "466332763:632",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 466332763,
-    "name": "The Sense Of Me & Chemicals",
-    "artists": "Mud flow",
-    "album": "A Life On Standby"
+    "id": 31245972,
+    "name": "religieuse",
+    "artists": "ロリィタノイロォゼ",
+    "album": "Regina･S"
   }
 }
