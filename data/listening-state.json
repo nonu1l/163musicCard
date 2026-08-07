@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-06T14:23:53.455Z",
-  "latestSongId": 31245972,
-  "weekPlayMinutes": 725,
-  "stateSignature": "31245972:725",
-  "previousSignature": "466332763:632",
+  "generatedAt": "2026-08-07T00:06:21.563Z",
+  "latestSongId": 26783791,
+  "weekPlayMinutes": 832,
+  "stateSignature": "26783791:832",
+  "previousSignature": "31245972:725",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31245972,
-    "name": "religieuse",
-    "artists": "ロリィタノイロォゼ",
-    "album": "Regina･S"
+    "id": 26783791,
+    "name": "I leave the world today",
+    "artists": "Baracuda",
+    "album": "Bravo Hits 42"
   }
 }
