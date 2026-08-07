@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-07T19:03:32.616Z",
-  "latestSongId": 66895,
-  "weekPlayMinutes": 929,
-  "stateSignature": "66895:929",
+  "generatedAt": "2026-08-07T20:47:05.221Z",
+  "latestSongId": 2600747418,
+  "weekPlayMinutes": 952,
+  "stateSignature": "2600747418:952",
   "previousSignature": "66895:929",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 66895,
-    "name": "一生中最爱 (Live)",
-    "artists": "陈奕迅",
-    "album": "Third Encounter Live"
+    "id": 2600747418,
+    "name": "说谎 (live)",
+    "artists": "张远",
+    "album": "歌手2024 第7期"
   }
 }
