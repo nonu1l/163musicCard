@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T07:23:31.460Z",
+  "generatedAt": "2026-08-07T09:04:47.512Z",
   "latestSongId": 26783791,
   "weekPlayMinutes": 833,
   "stateSignature": "26783791:833",
   "previousSignature": "26783791:833",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 26783791,
     "name": "I leave the world today",
