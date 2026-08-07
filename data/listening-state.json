@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-07T10:57:13.095Z",
-  "latestSongId": 26783791,
-  "weekPlayMinutes": 833,
-  "stateSignature": "26783791:833",
+  "generatedAt": "2026-08-07T13:14:24.229Z",
+  "latestSongId": 30039379,
+  "weekPlayMinutes": 854,
+  "stateSignature": "30039379:854",
   "previousSignature": "26783791:833",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26783791,
-    "name": "I leave the world today",
-    "artists": "Baracuda",
-    "album": "Bravo Hits 42"
+    "id": 30039379,
+    "name": "炎路夜行",
+    "artists": "みとせのりこ",
+    "album": "AIRI -愛離-、炎路夜行"
   }
 }
