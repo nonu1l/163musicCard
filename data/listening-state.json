@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-07T13:14:24.229Z",
-  "latestSongId": 30039379,
-  "weekPlayMinutes": 854,
-  "stateSignature": "30039379:854",
-  "previousSignature": "26783791:833",
+  "generatedAt": "2026-08-07T14:57:29.632Z",
+  "latestSongId": 1985033435,
+  "weekPlayMinutes": 874,
+  "stateSignature": "1985033435:874",
+  "previousSignature": "30039379:854",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 30039379,
-    "name": "炎路夜行",
-    "artists": "みとせのりこ",
-    "album": "AIRI -愛離-、炎路夜行"
+    "id": 1985033435,
+    "name": "归途有风",
+    "artists": "王菲",
+    "album": "归途有风"
   }
 }
