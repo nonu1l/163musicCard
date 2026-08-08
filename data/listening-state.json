@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-08T08:48:34.503Z",
-  "latestSongId": 2600747418,
-  "weekPlayMinutes": 952,
-  "stateSignature": "2600747418:952",
+  "generatedAt": "2026-08-08T10:38:25.072Z",
+  "latestSongId": 168816,
+  "weekPlayMinutes": 965,
+  "stateSignature": "168816:965",
   "previousSignature": "2600747418:952",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2600747418,
-    "name": "说谎 (live)",
-    "artists": "张远",
-    "album": "歌手2024 第7期"
+    "id": 168816,
+    "name": "玉蝴蝶",
+    "artists": "谢霆锋",
+    "album": "玉蝴蝶"
   }
 }
