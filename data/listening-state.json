@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-08T18:44:05.254Z",
-  "latestSongId": 28191532,
+  "generatedAt": "2026-08-08T20:35:21.819Z",
+  "latestSongId": 65863,
   "weekPlayMinutes": 1014,
-  "stateSignature": "28191532:1014",
-  "previousSignature": "1926220336:1014",
+  "stateSignature": "65863:1014",
+  "previousSignature": "28191532:1014",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28191532,
-    "name": "为你我受冷风吹",
-    "artists": "胡彦斌",
-    "album": "太歌"
+    "id": 65863,
+    "name": "伤信 (Live)",
+    "artists": "陈奕迅",
+    "album": "Get A Life (Live)"
   }
 }
