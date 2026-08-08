@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-08T10:38:25.072Z",
-  "latestSongId": 168816,
-  "weekPlayMinutes": 965,
-  "stateSignature": "168816:965",
-  "previousSignature": "2600747418:952",
+  "generatedAt": "2026-08-08T12:57:37.621Z",
+  "latestSongId": 1926220336,
+  "weekPlayMinutes": 1014,
+  "stateSignature": "1926220336:1014",
+  "previousSignature": "168816:965",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 168816,
-    "name": "玉蝴蝶",
-    "artists": "谢霆锋",
-    "album": "玉蝴蝶"
+    "id": 1926220336,
+    "name": "锦上添花FREESTYLE",
+    "artists": "盛宇D-SHINE",
+    "album": "锦上添花FREESTYLE"
   }
 }
