@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-08T20:35:21.819Z",
-  "latestSongId": 65863,
+  "generatedAt": "2026-08-08T22:34:20.435Z",
+  "latestSongId": 27511488,
   "weekPlayMinutes": 1014,
-  "stateSignature": "65863:1014",
-  "previousSignature": "28191532:1014",
+  "stateSignature": "27511488:1014",
+  "previousSignature": "65863:1014",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 65863,
-    "name": "伤信 (Live)",
-    "artists": "陈奕迅",
-    "album": "Get A Life (Live)"
+    "id": 27511488,
+    "name": "你瞒我瞒",
+    "artists": "陈柏宇",
+    "album": "Quinquennium 新曲+精选"
   }
 }
