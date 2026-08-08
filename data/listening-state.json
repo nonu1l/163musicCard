@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-08T16:39:13.378Z",
-  "latestSongId": 1926220336,
+  "generatedAt": "2026-08-08T18:44:05.254Z",
+  "latestSongId": 28191532,
   "weekPlayMinutes": 1014,
-  "stateSignature": "1926220336:1014",
+  "stateSignature": "28191532:1014",
   "previousSignature": "1926220336:1014",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1926220336,
-    "name": "锦上添花FREESTYLE",
-    "artists": "盛宇D-SHINE",
-    "album": "锦上添花FREESTYLE"
+    "id": 28191532,
+    "name": "为你我受冷风吹",
+    "artists": "胡彦斌",
+    "album": "太歌"
   }
 }
