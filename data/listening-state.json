@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-09T16:41:10.668Z",
-  "latestSongId": 188838,
-  "weekPlayMinutes": 159,
-  "stateSignature": "188838:159",
-  "previousSignature": "27511488:93",
+  "generatedAt": "2026-08-09T18:48:29.138Z",
+  "latestSongId": 31997443,
+  "weekPlayMinutes": 207,
+  "stateSignature": "31997443:207",
+  "previousSignature": "188838:159",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 188838,
-    "name": "至少还有你(Live)",
-    "artists": "张敬轩",
-    "album": "903 id Club 张敬轩拉阔变奏厅 Live"
+    "id": 31997443,
+    "name": "あいのけもの",
+    "artists": "古川本舗",
+    "album": "SINGALONG7"
   }
 }
