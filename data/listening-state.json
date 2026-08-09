@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-09T02:04:27.703Z",
+  "generatedAt": "2026-08-09T05:10:24.429Z",
   "latestSongId": 27511488,
   "weekPlayMinutes": 1014,
   "stateSignature": "27511488:1014",
   "previousSignature": "27511488:1014",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 27511488,
     "name": "你瞒我瞒",
