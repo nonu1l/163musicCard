@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-09T14:39:37.877Z",
-  "latestSongId": 27511488,
-  "weekPlayMinutes": 93,
-  "stateSignature": "27511488:93",
+  "generatedAt": "2026-08-09T16:41:10.668Z",
+  "latestSongId": 188838,
+  "weekPlayMinutes": 159,
+  "stateSignature": "188838:159",
   "previousSignature": "27511488:93",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 27511488,
-    "name": "你瞒我瞒",
-    "artists": "陈柏宇",
-    "album": "Quinquennium 新曲+精选"
+    "id": 188838,
+    "name": "至少还有你(Live)",
+    "artists": "张敬轩",
+    "album": "903 id Club 张敬轩拉阔变奏厅 Live"
   }
 }
