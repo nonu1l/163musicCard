@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-09T20:37:45.160Z",
+  "generatedAt": "2026-08-09T22:35:46.271Z",
   "latestSongId": 31997443,
   "weekPlayMinutes": 207,
   "stateSignature": "31997443:207",
   "previousSignature": "31997443:207",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 31997443,
     "name": "あいのけもの",
