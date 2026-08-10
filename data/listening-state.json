@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-10T02:08:59.294Z",
-  "latestSongId": 31997443,
-  "weekPlayMinutes": 207,
-  "stateSignature": "31997443:207",
+  "generatedAt": "2026-08-10T05:36:49.163Z",
+  "latestSongId": 573531830,
+  "weekPlayMinutes": 269,
+  "stateSignature": "573531830:269",
   "previousSignature": "31997443:207",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31997443,
-    "name": "あいのけもの",
-    "artists": "古川本舗",
-    "album": "SINGALONG7"
+    "id": 573531830,
+    "name": "7 Years and 50 Days",
+    "artists": "Groove Coverage",
+    "album": "Remixes A Cascada Tribute"
   }
 }
