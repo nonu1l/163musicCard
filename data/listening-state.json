@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-10T19:03:26.567Z",
-  "latestSongId": 573531830,
+  "generatedAt": "2026-08-10T20:49:15.049Z",
+  "latestSongId": 428095487,
   "weekPlayMinutes": 270,
-  "stateSignature": "573531830:270",
-  "previousSignature": "573531830:269",
+  "stateSignature": "428095487:270",
+  "previousSignature": "573531830:270",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 573531830,
-    "name": "7 Years and 50 Days",
-    "artists": "Groove Coverage",
-    "album": "Remixes A Cascada Tribute"
+    "id": 428095487,
+    "name": "像个疯子",
+    "artists": "打扰一下乐团",
+    "album": "像个疯子"
   }
 }
