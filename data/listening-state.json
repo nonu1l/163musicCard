@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-10T07:50:02.086Z",
+  "generatedAt": "2026-08-10T09:27:17.618Z",
   "latestSongId": 573531830,
   "weekPlayMinutes": 269,
   "stateSignature": "573531830:269",
   "previousSignature": "573531830:269",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 573531830,
     "name": "7 Years and 50 Days",
