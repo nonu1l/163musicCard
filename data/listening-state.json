@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-11T13:16:17.695Z",
-  "latestSongId": 34613417,
-  "weekPlayMinutes": 451,
-  "stateSignature": "34613417:451",
+  "generatedAt": "2026-08-11T15:02:49.566Z",
+  "latestSongId": 2114419823,
+  "weekPlayMinutes": 489,
+  "stateSignature": "2114419823:489",
   "previousSignature": "34613417:451",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34613417,
-    "name": "motherhood ～me & my mom～ ＜Vocal ver.＞",
-    "artists": "関山藍果",
-    "album": "BEST OF SOUNDTRACK【emU】"
+    "id": 2114419823,
+    "name": "纤维",
+    "artists": "林忆莲",
+    "album": "0 (2024版)"
   }
 }
