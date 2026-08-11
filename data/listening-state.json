@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-11T15:02:49.566Z",
-  "latestSongId": 2114419823,
-  "weekPlayMinutes": 489,
-  "stateSignature": "2114419823:489",
-  "previousSignature": "34613417:451",
+  "generatedAt": "2026-08-11T17:01:35.931Z",
+  "latestSongId": 31245972,
+  "weekPlayMinutes": 543,
+  "stateSignature": "31245972:543",
+  "previousSignature": "2114419823:489",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2114419823,
-    "name": "纤维",
-    "artists": "林忆莲",
-    "album": "0 (2024版)"
+    "id": 31245972,
+    "name": "religieuse",
+    "artists": "ロリィタノイロォゼ",
+    "album": "Regina･S"
   }
 }
