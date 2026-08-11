@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-10T22:42:25.189Z",
+  "generatedAt": "2026-08-11T02:03:50.911Z",
   "latestSongId": 428095487,
   "weekPlayMinutes": 270,
   "stateSignature": "428095487:270",
   "previousSignature": "428095487:270",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 428095487,
     "name": "像个疯子",
