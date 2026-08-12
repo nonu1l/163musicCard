@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-12T05:40:43.888Z",
-  "latestSongId": 1300595030,
-  "weekPlayMinutes": 745,
-  "stateSignature": "1300595030:745",
-  "previousSignature": "27902187:681",
+  "generatedAt": "2026-08-12T07:39:27.038Z",
+  "latestSongId": 1417093533,
+  "weekPlayMinutes": 781,
+  "stateSignature": "1417093533:781",
+  "previousSignature": "1300595030:745",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1300595030,
-    "name": "Majesty",
-    "artists": "Nicki Minaj / Eminem / Labrinth",
-    "album": "Queen (Deluxe)"
+    "id": 1417093533,
+    "name": "Godzilla",
+    "artists": "Eminem / Juice WRLD",
+    "album": "Music To Be Murdered By"
   }
 }
