@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-12T02:21:13.818Z",
-  "latestSongId": 27902187,
-  "weekPlayMinutes": 681,
-  "stateSignature": "27902187:681",
-  "previousSignature": "30039379:562",
+  "generatedAt": "2026-08-12T05:40:43.888Z",
+  "latestSongId": 1300595030,
+  "weekPlayMinutes": 745,
+  "stateSignature": "1300595030:745",
+  "previousSignature": "27902187:681",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 27902187,
-    "name": "The Monster",
-    "artists": "Eminem / Rihanna",
-    "album": "The Monster"
+    "id": 1300595030,
+    "name": "Majesty",
+    "artists": "Nicki Minaj / Eminem / Labrinth",
+    "album": "Queen (Deluxe)"
   }
 }
