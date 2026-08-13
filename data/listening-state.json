@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T11:03:11.909Z",
-  "latestSongId": 1944580,
-  "weekPlayMinutes": 914,
-  "stateSignature": "1944580:914",
-  "previousSignature": "421807905:886",
+  "generatedAt": "2026-08-13T13:22:13.274Z",
+  "latestSongId": 1346097717,
+  "weekPlayMinutes": 1002,
+  "stateSignature": "1346097717:1002",
+  "previousSignature": "1944580:914",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1944580,
-    "name": "Earth",
-    "artists": "Second Person",
-    "album": "The Elements"
+    "id": 1346097717,
+    "name": "Tokyo Rain",
+    "artists": "Marcus Warner",
+    "album": "39 Seconds"
   }
 }
