@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T02:22:59.275Z",
-  "latestSongId": 1882669038,
-  "weekPlayMinutes": 828,
-  "stateSignature": "1882669038:828",
-  "previousSignature": "1417093533:781",
+  "generatedAt": "2026-08-13T05:43:24.176Z",
+  "latestSongId": 421807905,
+  "weekPlayMinutes": 886,
+  "stateSignature": "421807905:886",
+  "previousSignature": "1882669038:828",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1882669038,
-    "name": "Last One Standing (From Venom: Let There Be Carnage)",
-    "artists": "Skylar Grey / Polo G / Mozzy / Eminem",
-    "album": "Last One Standing"
+    "id": 421807905,
+    "name": "キネマ",
+    "artists": "別野加奈",
+    "album": "もう、見たくないよ、と言いつつそっと硝子の中に閉じ込めた展"
   }
 }
