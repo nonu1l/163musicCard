@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-13T07:41:19.126Z",
+  "generatedAt": "2026-08-13T09:17:03.931Z",
   "latestSongId": 421807905,
   "weekPlayMinutes": 886,
   "stateSignature": "421807905:886",
   "previousSignature": "421807905:886",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 421807905,
     "name": "キネマ",
