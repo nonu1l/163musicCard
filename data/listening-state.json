@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-13T15:02:23.414Z",
+  "generatedAt": "2026-08-13T17:00:20.529Z",
   "latestSongId": 1346097717,
   "weekPlayMinutes": 1002,
   "stateSignature": "1346097717:1002",
   "previousSignature": "1346097717:1002",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1346097717,
     "name": "Tokyo Rain",
