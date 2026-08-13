@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T09:17:03.931Z",
-  "latestSongId": 421807905,
-  "weekPlayMinutes": 886,
-  "stateSignature": "421807905:886",
+  "generatedAt": "2026-08-13T11:03:11.909Z",
+  "latestSongId": 1944580,
+  "weekPlayMinutes": 914,
+  "stateSignature": "1944580:914",
   "previousSignature": "421807905:886",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 421807905,
-    "name": "キネマ",
-    "artists": "別野加奈",
-    "album": "もう、見たくないよ、と言いつつそっと硝子の中に閉じ込めた展"
+    "id": 1944580,
+    "name": "Earth",
+    "artists": "Second Person",
+    "album": "The Elements"
   }
 }
