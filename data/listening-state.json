@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T11:00:20.695Z",
-  "latestSongId": 22668847,
-  "weekPlayMinutes": 1197,
-  "stateSignature": "22668847:1197",
-  "previousSignature": "3360075718:1136",
+  "generatedAt": "2026-08-14T13:16:18.194Z",
+  "latestSongId": 704304,
+  "weekPlayMinutes": 1260,
+  "stateSignature": "704304:1260",
+  "previousSignature": "22668847:1197",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22668847,
-    "name": "Et cetera (Live TOUR in YOKOHAMA ARENA)",
-    "artists": "ONE OK ROCK",
-    "album": "Zankyou Reference Tour"
+    "id": 704304,
+    "name": "Your Love",
+    "artists": "Cradle Orchestra",
+    "album": "Soulbirds feat.Nieve & Jean"
   }
 }
