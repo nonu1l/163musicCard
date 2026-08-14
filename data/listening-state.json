@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-14T20:35:05.350Z",
+  "generatedAt": "2026-08-14T22:28:05.797Z",
   "latestSongId": 3360504048,
   "weekPlayMinutes": 1332,
   "stateSignature": "3360504048:1332",
   "previousSignature": "3360504048:1332",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3360504048,
     "name": "2Pac _ Eminem（GANGSTER）",
