@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T16:58:27.497Z",
-  "latestSongId": 3315306850,
-  "weekPlayMinutes": 1322,
-  "stateSignature": "3315306850:1322",
+  "generatedAt": "2026-08-14T19:00:19.219Z",
+  "latestSongId": 3360504048,
+  "weekPlayMinutes": 1332,
+  "stateSignature": "3360504048:1332",
   "previousSignature": "3315306850:1322",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3315306850,
-    "name": "As Night Dwells",
-    "artists": "Amanda Achen / 雾鸦酒馆（The Misty Corvus） / 杨子艺Zoey / 天钦",
-    "album": "As Night Dwells"
+    "id": 3360504048,
+    "name": "2Pac _ Eminem（GANGSTER）",
+    "artists": "SaliHai",
+    "album": "2Pac（West Coast Hip-Hop）"
   }
 }
