@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T09:11:57.485Z",
-  "latestSongId": 3360075718,
-  "weekPlayMinutes": 1136,
-  "stateSignature": "3360075718:1136",
+  "generatedAt": "2026-08-14T11:00:20.695Z",
+  "latestSongId": 22668847,
+  "weekPlayMinutes": 1197,
+  "stateSignature": "22668847:1197",
   "previousSignature": "3360075718:1136",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3360075718,
-    "name": "Buffalo 66",
-    "artists": "Nessa Barrett",
-    "album": "Jesus loves a primadonna"
+    "id": 22668847,
+    "name": "Et cetera (Live TOUR in YOKOHAMA ARENA)",
+    "artists": "ONE OK ROCK",
+    "album": "Zankyou Reference Tour"
   }
 }
