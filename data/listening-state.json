@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T05:40:28.985Z",
-  "latestSongId": 2685046540,
-  "weekPlayMinutes": 1095,
-  "stateSignature": "2685046540:1095",
-  "previousSignature": "22817506:1068",
+  "generatedAt": "2026-08-14T07:38:54.556Z",
+  "latestSongId": 3360075718,
+  "weekPlayMinutes": 1136,
+  "stateSignature": "3360075718:1136",
+  "previousSignature": "2685046540:1095",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2685046540,
-    "name": "残垣",
-    "artists": "Lcz-Sv",
-    "album": "残垣"
+    "id": 3360075718,
+    "name": "Buffalo 66",
+    "artists": "Nessa Barrett",
+    "album": "Jesus loves a primadonna"
   }
 }
