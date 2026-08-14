@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T13:16:18.194Z",
-  "latestSongId": 704304,
-  "weekPlayMinutes": 1260,
-  "stateSignature": "704304:1260",
-  "previousSignature": "22668847:1197",
+  "generatedAt": "2026-08-14T14:56:00.517Z",
+  "latestSongId": 3315306850,
+  "weekPlayMinutes": 1322,
+  "stateSignature": "3315306850:1322",
+  "previousSignature": "704304:1260",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 704304,
-    "name": "Your Love",
-    "artists": "Cradle Orchestra",
-    "album": "Soulbirds feat.Nieve & Jean"
+    "id": 3315306850,
+    "name": "As Night Dwells",
+    "artists": "Amanda Achen / 雾鸦酒馆（The Misty Corvus） / 杨子艺Zoey / 天钦",
+    "album": "As Night Dwells"
   }
 }
