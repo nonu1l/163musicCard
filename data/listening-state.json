@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T22:49:16.434Z",
-  "latestSongId": 1346097717,
-  "weekPlayMinutes": 1002,
-  "stateSignature": "1346097717:1002",
+  "generatedAt": "2026-08-14T02:21:08.365Z",
+  "latestSongId": 22817506,
+  "weekPlayMinutes": 1068,
+  "stateSignature": "22817506:1068",
   "previousSignature": "1346097717:1002",
-  "stableBuildCount": 6,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1346097717,
-    "name": "Tokyo Rain",
-    "artists": "Marcus Warner",
-    "album": "39 Seconds"
+    "id": 22817506,
+    "name": "Saga ~ This is my road",
+    "artists": "カノン",
+    "album": "My Road - Songs from Guin Saga"
   }
 }
