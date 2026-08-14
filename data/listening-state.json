@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-14T02:21:08.365Z",
-  "latestSongId": 22817506,
-  "weekPlayMinutes": 1068,
-  "stateSignature": "22817506:1068",
-  "previousSignature": "1346097717:1002",
+  "generatedAt": "2026-08-14T05:40:28.985Z",
+  "latestSongId": 2685046540,
+  "weekPlayMinutes": 1095,
+  "stateSignature": "2685046540:1095",
+  "previousSignature": "22817506:1068",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22817506,
-    "name": "Saga ~ This is my road",
-    "artists": "カノン",
-    "album": "My Road - Songs from Guin Saga"
+    "id": 2685046540,
+    "name": "残垣",
+    "artists": "Lcz-Sv",
+    "album": "残垣"
   }
 }
