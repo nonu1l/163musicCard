@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-15T20:27:18.939Z",
+  "generatedAt": "2026-08-15T22:26:34.893Z",
   "latestSongId": 825343,
   "weekPlayMinutes": 1804,
   "stateSignature": "825343:1804",
   "previousSignature": "825343:1804",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 825343,
     "name": "My Dearest",
