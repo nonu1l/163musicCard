@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T16:29:47.102Z",
-  "latestSongId": 22201013,
+  "generatedAt": "2026-08-15T18:35:59.548Z",
+  "latestSongId": 825343,
   "weekPlayMinutes": 1804,
-  "stateSignature": "22201013:1804",
-  "previousSignature": "335490:1802",
+  "stateSignature": "825343:1804",
+  "previousSignature": "22201013:1804",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22201013,
-    "name": "Di-Dar (Live)",
-    "artists": "王菲",
-    "album": "唱游大世界王菲香港演唱会 98-99"
+    "id": 825343,
+    "name": "My Dearest",
+    "artists": "supercell",
+    "album": "My Dearest"
   }
 }
