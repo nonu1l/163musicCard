@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T08:34:15.011Z",
-  "latestSongId": 3405046848,
-  "weekPlayMinutes": 1579,
-  "stateSignature": "3405046848:1579",
-  "previousSignature": "26741691:1556",
+  "generatedAt": "2026-08-15T10:27:01.302Z",
+  "latestSongId": 29460630,
+  "weekPlayMinutes": 1621,
+  "stateSignature": "29460630:1621",
+  "previousSignature": "3405046848:1579",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3405046848,
-    "name": "Lotis（洛缇斯）",
-    "artists": "佐拉Zora",
-    "album": "《Lotis》（洛缇斯）"
+    "id": 29460630,
+    "name": "Sternengesang",
+    "artists": "Cyua",
+    "album": "機動戦士ガンダムUC COMPLETE BEST"
   }
 }
