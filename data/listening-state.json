@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T10:27:01.302Z",
-  "latestSongId": 29460630,
-  "weekPlayMinutes": 1621,
-  "stateSignature": "29460630:1621",
-  "previousSignature": "3405046848:1579",
+  "generatedAt": "2026-08-15T12:46:09.025Z",
+  "latestSongId": 857881,
+  "weekPlayMinutes": 1740,
+  "stateSignature": "857881:1740",
+  "previousSignature": "29460630:1621",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29460630,
-    "name": "Sternengesang",
-    "artists": "Cyua",
-    "album": "機動戦士ガンダムUC COMPLETE BEST"
+    "id": 857881,
+    "name": "Sometime",
+    "artists": "Valentin",
+    "album": "My View"
   }
 }
