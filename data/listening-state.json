@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T14:27:28.287Z",
-  "latestSongId": 335490,
-  "weekPlayMinutes": 1802,
-  "stateSignature": "335490:1802",
-  "previousSignature": "857881:1740",
+  "generatedAt": "2026-08-15T16:29:47.102Z",
+  "latestSongId": 22201013,
+  "weekPlayMinutes": 1804,
+  "stateSignature": "22201013:1804",
+  "previousSignature": "335490:1802",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 335490,
-    "name": "今天天气呵呵呵",
-    "artists": "甄楚倩",
-    "album": "今天天气呵呵呵"
+    "id": 22201013,
+    "name": "Di-Dar (Live)",
+    "artists": "王菲",
+    "album": "唱游大世界王菲香港演唱会 98-99"
   }
 }
