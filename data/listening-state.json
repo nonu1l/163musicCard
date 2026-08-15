@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T04:36:10.282Z",
-  "latestSongId": 2621413255,
-  "weekPlayMinutes": 1512,
-  "stateSignature": "2621413255:1512",
-  "previousSignature": "1299923:1451",
+  "generatedAt": "2026-08-15T06:45:50.643Z",
+  "latestSongId": 26741691,
+  "weekPlayMinutes": 1556,
+  "stateSignature": "26741691:1556",
+  "previousSignature": "2621413255:1512",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2621413255,
-    "name": "Faded Light",
-    "artists": "SugarPro",
-    "album": "Faded Light"
+    "id": 26741691,
+    "name": "Through Glass",
+    "artists": "Stone Sour",
+    "album": "The Best Of Stone Sour"
   }
 }
