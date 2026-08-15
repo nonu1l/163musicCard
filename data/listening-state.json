@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T02:56:17.094Z",
-  "latestSongId": 1299923,
-  "weekPlayMinutes": 1451,
-  "stateSignature": "1299923:1451",
-  "previousSignature": "2636079153:1393",
+  "generatedAt": "2026-08-15T04:36:10.282Z",
+  "latestSongId": 2621413255,
+  "weekPlayMinutes": 1512,
+  "stateSignature": "2621413255:1512",
+  "previousSignature": "1299923:1451",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299923,
-    "name": "Sing For The Moment (Instrumental)",
-    "artists": "Eminem",
-    "album": "Sing For The Moment"
+    "id": 2621413255,
+    "name": "Faded Light",
+    "artists": "SugarPro",
+    "album": "Faded Light"
   }
 }
