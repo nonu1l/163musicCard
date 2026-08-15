@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T01:32:08.713Z",
-  "latestSongId": 2636079153,
-  "weekPlayMinutes": 1393,
-  "stateSignature": "2636079153:1393",
-  "previousSignature": "3360504048:1332",
+  "generatedAt": "2026-08-15T02:56:17.094Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 1451,
+  "stateSignature": "1299923:1451",
+  "previousSignature": "2636079153:1393",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2636079153,
-    "name": "42",
-    "artists": "Olivia Marsh",
-    "album": "42"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
