@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-15T12:46:09.025Z",
-  "latestSongId": 857881,
-  "weekPlayMinutes": 1740,
-  "stateSignature": "857881:1740",
-  "previousSignature": "29460630:1621",
+  "generatedAt": "2026-08-15T14:27:28.287Z",
+  "latestSongId": 335490,
+  "weekPlayMinutes": 1802,
+  "stateSignature": "335490:1802",
+  "previousSignature": "857881:1740",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 857881,
-    "name": "Sometime",
-    "artists": "Valentin",
-    "album": "My View"
+    "id": 335490,
+    "name": "今天天气呵呵呵",
+    "artists": "甄楚倩",
+    "album": "今天天气呵呵呵"
   }
 }
