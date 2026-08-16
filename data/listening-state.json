@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-16T16:30:22.742Z",
-  "latestSongId": 22663195,
-  "weekPlayMinutes": 215,
-  "stateSignature": "22663195:215",
+  "generatedAt": "2026-08-16T18:35:01.969Z",
+  "latestSongId": 24851086,
+  "weekPlayMinutes": 218,
+  "stateSignature": "24851086:218",
   "previousSignature": "22663195:215",
-  "stableBuildCount": 5,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22663195,
-    "name": "時の回廊 (クロノトリガー)",
-    "artists": "MintJam",
-    "album": "3rd GIG #Crescent"
+    "id": 24851086,
+    "name": "Beautiful Lies",
+    "artists": "B-Complex",
+    "album": "Sick Music"
   }
 }
