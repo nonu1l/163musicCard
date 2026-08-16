@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-16T04:40:06.542Z",
-  "latestSongId": 2114416998,
+  "generatedAt": "2026-08-16T06:47:29.037Z",
+  "latestSongId": 22663195,
   "weekPlayMinutes": 1804,
-  "stateSignature": "2114416998:1804",
-  "previousSignature": "1299923:1804",
+  "stateSignature": "22663195:1804",
+  "previousSignature": "2114416998:1804",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2114416998,
-    "name": "沙文",
-    "artists": "林忆莲 / 五月天 阿信",
-    "album": "0 (2024版)"
+    "id": 22663195,
+    "name": "時の回廊 (クロノトリガー)",
+    "artists": "MintJam",
+    "album": "3rd GIG #Crescent"
   }
 }
