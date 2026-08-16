@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-16T03:04:23.416Z",
-  "latestSongId": 1299923,
+  "generatedAt": "2026-08-16T04:40:06.542Z",
+  "latestSongId": 2114416998,
   "weekPlayMinutes": 1804,
-  "stateSignature": "1299923:1804",
-  "previousSignature": "825343:1804",
+  "stateSignature": "2114416998:1804",
+  "previousSignature": "1299923:1804",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299923,
-    "name": "Sing For The Moment (Instrumental)",
-    "artists": "Eminem",
-    "album": "Sing For The Moment"
+    "id": 2114416998,
+    "name": "沙文",
+    "artists": "林忆莲 / 五月天 阿信",
+    "album": "0 (2024版)"
   }
 }
