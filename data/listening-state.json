@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-16T10:27:53.965Z",
+  "generatedAt": "2026-08-16T12:48:37.594Z",
   "latestSongId": 22663195,
   "weekPlayMinutes": 215,
   "stateSignature": "22663195:215",
   "previousSignature": "22663195:215",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 22663195,
     "name": "時の回廊 (クロノトリガー)",
