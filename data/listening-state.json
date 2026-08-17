@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-17T20:32:05.266Z",
+  "generatedAt": "2026-08-17T22:29:03.580Z",
   "latestSongId": 29127076,
   "weekPlayMinutes": 235,
   "stateSignature": "29127076:235",
   "previousSignature": "29127076:235",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 29127076,
     "name": "Swallowing the sun",
