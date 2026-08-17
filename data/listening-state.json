@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-17T16:33:02.385Z",
-  "latestSongId": 24851086,
-  "weekPlayMinutes": 218,
-  "stateSignature": "24851086:218",
+  "generatedAt": "2026-08-17T18:46:00.192Z",
+  "latestSongId": 29127076,
+  "weekPlayMinutes": 235,
+  "stateSignature": "29127076:235",
   "previousSignature": "24851086:218",
-  "stableBuildCount": 12,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 24851086,
-    "name": "Beautiful Lies",
-    "artists": "B-Complex",
-    "album": "Sick Music"
+    "id": 29127076,
+    "name": "Swallowing the sun",
+    "artists": "REDЯUM",
+    "album": "Cinematic Sound Foundation"
   }
 }
