@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-18T22:28:22.713Z",
+  "generatedAt": "2026-08-19T01:35:17.643Z",
   "latestSongId": 2748550626,
-  "weekPlayMinutes": 290,
-  "stateSignature": "2748550626:290",
+  "weekPlayMinutes": 292,
+  "stateSignature": "2748550626:292",
   "previousSignature": "2748550626:290",
-  "stableBuildCount": 7,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 2748550626,
     "name": "众人之力",
