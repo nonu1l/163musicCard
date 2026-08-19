@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T20:33:25.810Z",
-  "latestSongId": 22689961,
-  "weekPlayMinutes": 727,
-  "stateSignature": "22689961:727",
-  "previousSignature": "3360504048:617",
+  "generatedAt": "2026-08-19T22:29:02.857Z",
+  "latestSongId": 786015,
+  "weekPlayMinutes": 827,
+  "stateSignature": "786015:827",
+  "previousSignature": "22689961:727",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22689961,
-    "name": "sand dream",
-    "artists": "Revo / 梶浦由記",
-    "album": "Dream Port"
+    "id": 786015,
+    "name": "birth of a new witch",
+    "artists": "M.Graveyard",
+    "album": "うみねこのなく顷に散musicbox雾のピトス"
   }
 }
