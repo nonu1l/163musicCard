@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T08:42:22.859Z",
-  "latestSongId": 4937357,
-  "weekPlayMinutes": 298,
-  "stateSignature": "4937357:298",
+  "generatedAt": "2026-08-19T10:33:13.838Z",
+  "latestSongId": 3360504048,
+  "weekPlayMinutes": 393,
+  "stateSignature": "3360504048:393",
   "previousSignature": "4937357:298",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4937357,
-    "name": "夜の向日葵",
-    "artists": "松本文紀",
-    "album": "素晴らしき日々 サウンドトラックCD"
+    "id": 3360504048,
+    "name": "2Pac _ Eminem（GANGSTER）",
+    "artists": "SaliHai",
+    "album": "2Pac（West Coast Hip-Hop）"
   }
 }
