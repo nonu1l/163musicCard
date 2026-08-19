@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T04:41:39.344Z",
-  "latestSongId": 2748550626,
-  "weekPlayMinutes": 292,
-  "stateSignature": "2748550626:292",
+  "generatedAt": "2026-08-19T06:51:56.202Z",
+  "latestSongId": 4937357,
+  "weekPlayMinutes": 298,
+  "stateSignature": "4937357:298",
   "previousSignature": "2748550626:292",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2748550626,
-    "name": "众人之力",
-    "artists": "未遂（We Three）",
-    "album": "众人之力"
+    "id": 4937357,
+    "name": "夜の向日葵",
+    "artists": "松本文紀",
+    "album": "素晴らしき日々 サウンドトラックCD"
   }
 }
