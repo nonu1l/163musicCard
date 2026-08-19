@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T18:41:15.687Z",
-  "latestSongId": 3360504048,
-  "weekPlayMinutes": 617,
-  "stateSignature": "3360504048:617",
-  "previousSignature": "26783791:517",
+  "generatedAt": "2026-08-19T20:33:25.810Z",
+  "latestSongId": 22689961,
+  "weekPlayMinutes": 727,
+  "stateSignature": "22689961:727",
+  "previousSignature": "3360504048:617",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3360504048,
-    "name": "2Pac _ Eminem（GANGSTER）",
-    "artists": "SaliHai",
-    "album": "2Pac（West Coast Hip-Hop）"
+    "id": 22689961,
+    "name": "sand dream",
+    "artists": "Revo / 梶浦由記",
+    "album": "Dream Port"
   }
 }
