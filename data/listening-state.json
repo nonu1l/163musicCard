@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T16:36:19.650Z",
-  "latestSongId": 26783791,
-  "weekPlayMinutes": 517,
-  "stateSignature": "26783791:517",
-  "previousSignature": "421807905:474",
+  "generatedAt": "2026-08-19T18:41:15.687Z",
+  "latestSongId": 3360504048,
+  "weekPlayMinutes": 617,
+  "stateSignature": "3360504048:617",
+  "previousSignature": "26783791:517",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26783791,
-    "name": "I leave the world today",
-    "artists": "Baracuda",
-    "album": "Bravo Hits 42"
+    "id": 3360504048,
+    "name": "2Pac _ Eminem（GANGSTER）",
+    "artists": "SaliHai",
+    "album": "2Pac（West Coast Hip-Hop）"
   }
 }
