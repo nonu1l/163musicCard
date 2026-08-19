@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T14:38:28.673Z",
-  "latestSongId": 421807905,
-  "weekPlayMinutes": 474,
-  "stateSignature": "421807905:474",
-  "previousSignature": "3360504048:393",
+  "generatedAt": "2026-08-19T16:36:19.650Z",
+  "latestSongId": 26783791,
+  "weekPlayMinutes": 517,
+  "stateSignature": "26783791:517",
+  "previousSignature": "421807905:474",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 421807905,
-    "name": "キネマ",
-    "artists": "別野加奈",
-    "album": "もう、見たくないよ、と言いつつそっと硝子の中に閉じ込めた展"
+    "id": 26783791,
+    "name": "I leave the world today",
+    "artists": "Baracuda",
+    "album": "Bravo Hits 42"
   }
 }
