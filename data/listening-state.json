@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T12:57:20.366Z",
-  "latestSongId": 22789074,
-  "weekPlayMinutes": 1019,
-  "stateSignature": "22789074:1019",
-  "previousSignature": "2685046540:1004",
+  "generatedAt": "2026-08-20T14:40:02.884Z",
+  "latestSongId": 17572434,
+  "weekPlayMinutes": 1055,
+  "stateSignature": "17572434:1055",
+  "previousSignature": "22789074:1019",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22789074,
-    "name": "宇宙の花 (e)",
-    "artists": "島みやえい子",
-    "album": "Ozone"
+    "id": 17572434,
+    "name": "Bitch Please II",
+    "artists": "Eminem / Xzibit / Dr. Dre / Nate Dogg / Snoop Dogg",
+    "album": "The Marshall Mathers LP"
   }
 }
