@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T08:44:49.564Z",
-  "latestSongId": 350909,
-  "weekPlayMinutes": 936,
-  "stateSignature": "350909:936",
-  "previousSignature": "591941:914",
+  "generatedAt": "2026-08-20T10:35:05.537Z",
+  "latestSongId": 2685046540,
+  "weekPlayMinutes": 1004,
+  "stateSignature": "2685046540:1004",
+  "previousSignature": "350909:936",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 350909,
-    "name": "笔记",
-    "artists": "周笔畅",
-    "album": "终极PK"
+    "id": 2685046540,
+    "name": "残垣",
+    "artists": "Lcz-Sv",
+    "album": "残垣"
   }
 }
