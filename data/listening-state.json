@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T16:39:35.244Z",
-  "latestSongId": 17572434,
-  "weekPlayMinutes": 1055,
-  "stateSignature": "17572434:1055",
+  "generatedAt": "2026-08-20T18:46:40.827Z",
+  "latestSongId": 26625535,
+  "weekPlayMinutes": 1129,
+  "stateSignature": "26625535:1129",
   "previousSignature": "17572434:1055",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 17572434,
-    "name": "Bitch Please II",
-    "artists": "Eminem / Xzibit / Dr. Dre / Nate Dogg / Snoop Dogg",
-    "album": "The Marshall Mathers LP"
+    "id": 26625535,
+    "name": "Sheltered From The Storm II",
+    "artists": "Syzygys",
+    "album": "Near Light: All B-Sides"
   }
 }
