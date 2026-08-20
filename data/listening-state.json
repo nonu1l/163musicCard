@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T18:46:40.827Z",
-  "latestSongId": 26625535,
-  "weekPlayMinutes": 1129,
-  "stateSignature": "26625535:1129",
-  "previousSignature": "17572434:1055",
+  "generatedAt": "2026-08-20T20:33:43.472Z",
+  "latestSongId": 28191532,
+  "weekPlayMinutes": 1135,
+  "stateSignature": "28191532:1135",
+  "previousSignature": "26625535:1129",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26625535,
-    "name": "Sheltered From The Storm II",
-    "artists": "Syzygys",
-    "album": "Near Light: All B-Sides"
+    "id": 28191532,
+    "name": "为你我受冷风吹",
+    "artists": "胡彦斌",
+    "album": "太歌"
   }
 }
