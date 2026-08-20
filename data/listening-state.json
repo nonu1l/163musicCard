@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-19T22:29:02.857Z",
-  "latestSongId": 786015,
-  "weekPlayMinutes": 827,
-  "stateSignature": "786015:827",
-  "previousSignature": "22689961:727",
+  "generatedAt": "2026-08-20T01:34:36.458Z",
+  "latestSongId": 17572311,
+  "weekPlayMinutes": 855,
+  "stateSignature": "17572311:855",
+  "previousSignature": "786015:827",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 786015,
-    "name": "birth of a new witch",
-    "artists": "M.Graveyard",
-    "album": "うみねこのなく顷に散musicbox雾のピトス"
+    "id": 17572311,
+    "name": "'Till I Collapse",
+    "artists": "Eminem / Nate Dogg",
+    "album": "The Eminem Show"
   }
 }
