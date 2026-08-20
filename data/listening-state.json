@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T01:34:36.458Z",
-  "latestSongId": 17572311,
-  "weekPlayMinutes": 855,
-  "stateSignature": "17572311:855",
-  "previousSignature": "786015:827",
+  "generatedAt": "2026-08-20T03:00:56.539Z",
+  "latestSongId": 34078322,
+  "weekPlayMinutes": 877,
+  "stateSignature": "34078322:877",
+  "previousSignature": "17572311:855",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 17572311,
-    "name": "'Till I Collapse",
-    "artists": "Eminem / Nate Dogg",
-    "album": "The Eminem Show"
+    "id": 34078322,
+    "name": "Answer",
+    "artists": "V.A.",
+    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
   }
 }
