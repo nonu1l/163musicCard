@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T10:35:05.537Z",
-  "latestSongId": 2685046540,
-  "weekPlayMinutes": 1004,
-  "stateSignature": "2685046540:1004",
-  "previousSignature": "350909:936",
+  "generatedAt": "2026-08-20T12:57:20.366Z",
+  "latestSongId": 22789074,
+  "weekPlayMinutes": 1019,
+  "stateSignature": "22789074:1019",
+  "previousSignature": "2685046540:1004",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2685046540,
-    "name": "残垣",
-    "artists": "Lcz-Sv",
-    "album": "残垣"
+    "id": 22789074,
+    "name": "宇宙の花 (e)",
+    "artists": "島みやえい子",
+    "album": "Ozone"
   }
 }
