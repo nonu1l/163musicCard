@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T04:41:48.960Z",
-  "latestSongId": 34078322,
-  "weekPlayMinutes": 877,
-  "stateSignature": "34078322:877",
+  "generatedAt": "2026-08-20T06:53:41.912Z",
+  "latestSongId": 591941,
+  "weekPlayMinutes": 914,
+  "stateSignature": "591941:914",
   "previousSignature": "34078322:877",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34078322,
-    "name": "Answer",
-    "artists": "V.A.",
-    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
+    "id": 591941,
+    "name": "M17",
+    "artists": "梶浦由記",
+    "album": "空の境界 Vol.1 俯瞰风景"
   }
 }
