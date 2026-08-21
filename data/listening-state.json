@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T10:34:36.469Z",
-  "latestSongId": 1299923,
-  "weekPlayMinutes": 1350,
-  "stateSignature": "1299923:1350",
-  "previousSignature": "19892230:1322",
+  "generatedAt": "2026-08-21T12:56:36.459Z",
+  "latestSongId": 409302035,
+  "weekPlayMinutes": 1458,
+  "stateSignature": "409302035:1458",
+  "previousSignature": "1299923:1350",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299923,
-    "name": "Sing For The Moment (Instrumental)",
-    "artists": "Eminem",
-    "album": "Sing For The Moment"
+    "id": 409302035,
+    "name": "The Garden of Escapism (AK Remix)",
+    "artists": "AK / Miro",
+    "album": "The Garden of Escapism (AK Remix)"
   }
 }
