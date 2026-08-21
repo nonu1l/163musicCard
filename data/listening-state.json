@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T14:39:36.650Z",
-  "latestSongId": 24851086,
-  "weekPlayMinutes": 1522,
-  "stateSignature": "24851086:1522",
-  "previousSignature": "409302035:1458",
+  "generatedAt": "2026-08-21T16:39:33.289Z",
+  "latestSongId": 2727764356,
+  "weekPlayMinutes": 1572,
+  "stateSignature": "2727764356:1572",
+  "previousSignature": "24851086:1522",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 24851086,
-    "name": "Beautiful Lies",
-    "artists": "B-Complex",
-    "album": "Sick Music"
+    "id": 2727764356,
+    "name": "不隶",
+    "artists": "黑豹乐队",
+    "album": "16.66m/s"
   }
 }
