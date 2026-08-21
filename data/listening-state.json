@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-21T18:42:18.530Z",
+  "generatedAt": "2026-08-21T20:30:23.246Z",
   "latestSongId": 2727764356,
   "weekPlayMinutes": 1572,
   "stateSignature": "2727764356:1572",
   "previousSignature": "2727764356:1572",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 2727764356,
     "name": "不隶",
