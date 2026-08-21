@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T08:46:57.389Z",
-  "latestSongId": 19892230,
-  "weekPlayMinutes": 1322,
-  "stateSignature": "19892230:1322",
-  "previousSignature": "17572558:1258",
+  "generatedAt": "2026-08-21T10:34:36.469Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 1350,
+  "stateSignature": "1299923:1350",
+  "previousSignature": "19892230:1322",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 19892230,
-    "name": "Forever Lost",
-    "artists": "God Is An Astronaut",
-    "album": "All Is Violent, All Is Bright"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
