@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-20T22:32:21.241Z",
-  "latestSongId": 28191532,
-  "weekPlayMinutes": 1135,
-  "stateSignature": "28191532:1135",
+  "generatedAt": "2026-08-21T01:39:04.401Z",
+  "latestSongId": 66895,
+  "weekPlayMinutes": 1164,
+  "stateSignature": "66895:1164",
   "previousSignature": "28191532:1135",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28191532,
-    "name": "为你我受冷风吹",
-    "artists": "胡彦斌",
-    "album": "太歌"
+    "id": 66895,
+    "name": "一生中最爱 (Live)",
+    "artists": "陈奕迅",
+    "album": "Third Encounter Live"
   }
 }
