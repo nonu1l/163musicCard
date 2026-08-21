@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T06:54:49.187Z",
-  "latestSongId": 17572558,
-  "weekPlayMinutes": 1258,
-  "stateSignature": "17572558:1258",
-  "previousSignature": "22652526:1238",
+  "generatedAt": "2026-08-21T08:46:57.389Z",
+  "latestSongId": 19892230,
+  "weekPlayMinutes": 1322,
+  "stateSignature": "19892230:1322",
+  "previousSignature": "17572558:1258",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 17572558,
-    "name": "Mockingbird",
-    "artists": "Eminem",
-    "album": "Mockingbird"
+    "id": 19892230,
+    "name": "Forever Lost",
+    "artists": "God Is An Astronaut",
+    "album": "All Is Violent, All Is Bright"
   }
 }
