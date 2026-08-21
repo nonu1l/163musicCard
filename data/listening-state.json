@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T12:56:36.459Z",
-  "latestSongId": 409302035,
-  "weekPlayMinutes": 1458,
-  "stateSignature": "409302035:1458",
-  "previousSignature": "1299923:1350",
+  "generatedAt": "2026-08-21T14:39:36.650Z",
+  "latestSongId": 24851086,
+  "weekPlayMinutes": 1522,
+  "stateSignature": "24851086:1522",
+  "previousSignature": "409302035:1458",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 409302035,
-    "name": "The Garden of Escapism (AK Remix)",
-    "artists": "AK / Miro",
-    "album": "The Garden of Escapism (AK Remix)"
+    "id": 24851086,
+    "name": "Beautiful Lies",
+    "artists": "B-Complex",
+    "album": "Sick Music"
   }
 }
