@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T03:07:43.557Z",
-  "latestSongId": 3396667536,
-  "weekPlayMinutes": 1196,
-  "stateSignature": "3396667536:1196",
-  "previousSignature": "66895:1164",
+  "generatedAt": "2026-08-21T04:43:25.015Z",
+  "latestSongId": 22652526,
+  "weekPlayMinutes": 1238,
+  "stateSignature": "22652526:1238",
+  "previousSignature": "3396667536:1196",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3396667536,
-    "name": "you know 2(Phonk)",
-    "artists": "Trispect / Kyrex",
-    "album": "you know 2(Phonk)"
+    "id": 22652526,
+    "name": "Last Smile (extension mix)",
+    "artists": "LOVE PSYCHEDELICO",
+    "album": "THE GREATEST HITS"
   }
 }
