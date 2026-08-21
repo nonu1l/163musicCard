@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T01:39:04.401Z",
-  "latestSongId": 66895,
-  "weekPlayMinutes": 1164,
-  "stateSignature": "66895:1164",
-  "previousSignature": "28191532:1135",
+  "generatedAt": "2026-08-21T03:07:43.557Z",
+  "latestSongId": 3396667536,
+  "weekPlayMinutes": 1196,
+  "stateSignature": "3396667536:1196",
+  "previousSignature": "66895:1164",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 66895,
-    "name": "一生中最爱 (Live)",
-    "artists": "陈奕迅",
-    "album": "Third Encounter Live"
+    "id": 3396667536,
+    "name": "you know 2(Phonk)",
+    "artists": "Trispect / Kyrex",
+    "album": "you know 2(Phonk)"
   }
 }
