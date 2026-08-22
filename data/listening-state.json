@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T10:28:32.991Z",
-  "latestSongId": 26110707,
-  "weekPlayMinutes": 1744,
-  "stateSignature": "26110707:1744",
-  "previousSignature": "1948890125:1708",
+  "generatedAt": "2026-08-22T12:48:03.548Z",
+  "latestSongId": 3335815618,
+  "weekPlayMinutes": 1784,
+  "stateSignature": "3335815618:1784",
+  "previousSignature": "26110707:1744",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26110707,
-    "name": "カサブタ",
-    "artists": "ONE OK ROCK",
-    "album": "Deeper Deeper / Nothing Helps"
+    "id": 3335815618,
+    "name": "また夢の中で (feat. 歌愛ユキ)",
+    "artists": "シチウム / 歌愛ユキ",
+    "album": "DreamFog"
   }
 }
