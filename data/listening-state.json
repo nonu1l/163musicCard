@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T14:26:09.807Z",
-  "latestSongId": 3335815618,
-  "weekPlayMinutes": 1784,
-  "stateSignature": "3335815618:1784",
+  "generatedAt": "2026-08-22T16:29:54.753Z",
+  "latestSongId": 18098479,
+  "weekPlayMinutes": 1817,
+  "stateSignature": "18098479:1817",
   "previousSignature": "3335815618:1784",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3335815618,
-    "name": "また夢の中で (feat. 歌愛ユキ)",
-    "artists": "シチウム / 歌愛ユキ",
-    "album": "DreamFog"
+    "id": 18098479,
+    "name": "Far Away From Home",
+    "artists": "Groove Coverage",
+    "album": "Covergirl"
   }
 }
