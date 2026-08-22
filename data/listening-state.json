@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T06:48:07.298Z",
-  "latestSongId": 2076483080,
-  "weekPlayMinutes": 1666,
-  "stateSignature": "2076483080:1666",
-  "previousSignature": "1299923:1627",
+  "generatedAt": "2026-08-22T08:35:14.405Z",
+  "latestSongId": 1948890125,
+  "weekPlayMinutes": 1708,
+  "stateSignature": "1948890125:1708",
+  "previousSignature": "2076483080:1666",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2076483080,
-    "name": "有时候我也想和世界告别",
-    "artists": "芝麻Mochi",
-    "album": "有时候我也想和世界告别"
+    "id": 1948890125,
+    "name": "Bubble Main Theme (UTAtoHIBIKI)",
+    "artists": "Samuel Kim",
+    "album": "Bubble Main Theme (UTAtoHIBIKI)"
   }
 }
