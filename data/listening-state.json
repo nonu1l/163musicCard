@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-21T22:29:40.701Z",
-  "latestSongId": 2727764356,
-  "weekPlayMinutes": 1572,
-  "stateSignature": "2727764356:1572",
+  "generatedAt": "2026-08-22T01:27:55.866Z",
+  "latestSongId": 34078322,
+  "weekPlayMinutes": 1608,
+  "stateSignature": "34078322:1608",
   "previousSignature": "2727764356:1572",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2727764356,
-    "name": "不隶",
-    "artists": "黑豹乐队",
-    "album": "16.66m/s"
+    "id": 34078322,
+    "name": "Answer",
+    "artists": "V.A.",
+    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
   }
 }
