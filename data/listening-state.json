@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T08:35:14.405Z",
-  "latestSongId": 1948890125,
-  "weekPlayMinutes": 1708,
-  "stateSignature": "1948890125:1708",
-  "previousSignature": "2076483080:1666",
+  "generatedAt": "2026-08-22T10:28:32.991Z",
+  "latestSongId": 26110707,
+  "weekPlayMinutes": 1744,
+  "stateSignature": "26110707:1744",
+  "previousSignature": "1948890125:1708",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1948890125,
-    "name": "Bubble Main Theme (UTAtoHIBIKI)",
-    "artists": "Samuel Kim",
-    "album": "Bubble Main Theme (UTAtoHIBIKI)"
+    "id": 26110707,
+    "name": "カサブタ",
+    "artists": "ONE OK ROCK",
+    "album": "Deeper Deeper / Nothing Helps"
   }
 }
