@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T16:31:34.336Z",
-  "latestSongId": 28582376,
-  "weekPlayMinutes": 239,
-  "stateSignature": "28582376:239",
-  "previousSignature": "28854139:198",
+  "generatedAt": "2026-08-23T18:35:37.570Z",
+  "latestSongId": 1840642492,
+  "weekPlayMinutes": 298,
+  "stateSignature": "1840642492:298",
+  "previousSignature": "28582376:239",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28582376,
-    "name": "Dreams and Visions",
-    "artists": "Tony Anderson",
-    "album": "Seasons"
+    "id": 1840642492,
+    "name": "equinox",
+    "artists": "Xeuphoria / OneChilledPanda",
+    "album": "Piano Sessions: Sakura"
   }
 }
