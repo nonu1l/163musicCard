@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-22T22:26:54.302Z",
-  "latestSongId": 1835702114,
+  "generatedAt": "2026-08-23T01:41:46.825Z",
+  "latestSongId": 2704709111,
   "weekPlayMinutes": 1817,
-  "stateSignature": "1835702114:1817",
+  "stateSignature": "2704709111:1817",
   "previousSignature": "1835702114:1817",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1835702114,
-    "name": "わたしが蜉蝣",
-    "artists": "いきものがかり",
-    "album": "WHO?"
+    "id": 2704709111,
+    "name": "21",
+    "artists": "Lcz-Sv",
+    "album": "21"
   }
 }
