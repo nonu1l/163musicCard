@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T06:49:11.644Z",
-  "latestSongId": 3395314217,
-  "weekPlayMinutes": 1817,
-  "stateSignature": "3395314217:1817",
-  "previousSignature": "306654:1817",
+  "generatedAt": "2026-08-23T08:35:25.173Z",
+  "latestSongId": 2074456804,
+  "weekPlayMinutes": 127,
+  "stateSignature": "2074456804:127",
+  "previousSignature": "3395314217:1817",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3395314217,
-    "name": "AUTUMN EYES",
-    "artists": "uuml / 7ovey",
-    "album": "AUTUMN EYES"
+    "id": 2074456804,
+    "name": "Grapefruit Moon",
+    "artists": "TOMOO",
+    "album": "Grapefruit Moon"
   }
 }
