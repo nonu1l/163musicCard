@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T14:27:44.794Z",
-  "latestSongId": 28854139,
-  "weekPlayMinutes": 198,
-  "stateSignature": "28854139:198",
-  "previousSignature": "31152751:158",
+  "generatedAt": "2026-08-23T16:31:34.336Z",
+  "latestSongId": 28582376,
+  "weekPlayMinutes": 239,
+  "stateSignature": "28582376:239",
+  "previousSignature": "28854139:198",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28854139,
-    "name": "夢の終わり",
-    "artists": "河井英里",
-    "album": "Fate/stay night[Réalta Nua] ORIGINAL SOUNDTRACK"
+    "id": 28582376,
+    "name": "Dreams and Visions",
+    "artists": "Tony Anderson",
+    "album": "Seasons"
   }
 }
