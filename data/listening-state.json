@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T10:28:26.421Z",
-  "latestSongId": 28713534,
-  "weekPlayMinutes": 136,
-  "stateSignature": "28713534:136",
-  "previousSignature": "2074456804:127",
+  "generatedAt": "2026-08-23T12:49:09.373Z",
+  "latestSongId": 31152751,
+  "weekPlayMinutes": 158,
+  "stateSignature": "31152751:158",
+  "previousSignature": "28713534:136",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28713534,
-    "name": "REMIND YOU",
-    "artists": "Aimer",
-    "album": "UnChild"
+    "id": 31152751,
+    "name": "AOZORA",
+    "artists": "やまだ豊",
+    "album": "TV ANIMATION Tokyo Ghoul Original Soundtrack"
   }
 }
