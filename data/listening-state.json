@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T01:41:46.825Z",
-  "latestSongId": 2704709111,
+  "generatedAt": "2026-08-23T03:07:05.224Z",
+  "latestSongId": 499887,
   "weekPlayMinutes": 1817,
-  "stateSignature": "2704709111:1817",
-  "previousSignature": "1835702114:1817",
+  "stateSignature": "499887:1817",
+  "previousSignature": "2704709111:1817",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2704709111,
-    "name": "21",
-    "artists": "Lcz-Sv",
-    "album": "21"
+    "id": 499887,
+    "name": "cocoon ＜Choir Mix＞",
+    "artists": "林ゆうき",
+    "album": "「トライアングル」オリジナル・サウンドトラック"
   }
 }
