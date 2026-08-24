@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T10:40:59.386Z",
-  "latestSongId": 1920562752,
-  "weekPlayMinutes": 443,
-  "stateSignature": "1920562752:443",
-  "previousSignature": "4914269:400",
+  "generatedAt": "2026-08-24T12:58:44.637Z",
+  "latestSongId": 29357490,
+  "weekPlayMinutes": 464,
+  "stateSignature": "29357490:464",
+  "previousSignature": "1920562752:443",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1920562752,
-    "name": "Lost Aria",
-    "artists": "Elliot Hsu",
-    "album": "Lost Aria"
+    "id": 29357490,
+    "name": "Night Cruising",
+    "artists": "牛尾憲輔",
+    "album": "Ping Pong (Original Soundtrack)"
   }
 }
