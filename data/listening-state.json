@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T07:07:23.110Z",
-  "latestSongId": 441102365,
-  "weekPlayMinutes": 377,
-  "stateSignature": "441102365:377",
-  "previousSignature": "28713534:351",
+  "generatedAt": "2026-08-24T08:53:24.439Z",
+  "latestSongId": 4914269,
+  "weekPlayMinutes": 400,
+  "stateSignature": "4914269:400",
+  "previousSignature": "441102365:377",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 441102365,
-    "name": "Burning Desire",
-    "artists": "Hudson Mohawke",
-    "album": "Ded Sec - Watch Dogs 2 (Original Game Soundtrack)"
+    "id": 4914269,
+    "name": "WHITE ALBUM",
+    "artists": "平野綾",
+    "album": "AQUAPLUS VOCAL COLLECTION VOL.8"
   }
 }
