@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T08:53:24.439Z",
-  "latestSongId": 4914269,
-  "weekPlayMinutes": 400,
-  "stateSignature": "4914269:400",
-  "previousSignature": "441102365:377",
+  "generatedAt": "2026-08-24T10:40:59.386Z",
+  "latestSongId": 1920562752,
+  "weekPlayMinutes": 443,
+  "stateSignature": "1920562752:443",
+  "previousSignature": "4914269:400",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4914269,
-    "name": "WHITE ALBUM",
-    "artists": "平野綾",
-    "album": "AQUAPLUS VOCAL COLLECTION VOL.8"
+    "id": 1920562752,
+    "name": "Lost Aria",
+    "artists": "Elliot Hsu",
+    "album": "Lost Aria"
   }
 }
