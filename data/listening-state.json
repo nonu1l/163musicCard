@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T14:47:26.566Z",
-  "latestSongId": 29357490,
-  "weekPlayMinutes": 464,
-  "stateSignature": "29357490:464",
+  "generatedAt": "2026-08-24T16:43:00.711Z",
+  "latestSongId": 1305925907,
+  "weekPlayMinutes": 491,
+  "stateSignature": "1305925907:491",
   "previousSignature": "29357490:464",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29357490,
-    "name": "Night Cruising",
-    "artists": "牛尾憲輔",
-    "album": "Ping Pong (Original Soundtrack)"
+    "id": 1305925907,
+    "name": "桜が咲く前に",
+    "artists": "きのこ帝国",
+    "album": "はじめてのきのこ帝国 EMI編"
   }
 }
