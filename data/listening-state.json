@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T16:43:00.711Z",
-  "latestSongId": 1305925907,
-  "weekPlayMinutes": 491,
-  "stateSignature": "1305925907:491",
-  "previousSignature": "29357490:464",
+  "generatedAt": "2026-08-24T18:47:33.805Z",
+  "latestSongId": 28764319,
+  "weekPlayMinutes": 496,
+  "stateSignature": "28764319:496",
+  "previousSignature": "1305925907:491",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1305925907,
-    "name": "桜が咲く前に",
-    "artists": "きのこ帝国",
-    "album": "はじめてのきのこ帝国 EMI編"
+    "id": 28764319,
+    "name": "I'll Keep Coming",
+    "artists": "Low Roar",
+    "album": "0"
   }
 }
