@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T04:50:55.829Z",
-  "latestSongId": 28713534,
-  "weekPlayMinutes": 351,
-  "stateSignature": "28713534:351",
+  "generatedAt": "2026-08-24T07:07:23.110Z",
+  "latestSongId": 441102365,
+  "weekPlayMinutes": 377,
+  "stateSignature": "441102365:377",
   "previousSignature": "28713534:351",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28713534,
-    "name": "REMIND YOU",
-    "artists": "Aimer",
-    "album": "UnChild"
+    "id": 441102365,
+    "name": "Burning Desire",
+    "artists": "Hudson Mohawke",
+    "album": "Ded Sec - Watch Dogs 2 (Original Game Soundtrack)"
   }
 }
