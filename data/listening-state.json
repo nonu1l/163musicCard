@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-23T22:26:44.801Z",
-  "latestSongId": 1840642492,
+  "generatedAt": "2026-08-24T01:39:46.929Z",
+  "latestSongId": 31090686,
   "weekPlayMinutes": 298,
-  "stateSignature": "1840642492:298",
+  "stateSignature": "31090686:298",
   "previousSignature": "1840642492:298",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1840642492,
-    "name": "equinox",
-    "artists": "Xeuphoria / OneChilledPanda",
-    "album": "Piano Sessions: Sakura"
+    "id": 31090686,
+    "name": "Time to go home",
+    "artists": "Jacoo",
+    "album": "Time to go home"
   }
 }
