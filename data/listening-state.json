@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T06:55:53.391Z",
-  "latestSongId": 29481242,
-  "weekPlayMinutes": 574,
-  "stateSignature": "29481242:574",
+  "generatedAt": "2026-08-25T08:49:11.712Z",
+  "latestSongId": 536623501,
+  "weekPlayMinutes": 607,
+  "stateSignature": "536623501:607",
   "previousSignature": "29481242:574",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29481242,
-    "name": "Do You Feel It?",
-    "artists": "Chaos Chaos",
-    "album": "Committed to the Crime"
+    "id": 536623501,
+    "name": "Ref:rain",
+    "artists": "Aimer",
+    "album": "Ref:rain / 眩いばかり"
   }
 }
