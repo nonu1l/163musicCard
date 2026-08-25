@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T14:51:32.331Z",
-  "latestSongId": 1409361290,
-  "weekPlayMinutes": 644,
-  "stateSignature": "1409361290:644",
-  "previousSignature": "33187417:633",
+  "generatedAt": "2026-08-25T16:42:09.923Z",
+  "latestSongId": 415593799,
+  "weekPlayMinutes": 659,
+  "stateSignature": "415593799:659",
+  "previousSignature": "1409361290:644",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1409361290,
-    "name": "A Walk",
-    "artists": "Tycho",
-    "album": "Dive (Deluxe Version)"
+    "id": 415593799,
+    "name": "Moon Without The Stars",
+    "artists": "Quiana",
+    "album": "Deemo Official Soundtrack Vol.2"
   }
 }
