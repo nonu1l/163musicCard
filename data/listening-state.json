@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T10:37:31.028Z",
-  "latestSongId": 29848642,
-  "weekPlayMinutes": 610,
-  "stateSignature": "29848642:610",
-  "previousSignature": "536623501:607",
+  "generatedAt": "2026-08-25T12:55:01.183Z",
+  "latestSongId": 33187417,
+  "weekPlayMinutes": 633,
+  "stateSignature": "33187417:633",
+  "previousSignature": "29848642:610",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29848642,
-    "name": "Girls",
-    "artists": "world's end girlfriend",
-    "album": "Girls​/​Boys Song"
+    "id": 33187417,
+    "name": "Artificial Intelligence",
+    "artists": "U-Run",
+    "album": "Particles of Me"
   }
 }
