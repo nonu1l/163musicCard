@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-25T04:43:28.862Z",
+  "generatedAt": "2026-08-25T06:55:53.391Z",
   "latestSongId": 29481242,
   "weekPlayMinutes": 574,
   "stateSignature": "29481242:574",
   "previousSignature": "29481242:574",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 29481242,
     "name": "Do You Feel It?",
