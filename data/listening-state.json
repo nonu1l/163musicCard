@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-24T22:31:04.078Z",
-  "latestSongId": 28764319,
-  "weekPlayMinutes": 496,
-  "stateSignature": "28764319:496",
+  "generatedAt": "2026-08-25T01:35:06.890Z",
+  "latestSongId": 4304382,
+  "weekPlayMinutes": 541,
+  "stateSignature": "4304382:541",
   "previousSignature": "28764319:496",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28764319,
-    "name": "I'll Keep Coming",
-    "artists": "Low Roar",
-    "album": "0"
+    "id": 4304382,
+    "name": "Hills",
+    "artists": "Samsara",
+    "album": "Samsara"
   }
 }
