@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-25T12:55:01.183Z",
-  "latestSongId": 33187417,
-  "weekPlayMinutes": 633,
-  "stateSignature": "33187417:633",
-  "previousSignature": "29848642:610",
+  "generatedAt": "2026-08-25T14:51:32.331Z",
+  "latestSongId": 1409361290,
+  "weekPlayMinutes": 644,
+  "stateSignature": "1409361290:644",
+  "previousSignature": "33187417:633",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 33187417,
-    "name": "Artificial Intelligence",
-    "artists": "U-Run",
-    "album": "Particles of Me"
+    "id": 1409361290,
+    "name": "A Walk",
+    "artists": "Tycho",
+    "album": "Dive (Deluxe Version)"
   }
 }
