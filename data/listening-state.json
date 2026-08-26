@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T04:44:49.755Z",
-  "latestSongId": 18176868,
-  "weekPlayMinutes": 712,
-  "stateSignature": "18176868:712",
+  "generatedAt": "2026-08-26T06:56:29.353Z",
+  "latestSongId": 34696380,
+  "weekPlayMinutes": 723,
+  "stateSignature": "34696380:723",
   "previousSignature": "18176868:712",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 18176868,
-    "name": "Carnival of Rust",
-    "artists": "Poets of the Fall",
-    "album": "Carnival of Rust"
+    "id": 34696380,
+    "name": "夕暮れのグランド",
+    "artists": "Annabel",
+    "album": "青春サラバイ・前編"
   }
 }
