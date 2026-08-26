@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T08:50:25.766Z",
-  "latestSongId": 2099601427,
-  "weekPlayMinutes": 788,
-  "stateSignature": "2099601427:788",
-  "previousSignature": "34696380:723",
+  "generatedAt": "2026-08-26T10:39:08.044Z",
+  "latestSongId": 22777603,
+  "weekPlayMinutes": 831,
+  "stateSignature": "22777603:831",
+  "previousSignature": "2099601427:788",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2099601427,
-    "name": "生长",
-    "artists": "浅水ShallowEnd",
-    "album": "来世"
+    "id": 22777603,
+    "name": "Dtrmnation",
+    "artists": "Michita",
+    "album": "ONE"
   }
 }
