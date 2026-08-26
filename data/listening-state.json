@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T01:39:51.739Z",
-  "latestSongId": 2937886,
-  "weekPlayMinutes": 682,
-  "stateSignature": "2937886:682",
-  "previousSignature": "415593799:659",
+  "generatedAt": "2026-08-26T03:09:59.654Z",
+  "latestSongId": 18176868,
+  "weekPlayMinutes": 712,
+  "stateSignature": "18176868:712",
+  "previousSignature": "2937886:682",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2937886,
-    "name": "Beating Like a Drum",
-    "artists": "Lovers Electric",
-    "album": "Impossible Dreams"
+    "id": 18176868,
+    "name": "Carnival of Rust",
+    "artists": "Poets of the Fall",
+    "album": "Carnival of Rust"
   }
 }
