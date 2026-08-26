@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T06:56:29.353Z",
-  "latestSongId": 34696380,
-  "weekPlayMinutes": 723,
-  "stateSignature": "34696380:723",
-  "previousSignature": "18176868:712",
+  "generatedAt": "2026-08-26T08:50:25.766Z",
+  "latestSongId": 2099601427,
+  "weekPlayMinutes": 788,
+  "stateSignature": "2099601427:788",
+  "previousSignature": "34696380:723",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34696380,
-    "name": "夕暮れのグランド",
-    "artists": "Annabel",
-    "album": "青春サラバイ・前編"
+    "id": 2099601427,
+    "name": "生长",
+    "artists": "浅水ShallowEnd",
+    "album": "来世"
   }
 }
