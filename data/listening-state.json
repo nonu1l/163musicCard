@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T10:39:08.044Z",
-  "latestSongId": 22777603,
-  "weekPlayMinutes": 831,
-  "stateSignature": "22777603:831",
-  "previousSignature": "2099601427:788",
+  "generatedAt": "2026-08-26T13:01:18.143Z",
+  "latestSongId": 452814326,
+  "weekPlayMinutes": 877,
+  "stateSignature": "452814326:877",
+  "previousSignature": "22777603:831",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22777603,
-    "name": "Dtrmnation",
-    "artists": "Michita",
-    "album": "ONE"
+    "id": 452814326,
+    "name": "Starry Sky",
+    "artists": "DJ OKAWARI",
+    "album": "Compass"
   }
 }
