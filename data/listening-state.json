@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-26T13:01:18.143Z",
-  "latestSongId": 452814326,
-  "weekPlayMinutes": 877,
-  "stateSignature": "452814326:877",
-  "previousSignature": "22777603:831",
+  "generatedAt": "2026-08-26T14:49:25.023Z",
+  "latestSongId": 421203775,
+  "weekPlayMinutes": 882,
+  "stateSignature": "421203775:882",
+  "previousSignature": "452814326:877",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 452814326,
-    "name": "Starry Sky",
-    "artists": "DJ OKAWARI",
-    "album": "Compass"
+    "id": 421203775,
+    "name": "微熱",
+    "artists": "大比良瑞希",
+    "album": "TRUE ROMANCE"
   }
 }
