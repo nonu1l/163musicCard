@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-27T08:32:23.140Z",
-  "latestSongId": 30431356,
-  "weekPlayMinutes": 1085,
-  "stateSignature": "30431356:1085",
-  "previousSignature": "1973665667:927",
+  "generatedAt": "2026-08-27T20:13:58.204Z",
+  "latestSongId": 26466990,
+  "weekPlayMinutes": 1200,
+  "stateSignature": "26466990:1200",
+  "previousSignature": "30431356:1085",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 30431356,
-    "name": "Rё∀L",
-    "artists": "Cyua",
-    "album": "BEST OF VOCAL WORKS [nZk]"
+    "id": 26466990,
+    "name": "Prophecy",
+    "artists": "Adrian Von Ziegler",
+    "album": "Feather and Skull"
   }
 }
