@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-28T06:01:52.246Z",
-  "latestSongId": 2056300,
-  "weekPlayMinutes": 1324,
-  "stateSignature": "2056300:1324",
-  "previousSignature": "26466990:1200",
+  "generatedAt": "2026-08-28T20:06:23.021Z",
+  "latestSongId": 437876,
+  "weekPlayMinutes": 1508,
+  "stateSignature": "437876:1508",
+  "previousSignature": "2056300:1324",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2056300,
-    "name": "Your First Light, My Eventide",
-    "artists": "The Echelon Effect",
-    "album": "Seasons Part 1"
+    "id": 437876,
+    "name": "冬のサクラ",
+    "artists": "市川淳",
+    "album": "日曜剧场 冬のサクラ オリジナル・サウンドトラック"
   }
 }
