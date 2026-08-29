@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-28T20:06:23.021Z",
-  "latestSongId": 437876,
-  "weekPlayMinutes": 1508,
-  "stateSignature": "437876:1508",
-  "previousSignature": "2056300:1324",
+  "generatedAt": "2026-08-29T03:35:06.971Z",
+  "latestSongId": 1459281279,
+  "weekPlayMinutes": 1531,
+  "stateSignature": "1459281279:1531",
+  "previousSignature": "437876:1508",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 437876,
-    "name": "冬のサクラ",
-    "artists": "市川淳",
-    "album": "日曜剧场 冬のサクラ オリジナル・サウンドトラック"
+    "id": 1459281279,
+    "name": "世界で一番じゃない貴方を愛したら",
+    "artists": "羽生まゐご",
+    "album": "魔性のカマトト"
   }
 }
