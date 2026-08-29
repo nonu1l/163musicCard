@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T16:30:52.506Z",
-  "latestSongId": 498124,
+  "generatedAt": "2026-08-29T20:44:31.554Z",
+  "latestSongId": 31245972,
   "weekPlayMinutes": 1719,
-  "stateSignature": "498124:1719",
-  "previousSignature": "19466001:1599",
+  "stateSignature": "31245972:1719",
+  "previousSignature": "498124:1719",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 498124,
-    "name": "Βασιλευζ",
-    "artists": "澤野弘之",
-    "album": "ギルティクラウン オリジナルサウンドトラック"
+    "id": 31245972,
+    "name": "religieuse",
+    "artists": "ロリィタノイロォゼ",
+    "album": "Regina･S"
   }
 }
