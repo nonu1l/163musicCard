@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T03:35:06.971Z",
-  "latestSongId": 1459281279,
-  "weekPlayMinutes": 1531,
-  "stateSignature": "1459281279:1531",
-  "previousSignature": "437876:1508",
+  "generatedAt": "2026-08-29T10:56:30.332Z",
+  "latestSongId": 19466001,
+  "weekPlayMinutes": 1599,
+  "stateSignature": "19466001:1599",
+  "previousSignature": "1459281279:1531",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1459281279,
-    "name": "世界で一番じゃない貴方を愛したら",
-    "artists": "羽生まゐご",
-    "album": "魔性のカマトト"
+    "id": 19466001,
+    "name": "Yellow Brick Road",
+    "artists": "Angus & Julia Stone",
+    "album": "Down the Way (Bonus Track Version)"
   }
 }
