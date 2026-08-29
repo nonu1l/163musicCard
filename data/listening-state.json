@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T10:56:30.332Z",
-  "latestSongId": 19466001,
-  "weekPlayMinutes": 1599,
-  "stateSignature": "19466001:1599",
-  "previousSignature": "1459281279:1531",
+  "generatedAt": "2026-08-29T16:30:52.506Z",
+  "latestSongId": 498124,
+  "weekPlayMinutes": 1719,
+  "stateSignature": "498124:1719",
+  "previousSignature": "19466001:1599",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 19466001,
-    "name": "Yellow Brick Road",
-    "artists": "Angus & Julia Stone",
-    "album": "Down the Way (Bonus Track Version)"
+    "id": 498124,
+    "name": "Βασιλευζ",
+    "artists": "澤野弘之",
+    "album": "ギルティクラウン オリジナルサウンドトラック"
   }
 }
