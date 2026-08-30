@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-30T11:37:56.881Z",
-  "latestSongId": 2663693139,
-  "weekPlayMinutes": 195,
-  "stateSignature": "2663693139:195",
-  "previousSignature": "1459281279:1719",
+  "generatedAt": "2026-08-30T16:24:30.686Z",
+  "latestSongId": 499887,
+  "weekPlayMinutes": 292,
+  "stateSignature": "499887:292",
+  "previousSignature": "2663693139:195",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2663693139,
-    "name": "The Seed of Dreams",
-    "artists": "Shymie / 幻塔手游",
-    "album": "The Seed of Dreams"
+    "id": 499887,
+    "name": "cocoon ＜Choir Mix＞",
+    "artists": "林ゆうき",
+    "album": "「トライアングル」オリジナル・サウンドトラック"
   }
 }
