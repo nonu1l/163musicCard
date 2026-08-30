@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-30T05:13:00.644Z",
-  "latestSongId": 1459281279,
-  "weekPlayMinutes": 1719,
-  "stateSignature": "1459281279:1719",
-  "previousSignature": "31245972:1719",
+  "generatedAt": "2026-08-30T11:37:56.881Z",
+  "latestSongId": 2663693139,
+  "weekPlayMinutes": 195,
+  "stateSignature": "2663693139:195",
+  "previousSignature": "1459281279:1719",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1459281279,
-    "name": "世界で一番じゃない貴方を愛したら",
-    "artists": "羽生まゐご",
-    "album": "魔性のカマトト"
+    "id": 2663693139,
+    "name": "The Seed of Dreams",
+    "artists": "Shymie / 幻塔手游",
+    "album": "The Seed of Dreams"
   }
 }
