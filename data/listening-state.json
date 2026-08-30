@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T23:58:46.023Z",
-  "latestSongId": 31245972,
+  "generatedAt": "2026-08-30T05:13:00.644Z",
+  "latestSongId": 1459281279,
   "weekPlayMinutes": 1719,
-  "stateSignature": "31245972:1719",
+  "stateSignature": "1459281279:1719",
   "previousSignature": "31245972:1719",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 31245972,
-    "name": "religieuse",
-    "artists": "ロリィタノイロォゼ",
-    "album": "Regina･S"
+    "id": 1459281279,
+    "name": "世界で一番じゃない貴方を愛したら",
+    "artists": "羽生まゐご",
+    "album": "魔性のカマトト"
   }
 }
