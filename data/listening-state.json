@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T17:28:47.102Z",
-  "latestSongId": 22737616,
-  "weekPlayMinutes": 618,
-  "stateSignature": "22737616:618",
-  "previousSignature": "2753875557:463",
+  "generatedAt": "2026-08-31T22:41:01.511Z",
+  "latestSongId": 28684025,
+  "weekPlayMinutes": 619,
+  "stateSignature": "28684025:619",
+  "previousSignature": "22737616:618",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22737616,
-    "name": "Together When...",
-    "artists": "浜崎あゆみ",
-    "album": "GUILTY"
+    "id": 28684025,
+    "name": "Inclusion",
+    "artists": "RE:",
+    "album": "Recordare"
   }
 }
