@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T08:26:29.493Z",
-  "latestSongId": 2753875557,
-  "weekPlayMinutes": 463,
-  "stateSignature": "2753875557:463",
-  "previousSignature": "499887:292",
+  "generatedAt": "2026-08-31T17:28:47.102Z",
+  "latestSongId": 22737616,
+  "weekPlayMinutes": 618,
+  "stateSignature": "22737616:618",
+  "previousSignature": "2753875557:463",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2753875557,
-    "name": "夏が終わったら",
-    "artists": "日向文",
-    "album": "夏が終わったら"
+    "id": 22737616,
+    "name": "Together When...",
+    "artists": "浜崎あゆみ",
+    "album": "GUILTY"
   }
 }
