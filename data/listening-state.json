@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T22:41:01.511Z",
-  "latestSongId": 28684025,
-  "weekPlayMinutes": 619,
-  "stateSignature": "28684025:619",
-  "previousSignature": "22737616:618",
+  "generatedAt": "2026-09-01T04:28:42.790Z",
+  "latestSongId": 29786279,
+  "weekPlayMinutes": 664,
+  "stateSignature": "29786279:664",
+  "previousSignature": "28684025:619",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28684025,
-    "name": "Inclusion",
-    "artists": "RE:",
-    "album": "Recordare"
+    "id": 29786279,
+    "name": "for.N",
+    "artists": "横山克",
+    "album": "TBS系 金曜ドラマ「Nのために」オリジナル・サウンドトラック"
   }
 }
