@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-01T16:21:03.702Z",
-  "latestSongId": 26166702,
-  "weekPlayMinutes": 857,
-  "stateSignature": "26166702:857",
-  "previousSignature": "421807905:818",
+  "generatedAt": "2026-09-01T20:50:44.121Z",
+  "latestSongId": 1843903336,
+  "weekPlayMinutes": 908,
+  "stateSignature": "1843903336:908",
+  "previousSignature": "26166702:857",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26166702,
-    "name": "I Remember",
-    "artists": "Luvea",
-    "album": "Debut"
+    "id": 1843903336,
+    "name": "空欢喜",
+    "artists": "柳维妮Weeney",
+    "album": "空欢喜"
   }
 }
