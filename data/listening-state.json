@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-02T19:18:10.957Z",
+  "generatedAt": "2026-09-02T22:28:54.933Z",
   "latestSongId": 18212853,
   "weekPlayMinutes": 1285,
   "stateSignature": "18212853:1285",
   "previousSignature": "18212853:1285",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 18212853,
     "name": "Blurry",
