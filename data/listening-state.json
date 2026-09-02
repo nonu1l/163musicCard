@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-02T08:38:56.150Z",
-  "latestSongId": 1945008796,
-  "weekPlayMinutes": 1239,
-  "stateSignature": "1945008796:1239",
-  "previousSignature": "1405895954:1033",
+  "generatedAt": "2026-09-02T14:13:07.786Z",
+  "latestSongId": 18212853,
+  "weekPlayMinutes": 1285,
+  "stateSignature": "18212853:1285",
+  "previousSignature": "1945008796:1239",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1945008796,
-    "name": "Lost Soul",
-    "artists": "NBSPLV",
-    "album": "Jade Tape"
+    "id": 18212853,
+    "name": "Blurry",
+    "artists": "Puddle of Mudd",
+    "album": "Come Clean"
   }
 }
