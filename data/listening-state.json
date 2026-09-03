@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-03T19:12:40.140Z",
-  "latestSongId": 1897698838,
-  "weekPlayMinutes": 1745,
-  "stateSignature": "1897698838:1745",
-  "previousSignature": "26166702:1676",
+  "generatedAt": "2026-09-03T22:30:36.430Z",
+  "latestSongId": 27513873,
+  "weekPlayMinutes": 1770,
+  "stateSignature": "27513873:1770",
+  "previousSignature": "1897698838:1745",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1897698838,
-    "name": "Don't mind me",
-    "artists": "Lil Liar / LiL BO WEEP",
-    "album": "Don't mind me"
+    "id": 27513873,
+    "name": "Wings",
+    "artists": "Birdy",
+    "album": "Wings"
   }
 }
