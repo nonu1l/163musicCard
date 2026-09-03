@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-03T08:47:14.993Z",
-  "latestSongId": 357023,
-  "weekPlayMinutes": 1534,
-  "stateSignature": "357023:1534",
-  "previousSignature": "1318242238:1457",
+  "generatedAt": "2026-09-03T14:16:39.428Z",
+  "latestSongId": 26166702,
+  "weekPlayMinutes": 1676,
+  "stateSignature": "26166702:1676",
+  "previousSignature": "357023:1534",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 357023,
-    "name": "Princess",
-    "artists": "α·Pav",
-    "album": "Dulcet Series summer special collection"
+    "id": 26166702,
+    "name": "I Remember",
+    "artists": "Luvea",
+    "album": "Debut"
   }
 }
