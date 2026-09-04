@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-04T14:06:24.709Z",
-  "latestSongId": 33527245,
-  "weekPlayMinutes": 2128,
-  "stateSignature": "33527245:2128",
-  "previousSignature": "22689961:1976",
+  "generatedAt": "2026-09-04T18:54:57.694Z",
+  "latestSongId": 27824040,
+  "weekPlayMinutes": 2154,
+  "stateSignature": "27824040:2154",
+  "previousSignature": "33527245:2128",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 33527245,
-    "name": "black cat in the rain (aran remix)",
-    "artists": "DJ Noriken / aran",
-    "album": "SKETCH UP! REMIXIES Twice!"
+    "id": 27824040,
+    "name": "Away From Here (Alex Greene Remix)",
+    "artists": "Valentin / Roald Velden",
+    "album": "VA - Elliptical Sun Remixes 001"
   }
 }
