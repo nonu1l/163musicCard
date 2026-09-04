@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-03T22:30:36.430Z",
-  "latestSongId": 27513873,
-  "weekPlayMinutes": 1770,
-  "stateSignature": "27513873:1770",
-  "previousSignature": "1897698838:1745",
+  "generatedAt": "2026-09-04T03:52:28.806Z",
+  "latestSongId": 1445685044,
+  "weekPlayMinutes": 1837,
+  "stateSignature": "1445685044:1837",
+  "previousSignature": "27513873:1770",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 27513873,
-    "name": "Wings",
-    "artists": "Birdy",
-    "album": "Wings"
+    "id": 1445685044,
+    "name": "Shadow",
+    "artists": "Jing / 柳李",
+    "album": "Jing"
   }
 }
