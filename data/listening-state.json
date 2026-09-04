@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-04T08:50:03.264Z",
-  "latestSongId": 22689961,
-  "weekPlayMinutes": 1976,
-  "stateSignature": "22689961:1976",
-  "previousSignature": "1445685044:1837",
+  "generatedAt": "2026-09-04T14:06:24.709Z",
+  "latestSongId": 33527245,
+  "weekPlayMinutes": 2128,
+  "stateSignature": "33527245:2128",
+  "previousSignature": "22689961:1976",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22689961,
-    "name": "sand dream",
-    "artists": "Revo / 梶浦由記",
-    "album": "Dream Port"
+    "id": 33527245,
+    "name": "black cat in the rain (aran remix)",
+    "artists": "DJ Noriken / aran",
+    "album": "SKETCH UP! REMIXIES Twice!"
   }
 }
