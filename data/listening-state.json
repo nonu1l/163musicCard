@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-05T16:40:49.254Z",
-  "latestSongId": 28310479,
+  "generatedAt": "2026-09-05T20:09:17.977Z",
+  "latestSongId": 2658924999,
   "weekPlayMinutes": 2481,
-  "stateSignature": "28310479:2481",
-  "previousSignature": "38392589:2404",
+  "stateSignature": "2658924999:2481",
+  "previousSignature": "28310479:2481",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28310479,
-    "name": "Dear Boy (Avicii by Avicii)",
-    "artists": "Avicii / MØ",
-    "album": "True: Avicii By Avicii"
+    "id": 2658924999,
+    "name": "On My Way",
+    "artists": "羽毛海葵",
+    "album": "On My Way"
   }
 }
