@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-05T03:50:24.010Z",
-  "latestSongId": 411921067,
-  "weekPlayMinutes": 2211,
-  "stateSignature": "411921067:2211",
-  "previousSignature": "27824040:2154",
+  "generatedAt": "2026-09-05T08:14:35.146Z",
+  "latestSongId": 5067894,
+  "weekPlayMinutes": 2299,
+  "stateSignature": "5067894:2299",
+  "previousSignature": "411921067:2211",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 411921067,
-    "name": "Clearest Blue (Gryffin Remix)",
-    "artists": "Gryffin / CHVRCHES",
-    "album": "Clearest Blue (Gryffin Remix)"
+    "id": 5067894,
+    "name": "Ideekay",
+    "artists": "Ephixa",
+    "album": "Monstercat 007 - Solace"
   }
 }
