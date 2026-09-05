@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-04T22:15:14.275Z",
-  "latestSongId": 27824040,
-  "weekPlayMinutes": 2154,
-  "stateSignature": "27824040:2154",
+  "generatedAt": "2026-09-05T03:50:24.010Z",
+  "latestSongId": 411921067,
+  "weekPlayMinutes": 2211,
+  "stateSignature": "411921067:2211",
   "previousSignature": "27824040:2154",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 27824040,
-    "name": "Away From Here (Alex Greene Remix)",
-    "artists": "Valentin / Roald Velden",
-    "album": "VA - Elliptical Sun Remixes 001"
+    "id": 411921067,
+    "name": "Clearest Blue (Gryffin Remix)",
+    "artists": "Gryffin / CHVRCHES",
+    "album": "Clearest Blue (Gryffin Remix)"
   }
 }
