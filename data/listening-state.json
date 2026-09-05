@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-05T13:19:33.092Z",
-  "latestSongId": 38392589,
-  "weekPlayMinutes": 2404,
-  "stateSignature": "38392589:2404",
-  "previousSignature": "5067894:2299",
+  "generatedAt": "2026-09-05T16:40:49.254Z",
+  "latestSongId": 28310479,
+  "weekPlayMinutes": 2481,
+  "stateSignature": "28310479:2481",
+  "previousSignature": "38392589:2404",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 38392589,
-    "name": "Miami Sundown",
-    "artists": "Ummet Ozcan",
-    "album": "Miami Sundown"
+    "id": 28310479,
+    "name": "Dear Boy (Avicii by Avicii)",
+    "artists": "Avicii / MØ",
+    "album": "True: Avicii By Avicii"
   }
 }
