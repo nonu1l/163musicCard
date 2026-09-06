@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-06T08:32:47.407Z",
-  "latestSongId": 1831165571,
-  "weekPlayMinutes": 235,
-  "stateSignature": "1831165571:235",
-  "previousSignature": "1823456277:2481",
+  "generatedAt": "2026-09-06T13:29:23.116Z",
+  "latestSongId": 543798322,
+  "weekPlayMinutes": 334,
+  "stateSignature": "543798322:334",
+  "previousSignature": "1831165571:235",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1831165571,
-    "name": "衝撃(molmol DUB)",
-    "artists": "安藤裕子",
-    "album": "衝撃(molmol DUB)"
+    "id": 543798322,
+    "name": "Fate",
+    "artists": "KOKIA",
+    "album": "EVOLVE to LOVE -20 years Anniversary BEST-"
   }
 }
