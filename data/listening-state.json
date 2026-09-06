@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-06T03:54:48.757Z",
-  "latestSongId": 1823456277,
-  "weekPlayMinutes": 2481,
-  "stateSignature": "1823456277:2481",
-  "previousSignature": "2658924999:2481",
+  "generatedAt": "2026-09-06T08:32:47.407Z",
+  "latestSongId": 1831165571,
+  "weekPlayMinutes": 235,
+  "stateSignature": "1831165571:235",
+  "previousSignature": "1823456277:2481",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1823456277,
-    "name": "Savior",
-    "artists": "Lil Swervo Jr. / Beowülf",
-    "album": "Savior"
+    "id": 1831165571,
+    "name": "衝撃(molmol DUB)",
+    "artists": "安藤裕子",
+    "album": "衝撃(molmol DUB)"
   }
 }
