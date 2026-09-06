@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-06T20:13:56.904Z",
+  "generatedAt": "2026-09-06T23:39:09.417Z",
   "latestSongId": 36199989,
   "weekPlayMinutes": 340,
   "stateSignature": "36199989:340",
   "previousSignature": "36199989:340",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 36199989,
     "name": "A Bit Slower (Original Mix 2015)",
