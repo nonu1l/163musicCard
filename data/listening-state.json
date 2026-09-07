@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-07T03:54:15.460Z",
-  "latestSongId": 29401202,
-  "weekPlayMinutes": 376,
-  "stateSignature": "29401202:376",
-  "previousSignature": "36199989:340",
+  "generatedAt": "2026-09-07T09:10:41.964Z",
+  "latestSongId": 2725132249,
+  "weekPlayMinutes": 441,
+  "stateSignature": "2725132249:441",
+  "previousSignature": "29401202:376",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29401202,
-    "name": "Past The Stargazing Season",
-    "artists": "Mili / H△G",
-    "album": "古树旋律 Deemo"
+    "id": 2725132249,
+    "name": "生存录",
+    "artists": "Lit-Hao",
+    "album": "生存录"
   }
 }
