@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-07T15:39:29.968Z",
-  "latestSongId": 1995348020,
-  "weekPlayMinutes": 593,
-  "stateSignature": "1995348020:593",
-  "previousSignature": "2725132249:441",
+  "generatedAt": "2026-09-07T19:44:18.677Z",
+  "latestSongId": 101935,
+  "weekPlayMinutes": 599,
+  "stateSignature": "101935:599",
+  "previousSignature": "1995348020:593",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1995348020,
-    "name": "We Are All Insane",
-    "artists": "AWOLNATION",
-    "album": "We Are All Insane"
+    "id": 101935,
+    "name": "Refrigerator",
+    "artists": "黄英华",
+    "album": "少林足球 电影原声带"
   }
 }
