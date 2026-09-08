@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T14:16:43.658Z",
-  "latestSongId": 482633120,
-  "weekPlayMinutes": 879,
-  "stateSignature": "482633120:879",
-  "previousSignature": "865916694:771",
+  "generatedAt": "2026-09-08T19:20:35.271Z",
+  "latestSongId": 1807799505,
+  "weekPlayMinutes": 978,
+  "stateSignature": "1807799505:978",
+  "previousSignature": "482633120:879",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 482633120,
-    "name": "attack音D",
-    "artists": "澤野弘之",
-    "album": "TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック"
+    "id": 1807799505,
+    "name": "唯一",
+    "artists": "告五人",
+    "album": "运气来得若有似无"
   }
 }
