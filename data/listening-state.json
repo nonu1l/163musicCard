@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-07T22:40:24.187Z",
-  "latestSongId": 101935,
-  "weekPlayMinutes": 599,
-  "stateSignature": "101935:599",
+  "generatedAt": "2026-09-08T03:56:41.274Z",
+  "latestSongId": 2133511148,
+  "weekPlayMinutes": 677,
+  "stateSignature": "2133511148:677",
   "previousSignature": "101935:599",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 101935,
-    "name": "Refrigerator",
-    "artists": "黄英华",
-    "album": "少林足球 电影原声带"
+    "id": 2133511148,
+    "name": "“新和联胜”",
+    "artists": "冰YOUNGBING",
+    "album": "“新和联胜” 黑社会采样 - 孟菲斯 Typebeat"
   }
 }
