@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T03:56:41.274Z",
-  "latestSongId": 2133511148,
-  "weekPlayMinutes": 677,
-  "stateSignature": "2133511148:677",
-  "previousSignature": "101935:599",
+  "generatedAt": "2026-09-08T08:47:59.514Z",
+  "latestSongId": 865916694,
+  "weekPlayMinutes": 771,
+  "stateSignature": "865916694:771",
+  "previousSignature": "2133511148:677",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2133511148,
-    "name": "“新和联胜”",
-    "artists": "冰YOUNGBING",
-    "album": "“新和联胜” 黑社会采样 - 孟菲斯 Typebeat"
+    "id": 865916694,
+    "name": "Run The Road",
+    "artists": "Santigold",
+    "album": "I Don't Want: The Gold Fire Sessions"
   }
 }
