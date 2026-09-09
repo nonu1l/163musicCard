@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-09T16:17:42.021Z",
-  "latestSongId": 1935051194,
-  "weekPlayMinutes": 1237,
-  "stateSignature": "1935051194:1237",
-  "previousSignature": "1898637162:1120",
+  "generatedAt": "2026-09-09T20:45:11.315Z",
+  "latestSongId": 2659204063,
+  "weekPlayMinutes": 1279,
+  "stateSignature": "2659204063:1279",
+  "previousSignature": "1935051194:1237",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1935051194,
-    "name": "Running 2 you",
-    "artists": "Rnla / SEON",
-    "album": "Running 2 you"
+    "id": 2659204063,
+    "name": "你当像鸟飞往你的山",
+    "artists": "万能日记",
+    "album": "你当像鸟飞往你的山"
   }
 }
