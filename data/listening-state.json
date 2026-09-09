@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-08T22:29:05.507Z",
-  "latestSongId": 1807799505,
-  "weekPlayMinutes": 978,
-  "stateSignature": "1807799505:978",
+  "generatedAt": "2026-09-09T04:02:18.476Z",
+  "latestSongId": 36199989,
+  "weekPlayMinutes": 1006,
+  "stateSignature": "36199989:1006",
   "previousSignature": "1807799505:978",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1807799505,
-    "name": "唯一",
-    "artists": "告五人",
-    "album": "运气来得若有似无"
+    "id": 36199989,
+    "name": "A Bit Slower (Original Mix 2015)",
+    "artists": "Imida pres. Ice Clouds",
+    "album": "Beautiful world 066"
   }
 }
