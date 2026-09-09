@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-09T04:02:18.476Z",
-  "latestSongId": 36199989,
-  "weekPlayMinutes": 1006,
-  "stateSignature": "36199989:1006",
-  "previousSignature": "1807799505:978",
+  "generatedAt": "2026-09-09T11:02:06.978Z",
+  "latestSongId": 1898637162,
+  "weekPlayMinutes": 1120,
+  "stateSignature": "1898637162:1120",
+  "previousSignature": "36199989:1006",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 36199989,
-    "name": "A Bit Slower (Original Mix 2015)",
-    "artists": "Imida pres. Ice Clouds",
-    "album": "Beautiful world 066"
+    "id": 1898637162,
+    "name": "My All",
+    "artists": "Vin Jay / C-Lance",
+    "album": "My All"
   }
 }
