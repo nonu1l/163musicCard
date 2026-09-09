@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-09T11:02:06.978Z",
-  "latestSongId": 1898637162,
-  "weekPlayMinutes": 1120,
-  "stateSignature": "1898637162:1120",
-  "previousSignature": "36199989:1006",
+  "generatedAt": "2026-09-09T16:17:42.021Z",
+  "latestSongId": 1935051194,
+  "weekPlayMinutes": 1237,
+  "stateSignature": "1935051194:1237",
+  "previousSignature": "1898637162:1120",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1898637162,
-    "name": "My All",
-    "artists": "Vin Jay / C-Lance",
-    "album": "My All"
+    "id": 1935051194,
+    "name": "Running 2 you",
+    "artists": "Rnla / SEON",
+    "album": "Running 2 you"
   }
 }
