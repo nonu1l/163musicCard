@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-10T10:58:38.450Z",
-  "latestSongId": 2159354578,
-  "weekPlayMinutes": 1504,
-  "stateSignature": "2159354578:1504",
-  "previousSignature": "3407502725:1376",
+  "generatedAt": "2026-09-10T16:08:49.260Z",
+  "latestSongId": 2041968047,
+  "weekPlayMinutes": 1634,
+  "stateSignature": "2041968047:1634",
+  "previousSignature": "2159354578:1504",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2159354578,
-    "name": "Whataya Want from Me (live)",
-    "artists": "Adam Lambert",
-    "album": "歌手2024 第3期"
+    "id": 2041968047,
+    "name": "倘若世界遗忘我",
+    "artists": "张叶蕾",
+    "album": "倘若世界遗忘我"
   }
 }
