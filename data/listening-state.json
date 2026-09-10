@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-10T04:24:34.108Z",
-  "latestSongId": 3407502725,
-  "weekPlayMinutes": 1376,
-  "stateSignature": "3407502725:1376",
-  "previousSignature": "2659204063:1279",
+  "generatedAt": "2026-09-10T10:58:38.450Z",
+  "latestSongId": 2159354578,
+  "weekPlayMinutes": 1504,
+  "stateSignature": "2159354578:1504",
+  "previousSignature": "3407502725:1376",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3407502725,
-    "name": "可流星未曾知",
-    "artists": "Shight",
-    "album": "可流星未曾知"
+    "id": 2159354578,
+    "name": "Whataya Want from Me (live)",
+    "artists": "Adam Lambert",
+    "album": "歌手2024 第3期"
   }
 }
