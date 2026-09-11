@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-11T08:50:57.932Z",
-  "latestSongId": 3410607883,
-  "weekPlayMinutes": 1862,
-  "stateSignature": "3410607883:1862",
-  "previousSignature": "5077222:1744",
+  "generatedAt": "2026-09-11T14:09:46.004Z",
+  "latestSongId": 3420869031,
+  "weekPlayMinutes": 1966,
+  "stateSignature": "3420869031:1966",
+  "previousSignature": "3410607883:1862",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3410607883,
-    "name": "You And Me (Wait For Me)",
-    "artists": "CVRCH",
-    "album": "You And Me (Wait For Me)"
+    "id": 3420869031,
+    "name": "Sobbing",
+    "artists": "Even仇依文",
+    "album": "Before I Log Out ?"
   }
 }
