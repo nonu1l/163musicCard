@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-11T03:57:48.225Z",
-  "latestSongId": 5077222,
-  "weekPlayMinutes": 1744,
-  "stateSignature": "5077222:1744",
-  "previousSignature": "1492604442:1653",
+  "generatedAt": "2026-09-11T08:50:57.932Z",
+  "latestSongId": 3410607883,
+  "weekPlayMinutes": 1862,
+  "stateSignature": "3410607883:1862",
+  "previousSignature": "5077222:1744",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 5077222,
-    "name": "Why Start A Fire",
-    "artists": "Lisa Miskovsky",
-    "album": "Melodifestivalen 2012"
+    "id": 3410607883,
+    "name": "You And Me (Wait For Me)",
+    "artists": "CVRCH",
+    "album": "You And Me (Wait For Me)"
   }
 }
