@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-10T23:52:26.355Z",
-  "latestSongId": 1492604442,
-  "weekPlayMinutes": 1653,
-  "stateSignature": "1492604442:1653",
+  "generatedAt": "2026-09-11T03:57:48.225Z",
+  "latestSongId": 5077222,
+  "weekPlayMinutes": 1744,
+  "stateSignature": "5077222:1744",
   "previousSignature": "1492604442:1653",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1492604442,
-    "name": "Anticipation",
-    "artists": "Ilya Kuznetsov & Mapps",
-    "album": "Anticipation"
+    "id": 5077222,
+    "name": "Why Start A Fire",
+    "artists": "Lisa Miskovsky",
+    "album": "Melodifestivalen 2012"
   }
 }
