@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-11T14:09:46.004Z",
-  "latestSongId": 3420869031,
-  "weekPlayMinutes": 1966,
-  "stateSignature": "3420869031:1966",
-  "previousSignature": "3410607883:1862",
+  "generatedAt": "2026-09-11T19:04:00.855Z",
+  "latestSongId": 1453972876,
+  "weekPlayMinutes": 1984,
+  "stateSignature": "1453972876:1984",
+  "previousSignature": "3420869031:1966",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3420869031,
-    "name": "Sobbing",
-    "artists": "Even仇依文",
-    "album": "Before I Log Out ?"
+    "id": 1453972876,
+    "name": "Secret Sensation",
+    "artists": "TK from 凛として時雨",
+    "album": "Secret Sensation"
   }
 }
