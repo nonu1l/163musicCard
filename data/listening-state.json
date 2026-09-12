@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T20:23:04.553Z",
+  "generatedAt": "2026-09-12T23:52:15.445Z",
   "latestSongId": 2041968047,
   "weekPlayMinutes": 2206,
   "stateSignature": "2041968047:2206",
   "previousSignature": "2041968047:2206",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 2041968047,
     "name": "倘若世界遗忘我",
