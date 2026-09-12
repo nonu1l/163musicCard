@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-12T08:35:24.907Z",
-  "latestSongId": 3361570899,
-  "weekPlayMinutes": 2048,
-  "stateSignature": "3361570899:2048",
-  "previousSignature": "3361570899:2018",
+  "generatedAt": "2026-09-12T13:28:06.329Z",
+  "latestSongId": 3414889823,
+  "weekPlayMinutes": 2158,
+  "stateSignature": "3414889823:2158",
+  "previousSignature": "3361570899:2048",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3361570899,
-    "name": "Aphonia",
-    "artists": "dumuke",
-    "album": "i don't like the feeling"
+    "id": 3414889823,
+    "name": "泪染雪",
+    "artists": "雾江月",
+    "album": "泪染雪"
   }
 }
