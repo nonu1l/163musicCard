@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-11T22:22:04.784Z",
-  "latestSongId": 1453972876,
-  "weekPlayMinutes": 1984,
-  "stateSignature": "1453972876:1984",
+  "generatedAt": "2026-09-12T03:59:54.718Z",
+  "latestSongId": 3361570899,
+  "weekPlayMinutes": 2018,
+  "stateSignature": "3361570899:2018",
   "previousSignature": "1453972876:1984",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1453972876,
-    "name": "Secret Sensation",
-    "artists": "TK from 凛として時雨",
-    "album": "Secret Sensation"
+    "id": 3361570899,
+    "name": "Aphonia",
+    "artists": "dumuke",
+    "album": "i don't like the feeling"
   }
 }
