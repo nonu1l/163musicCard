@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-12T23:52:15.445Z",
-  "latestSongId": 2041968047,
-  "weekPlayMinutes": 2206,
-  "stateSignature": "2041968047:2206",
+  "generatedAt": "2026-09-13T11:27:37.522Z",
+  "latestSongId": 31997443,
+  "weekPlayMinutes": 225,
+  "stateSignature": "31997443:225",
   "previousSignature": "2041968047:2206",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2041968047,
-    "name": "倘若世界遗忘我",
-    "artists": "张叶蕾",
-    "album": "倘若世界遗忘我"
+    "id": 31997443,
+    "name": "あいのけもの",
+    "artists": "古川本舗",
+    "album": "SINGALONG7"
   }
 }
