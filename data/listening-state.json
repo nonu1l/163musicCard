@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-13T15:56:10.075Z",
-  "latestSongId": 1405895954,
-  "weekPlayMinutes": 350,
-  "stateSignature": "1405895954:350",
-  "previousSignature": "31997443:225",
+  "generatedAt": "2026-09-13T18:42:24.051Z",
+  "latestSongId": 1382522763,
+  "weekPlayMinutes": 386,
+  "stateSignature": "1382522763:386",
+  "previousSignature": "1405895954:350",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1405895954,
-    "name": "child dancer",
-    "artists": "謎女",
-    "album": "wit and love / child dancer"
+    "id": 1382522763,
+    "name": "Introspection",
+    "artists": "Estas Tonne",
+    "album": "Introspection"
   }
 }
