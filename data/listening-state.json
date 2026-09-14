@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-13T22:15:38.774Z",
-  "latestSongId": 1382522763,
-  "weekPlayMinutes": 386,
-  "stateSignature": "1382522763:386",
+  "generatedAt": "2026-09-14T04:17:26.144Z",
+  "latestSongId": 2660897170,
+  "weekPlayMinutes": 444,
+  "stateSignature": "2660897170:444",
   "previousSignature": "1382522763:386",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1382522763,
-    "name": "Introspection",
-    "artists": "Estas Tonne",
-    "album": "Introspection"
+    "id": 2660897170,
+    "name": "不得",
+    "artists": "铁皮软糖",
+    "album": "不流行朋克"
   }
 }
