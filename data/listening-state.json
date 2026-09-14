@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-14T12:20:09.728Z",
-  "latestSongId": 2095336160,
-  "weekPlayMinutes": 535,
-  "stateSignature": "2095336160:535",
-  "previousSignature": "2660897170:444",
+  "generatedAt": "2026-09-14T19:08:25.188Z",
+  "latestSongId": 2096764463,
+  "weekPlayMinutes": 654,
+  "stateSignature": "2096764463:654",
+  "previousSignature": "2095336160:535",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2095336160,
-    "name": "Good Liar",
-    "artists": "Housenick",
-    "album": "Good Liar"
+    "id": 2096764463,
+    "name": "梦中商店(The Moon Shop)",
+    "artists": "及时撤退Jane’s Fallback",
+    "album": "梦中商店（The Moon Shop）"
   }
 }
