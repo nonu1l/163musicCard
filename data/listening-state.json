@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-15T16:39:17.457Z",
-  "latestSongId": 3361570899,
-  "weekPlayMinutes": 934,
-  "stateSignature": "3361570899:934",
-  "previousSignature": "3361570899:819",
+  "generatedAt": "2026-09-15T21:04:18.875Z",
+  "latestSongId": 3425034422,
+  "weekPlayMinutes": 941,
+  "stateSignature": "3425034422:941",
+  "previousSignature": "3361570899:934",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3361570899,
-    "name": "Aphonia",
-    "artists": "dumuke",
-    "album": "i don't like the feeling"
+    "id": 3425034422,
+    "name": "容器(Nothing Left)",
+    "artists": "浅水ShallowEnd",
+    "album": "容器（Nothing Left）"
   }
 }
