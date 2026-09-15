@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-14T23:01:23.626Z",
-  "latestSongId": 2096764463,
-  "weekPlayMinutes": 654,
-  "stateSignature": "2096764463:654",
+  "generatedAt": "2026-09-15T04:17:46.124Z",
+  "latestSongId": 1201563,
+  "weekPlayMinutes": 699,
+  "stateSignature": "1201563:699",
   "previousSignature": "2096764463:654",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2096764463,
-    "name": "梦中商店(The Moon Shop)",
-    "artists": "及时撤退Jane’s Fallback",
-    "album": "梦中商店（The Moon Shop）"
+    "id": 1201563,
+    "name": "The Last Reminder",
+    "artists": "Collapse Under The Empire",
+    "album": "Shoulders & Giants"
   }
 }
