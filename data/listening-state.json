@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T18:02:05.054Z",
-  "latestSongId": 1405226980,
-  "weekPlayMinutes": 1242,
-  "stateSignature": "1405226980:1242",
-  "previousSignature": "22753346:1129",
+  "generatedAt": "2026-09-16T22:47:57.635Z",
+  "latestSongId": 3421669193,
+  "weekPlayMinutes": 1361,
+  "stateSignature": "3421669193:1361",
+  "previousSignature": "1405226980:1242",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1405226980,
-    "name": "Needed Love",
-    "artists": "Liam Thomas",
-    "album": "Needed Love"
+    "id": 3421669193,
+    "name": "King of Coins",
+    "artists": "Lindsey Stirling / ARKAI",
+    "album": "King of Coins"
   }
 }
