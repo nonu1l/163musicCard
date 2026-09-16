@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T07:28:01.110Z",
-  "latestSongId": 21375452,
-  "weekPlayMinutes": 1068,
-  "stateSignature": "21375452:1068",
-  "previousSignature": "3425034422:941",
+  "generatedAt": "2026-09-16T13:17:30.957Z",
+  "latestSongId": 22753346,
+  "weekPlayMinutes": 1129,
+  "stateSignature": "22753346:1129",
+  "previousSignature": "21375452:1068",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 21375452,
-    "name": "Mountaintops & Skyscrapers",
-    "artists": "Philter / Miriam Vaga",
-    "album": "The Blossom Chronicles"
+    "id": 22753346,
+    "name": "Ego",
+    "artists": "Hiroyuki Sawano",
+    "album": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2"
   }
 }
