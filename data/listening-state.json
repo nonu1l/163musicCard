@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T00:04:02.536Z",
-  "latestSongId": 3425034422,
-  "weekPlayMinutes": 941,
-  "stateSignature": "3425034422:941",
+  "generatedAt": "2026-09-16T07:28:01.110Z",
+  "latestSongId": 21375452,
+  "weekPlayMinutes": 1068,
+  "stateSignature": "21375452:1068",
   "previousSignature": "3425034422:941",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3425034422,
-    "name": "容器(Nothing Left)",
-    "artists": "浅水ShallowEnd",
-    "album": "容器（Nothing Left）"
+    "id": 21375452,
+    "name": "Mountaintops & Skyscrapers",
+    "artists": "Philter / Miriam Vaga",
+    "album": "The Blossom Chronicles"
   }
 }
