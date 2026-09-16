@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T13:17:30.957Z",
-  "latestSongId": 22753346,
-  "weekPlayMinutes": 1129,
-  "stateSignature": "22753346:1129",
-  "previousSignature": "21375452:1068",
+  "generatedAt": "2026-09-16T18:02:05.054Z",
+  "latestSongId": 1405226980,
+  "weekPlayMinutes": 1242,
+  "stateSignature": "1405226980:1242",
+  "previousSignature": "22753346:1129",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22753346,
-    "name": "Ego",
-    "artists": "Hiroyuki Sawano",
-    "album": "MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2"
+    "id": 1405226980,
+    "name": "Needed Love",
+    "artists": "Liam Thomas",
+    "album": "Needed Love"
   }
 }
