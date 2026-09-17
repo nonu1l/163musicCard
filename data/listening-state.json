@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T16:37:46.088Z",
-  "latestSongId": 2748600076,
-  "weekPlayMinutes": 1520,
-  "stateSignature": "2748600076:1520",
-  "previousSignature": "3421669193:1460",
+  "generatedAt": "2026-09-17T21:08:51.436Z",
+  "latestSongId": 1347200201,
+  "weekPlayMinutes": 1549,
+  "stateSignature": "1347200201:1549",
+  "previousSignature": "2748600076:1520",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2748600076,
-    "name": "ithinkimgoinginsane",
-    "artists": "VALOUS ISRAFIL",
-    "album": "ithinkimgoinginsane"
+    "id": 1347200201,
+    "name": "Poet's Heart",
+    "artists": "JigglePuff",
+    "album": "Half Awake：三年一梦"
   }
 }
