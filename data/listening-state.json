@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T11:21:02.856Z",
-  "latestSongId": 3421669193,
-  "weekPlayMinutes": 1460,
-  "stateSignature": "3421669193:1460",
-  "previousSignature": "1405895954:1385",
+  "generatedAt": "2026-09-17T16:37:46.088Z",
+  "latestSongId": 2748600076,
+  "weekPlayMinutes": 1520,
+  "stateSignature": "2748600076:1520",
+  "previousSignature": "3421669193:1460",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3421669193,
-    "name": "King of Coins",
-    "artists": "Lindsey Stirling / ARKAI",
-    "album": "King of Coins"
+    "id": 2748600076,
+    "name": "ithinkimgoinginsane",
+    "artists": "VALOUS ISRAFIL",
+    "album": "ithinkimgoinginsane"
   }
 }
