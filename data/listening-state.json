@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-16T22:47:57.635Z",
-  "latestSongId": 3421669193,
-  "weekPlayMinutes": 1361,
-  "stateSignature": "3421669193:1361",
-  "previousSignature": "1405226980:1242",
+  "generatedAt": "2026-09-17T04:20:04.309Z",
+  "latestSongId": 1405895954,
+  "weekPlayMinutes": 1385,
+  "stateSignature": "1405895954:1385",
+  "previousSignature": "3421669193:1361",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3421669193,
-    "name": "King of Coins",
-    "artists": "Lindsey Stirling / ARKAI",
-    "album": "King of Coins"
+    "id": 1405895954,
+    "name": "child dancer",
+    "artists": "謎女",
+    "album": "wit and love / child dancer"
   }
 }
