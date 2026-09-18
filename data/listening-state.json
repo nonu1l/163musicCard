@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-18T04:33:21.494Z",
-  "latestSongId": 3434176072,
-  "weekPlayMinutes": 1582,
-  "stateSignature": "3434176072:1582",
-  "previousSignature": "1347200201:1549",
+  "generatedAt": "2026-09-18T10:54:55.926Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 1691,
+  "stateSignature": "1299923:1691",
+  "previousSignature": "3434176072:1582",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3434176072,
-    "name": "Autumn",
-    "artists": "Little End",
-    "album": "Autumn"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
