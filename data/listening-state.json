@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-18T00:00:19.800Z",
-  "latestSongId": 1347200201,
-  "weekPlayMinutes": 1549,
-  "stateSignature": "1347200201:1549",
+  "generatedAt": "2026-09-18T04:33:21.494Z",
+  "latestSongId": 3434176072,
+  "weekPlayMinutes": 1582,
+  "stateSignature": "3434176072:1582",
   "previousSignature": "1347200201:1549",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1347200201,
-    "name": "Poet's Heart",
-    "artists": "JigglePuff",
-    "album": "Half Awake：三年一梦"
+    "id": 3434176072,
+    "name": "Autumn",
+    "artists": "Little End",
+    "album": "Autumn"
   }
 }
