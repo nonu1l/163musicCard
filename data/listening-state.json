@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T12:22:45.403Z",
-  "latestSongId": 3409413797,
-  "weekPlayMinutes": 1911,
-  "stateSignature": "3409413797:1911",
-  "previousSignature": "3410807287:1857",
+  "generatedAt": "2026-09-19T17:05:57.539Z",
+  "latestSongId": 485354138,
+  "weekPlayMinutes": 2030,
+  "stateSignature": "485354138:2030",
+  "previousSignature": "3409413797:1911",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3409413797,
-    "name": "Sea Mist Beat（氛围感）",
-    "artists": "Mking / Sansssss / DJ不二 / KORVAX / 比斯平 / KiNG / Jasr",
-    "album": "Sea Mist Beat（氛围感）"
+    "id": 485354138,
+    "name": "Embrace",
+    "artists": "Sappheiros",
+    "album": "Embrace"
   }
 }
