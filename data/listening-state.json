@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-19T07:11:49.866Z",
-  "latestSongId": 3410807287,
-  "weekPlayMinutes": 1857,
-  "stateSignature": "3410807287:1857",
-  "previousSignature": "3410807287:1767",
+  "generatedAt": "2026-09-19T12:22:45.403Z",
+  "latestSongId": 3409413797,
+  "weekPlayMinutes": 1911,
+  "stateSignature": "3409413797:1911",
+  "previousSignature": "3410807287:1857",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3410807287,
-    "name": "逃避所有人的孤独让你感到安心了吗pt.2",
-    "artists": "雾江月",
-    "album": "Escape..."
+    "id": 3409413797,
+    "name": "Sea Mist Beat（氛围感）",
+    "artists": "Mking / Sansssss / DJ不二 / KORVAX / 比斯平 / KiNG / Jasr",
+    "album": "Sea Mist Beat（氛围感）"
   }
 }
