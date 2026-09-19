@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-19T00:02:01.949Z",
+  "generatedAt": "2026-09-19T07:11:49.866Z",
   "latestSongId": 3410807287,
-  "weekPlayMinutes": 1767,
-  "stateSignature": "3410807287:1767",
+  "weekPlayMinutes": 1857,
+  "stateSignature": "3410807287:1857",
   "previousSignature": "3410807287:1767",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 3410807287,
     "name": "逃避所有人的孤独让你感到安心了吗pt.2",
