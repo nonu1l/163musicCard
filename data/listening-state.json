@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T15:46:37.134Z",
-  "latestSongId": 2633627843,
-  "weekPlayMinutes": 326,
-  "stateSignature": "2633627843:326",
-  "previousSignature": "471825:262",
+  "generatedAt": "2026-09-20T18:35:16.087Z",
+  "latestSongId": 29922545,
+  "weekPlayMinutes": 412,
+  "stateSignature": "29922545:412",
+  "previousSignature": "2633627843:326",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2633627843,
-    "name": "Spill",
-    "artists": "acloudyskye",
-    "album": "Spill"
+    "id": 29922545,
+    "name": "It Wouldn't Be Right",
+    "artists": "Chasing Jonah",
+    "album": "Prelude"
   }
 }
