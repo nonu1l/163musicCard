@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-20T22:18:13.332Z",
-  "latestSongId": 29922545,
-  "weekPlayMinutes": 412,
-  "stateSignature": "29922545:412",
+  "generatedAt": "2026-09-21T04:17:27.530Z",
+  "latestSongId": 3324040970,
+  "weekPlayMinutes": 445,
+  "stateSignature": "3324040970:445",
   "previousSignature": "29922545:412",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29922545,
-    "name": "It Wouldn't Be Right",
-    "artists": "Chasing Jonah",
-    "album": "Prelude"
+    "id": 3324040970,
+    "name": "Meow Planet (Sped Up)",
+    "artists": "EREAL",
+    "album": "Meow Planet Phonk"
   }
 }
