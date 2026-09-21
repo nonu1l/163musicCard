@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T04:17:27.530Z",
-  "latestSongId": 3324040970,
-  "weekPlayMinutes": 445,
-  "stateSignature": "3324040970:445",
-  "previousSignature": "29922545:412",
+  "generatedAt": "2026-09-21T12:27:39.584Z",
+  "latestSongId": 1348598406,
+  "weekPlayMinutes": 605,
+  "stateSignature": "1348598406:605",
+  "previousSignature": "3324040970:445",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3324040970,
-    "name": "Meow Planet (Sped Up)",
-    "artists": "EREAL",
-    "album": "Meow Planet Phonk"
+    "id": 1348598406,
+    "name": "SAVE ME",
+    "artists": "yerbownik",
+    "album": "SAVE ME"
   }
 }
