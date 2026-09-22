@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-22T04:13:26.440Z",
-  "latestSongId": 3339827986,
-  "weekPlayMinutes": 703,
-  "stateSignature": "3339827986:703",
-  "previousSignature": "641825:630",
+  "generatedAt": "2026-09-22T11:17:02.986Z",
+  "latestSongId": 30375354,
+  "weekPlayMinutes": 872,
+  "stateSignature": "30375354:872",
+  "previousSignature": "3339827986:703",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3339827986,
-    "name": "让我走向你",
-    "artists": "忘乡",
-    "album": "让我走向你"
+    "id": 30375354,
+    "name": "Still",
+    "artists": "Timirage",
+    "album": "Still"
   }
 }
