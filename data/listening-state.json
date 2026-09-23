@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-23T00:11:13.651Z",
-  "latestSongId": 1348598406,
-  "weekPlayMinutes": 902,
-  "stateSignature": "1348598406:902",
+  "generatedAt": "2026-09-23T07:35:04.183Z",
+  "latestSongId": 3361570899,
+  "weekPlayMinutes": 1051,
+  "stateSignature": "3361570899:1051",
   "previousSignature": "1348598406:902",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1348598406,
-    "name": "SAVE ME",
-    "artists": "yerbownik",
-    "album": "SAVE ME"
+    "id": 3361570899,
+    "name": "Aphonia",
+    "artists": "dumuke",
+    "album": "i don't like the feeling"
   }
 }
