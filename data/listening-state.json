@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-23T07:35:04.183Z",
-  "latestSongId": 3361570899,
-  "weekPlayMinutes": 1051,
-  "stateSignature": "3361570899:1051",
-  "previousSignature": "1348598406:902",
+  "generatedAt": "2026-09-23T13:30:07.724Z",
+  "latestSongId": 479219481,
+  "weekPlayMinutes": 1168,
+  "stateSignature": "479219481:1168",
+  "previousSignature": "3361570899:1051",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3361570899,
-    "name": "Aphonia",
-    "artists": "dumuke",
-    "album": "i don't like the feeling"
+    "id": 479219481,
+    "name": "Butterflies",
+    "artists": "Nohidea",
+    "album": "Blank Space"
   }
 }
