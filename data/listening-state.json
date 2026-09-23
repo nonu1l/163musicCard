@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-23T13:30:07.724Z",
-  "latestSongId": 479219481,
-  "weekPlayMinutes": 1168,
-  "stateSignature": "479219481:1168",
-  "previousSignature": "3361570899:1051",
+  "generatedAt": "2026-09-23T18:19:45.374Z",
+  "latestSongId": 2660897170,
+  "weekPlayMinutes": 1227,
+  "stateSignature": "2660897170:1227",
+  "previousSignature": "479219481:1168",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 479219481,
-    "name": "Butterflies",
-    "artists": "Nohidea",
-    "album": "Blank Space"
+    "id": 2660897170,
+    "name": "不得",
+    "artists": "铁皮软糖",
+    "album": "不流行朋克"
   }
 }
