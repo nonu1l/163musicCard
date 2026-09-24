@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-24T11:26:13.224Z",
-  "latestSongId": 2704699290,
-  "weekPlayMinutes": 1423,
-  "stateSignature": "2704699290:1423",
-  "previousSignature": "2068862:1252",
+  "generatedAt": "2026-09-24T16:51:57.579Z",
+  "latestSongId": 429323,
+  "weekPlayMinutes": 1543,
+  "stateSignature": "429323:1543",
+  "previousSignature": "2704699290:1423",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2704699290,
-    "name": "To tell you the truth",
-    "artists": "acloudyskye",
-    "album": "To tell you the truth"
+    "id": 429323,
+    "name": "DONOR/RECIPIENT",
+    "artists": "林ゆうき",
+    "album": "日本テレビ系土曜ドラマ「左目探偵EYE」オリジナル・サウンドトラック"
   }
 }
