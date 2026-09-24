@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-24T16:51:57.579Z",
-  "latestSongId": 429323,
-  "weekPlayMinutes": 1543,
-  "stateSignature": "429323:1543",
-  "previousSignature": "2704699290:1423",
+  "generatedAt": "2026-09-24T21:21:08.454Z",
+  "latestSongId": 3394916322,
+  "weekPlayMinutes": 1559,
+  "stateSignature": "3394916322:1559",
+  "previousSignature": "429323:1543",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 429323,
-    "name": "DONOR/RECIPIENT",
-    "artists": "林ゆうき",
-    "album": "日本テレビ系土曜ドラマ「左目探偵EYE」オリジナル・サウンドトラック"
+    "id": 3394916322,
+    "name": "Outro",
+    "artists": "Students Of The Game",
+    "album": "Students Of The Game"
   }
 }
