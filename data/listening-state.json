@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-24T04:05:50.304Z",
-  "latestSongId": 2068862,
-  "weekPlayMinutes": 1252,
-  "stateSignature": "2068862:1252",
-  "previousSignature": "2660897170:1227",
+  "generatedAt": "2026-09-24T11:26:13.224Z",
+  "latestSongId": 2704699290,
+  "weekPlayMinutes": 1423,
+  "stateSignature": "2704699290:1423",
+  "previousSignature": "2068862:1252",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2068862,
-    "name": "Reason to Believe",
-    "artists": "Ugress",
-    "album": "Resound"
+    "id": 2704699290,
+    "name": "To tell you the truth",
+    "artists": "acloudyskye",
+    "album": "To tell you the truth"
   }
 }
