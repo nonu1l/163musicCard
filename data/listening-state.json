@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25T07:25:47.249Z",
-  "latestSongId": 3394916322,
-  "weekPlayMinutes": 1561,
-  "stateSignature": "3394916322:1561",
-  "previousSignature": "3394916322:1559",
+  "generatedAt": "2026-09-25T13:28:15.256Z",
+  "latestSongId": 1299923,
+  "weekPlayMinutes": 1664,
+  "stateSignature": "1299923:1664",
+  "previousSignature": "3394916322:1561",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3394916322,
-    "name": "Outro",
-    "artists": "Students Of The Game",
-    "album": "Students Of The Game"
+    "id": 1299923,
+    "name": "Sing For The Moment (Instrumental)",
+    "artists": "Eminem",
+    "album": "Sing For The Moment"
   }
 }
