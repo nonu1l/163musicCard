@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-25T13:28:15.256Z",
-  "latestSongId": 1299923,
-  "weekPlayMinutes": 1664,
-  "stateSignature": "1299923:1664",
-  "previousSignature": "3394916322:1561",
+  "generatedAt": "2026-09-25T18:22:47.275Z",
+  "latestSongId": 2013159898,
+  "weekPlayMinutes": 1801,
+  "stateSignature": "2013159898:1801",
+  "previousSignature": "1299923:1664",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1299923,
-    "name": "Sing For The Moment (Instrumental)",
-    "artists": "Eminem",
-    "album": "Sing For The Moment"
+    "id": 2013159898,
+    "name": "One Chance",
+    "artists": "MoonDeity / INTERWORLD",
+    "album": "One Chance"
   }
 }
