@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-26T04:23:45.296Z",
-  "latestSongId": 3348727727,
-  "weekPlayMinutes": 1918,
-  "stateSignature": "3348727727:1918",
-  "previousSignature": "2013159898:1801",
+  "generatedAt": "2026-09-26T11:06:59.177Z",
+  "latestSongId": 454966825,
+  "weekPlayMinutes": 1960,
+  "stateSignature": "454966825:1960",
+  "previousSignature": "3348727727:1918",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3348727727,
-    "name": "[Trap]BOBBYNOPEACE X SASIOVERLXRD Type beat - 漠视",
-    "artists": "BDnoLuv",
-    "album": "[Trap]BOBBYNOPEACE X SASIOVERLXRD Type beat - 漠视"
+    "id": 454966825,
+    "name": "Locke",
+    "artists": "PYLOT",
+    "album": "Shadowtask EP"
   }
 }
