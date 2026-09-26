@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-26T11:06:59.177Z",
-  "latestSongId": 454966825,
-  "weekPlayMinutes": 1960,
-  "stateSignature": "454966825:1960",
-  "previousSignature": "3348727727:1918",
+  "generatedAt": "2026-09-26T16:07:12.889Z",
+  "latestSongId": 34509092,
+  "weekPlayMinutes": 1971,
+  "stateSignature": "34509092:1971",
+  "previousSignature": "454966825:1960",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 454966825,
-    "name": "Locke",
-    "artists": "PYLOT",
-    "album": "Shadowtask EP"
+    "id": 34509092,
+    "name": "曇のち雨",
+    "artists": "なゆごろう",
+    "album": "なゆばむ"
   }
 }
