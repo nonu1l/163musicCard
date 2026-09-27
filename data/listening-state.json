@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T13:44:00.377Z",
-  "latestSongId": 3390821611,
-  "weekPlayMinutes": 649,
-  "stateSignature": "3390821611:649",
-  "previousSignature": "29753366:2200",
+  "generatedAt": "2026-09-27T18:10:40.502Z",
+  "latestSongId": 2750871669,
+  "weekPlayMinutes": 815,
+  "stateSignature": "2750871669:815",
+  "previousSignature": "3390821611:649",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3390821611,
-    "name": "Love We Hide",
-    "artists": "DJNiko",
-    "album": "Love We Hide"
+    "id": 2750871669,
+    "name": "Remember the Moments",
+    "artists": "DDRKirby(ISQ)",
+    "album": "~Monthlies 2025.09~"
   }
 }
