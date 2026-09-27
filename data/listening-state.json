@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-26T20:53:08.803Z",
-  "latestSongId": 2729473649,
+  "generatedAt": "2026-09-27T00:22:28.579Z",
+  "latestSongId": 2153465794,
   "weekPlayMinutes": 1971,
-  "stateSignature": "2729473649:1971",
-  "previousSignature": "34509092:1971",
+  "stateSignature": "2153465794:1971",
+  "previousSignature": "2729473649:1971",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2729473649,
-    "name": "词不达意",
-    "artists": "万能日记",
-    "album": "词不达意"
+    "id": 2153465794,
+    "name": "Selected by Heaven(天选之人)",
+    "artists": "girl",
+    "album": "Selected by Heaven(天选之人)"
   }
 }
