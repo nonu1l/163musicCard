@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T00:22:28.579Z",
-  "latestSongId": 2153465794,
-  "weekPlayMinutes": 1971,
-  "stateSignature": "2153465794:1971",
-  "previousSignature": "2729473649:1971",
+  "generatedAt": "2026-09-27T07:52:32.184Z",
+  "latestSongId": 29753366,
+  "weekPlayMinutes": 2200,
+  "stateSignature": "29753366:2200",
+  "previousSignature": "2153465794:1971",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2153465794,
-    "name": "Selected by Heaven(天选之人)",
-    "artists": "girl",
-    "album": "Selected by Heaven(天选之人)"
+    "id": 29753366,
+    "name": "Cymatics",
+    "artists": "John Stanford",
+    "album": "Solar Echoes"
   }
 }
