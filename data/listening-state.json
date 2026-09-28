@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T13:25:22.451Z",
-  "latestSongId": 26107975,
-  "weekPlayMinutes": 624,
-  "stateSignature": "26107975:624",
-  "previousSignature": "3400851080:433",
+  "generatedAt": "2026-09-28T20:26:46.295Z",
+  "latestSongId": 2646929952,
+  "weekPlayMinutes": 659,
+  "stateSignature": "2646929952:659",
+  "previousSignature": "26107975:624",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26107975,
-    "name": "Fall in the Dark",
-    "artists": "やなぎなぎ",
-    "album": "マジコカタストロフィ (Digital Edition)"
+    "id": 2646929952,
+    "name": "Liminal",
+    "artists": "Altare",
+    "album": "Liminal"
   }
 }
