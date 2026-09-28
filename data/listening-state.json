@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T04:43:04.173Z",
-  "latestSongId": 3400851080,
-  "weekPlayMinutes": 433,
-  "stateSignature": "3400851080:433",
-  "previousSignature": "2750871669:820",
+  "generatedAt": "2026-09-28T13:25:22.451Z",
+  "latestSongId": 26107975,
+  "weekPlayMinutes": 624,
+  "stateSignature": "26107975:624",
+  "previousSignature": "3400851080:433",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3400851080,
-    "name": "Love Got You",
-    "artists": "GOLD999",
-    "album": "Love Got You"
+    "id": 26107975,
+    "name": "Fall in the Dark",
+    "artists": "やなぎなぎ",
+    "album": "マジコカタストロフィ (Digital Edition)"
   }
 }
