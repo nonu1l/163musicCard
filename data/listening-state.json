@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-29T01:39:24.916Z",
-  "latestSongId": 2646929952,
-  "weekPlayMinutes": 555,
-  "stateSignature": "2646929952:555",
-  "previousSignature": "2646929952:659",
+  "generatedAt": "2026-09-29T08:10:29.653Z",
+  "latestSongId": 2164306364,
+  "weekPlayMinutes": 655,
+  "stateSignature": "2164306364:655",
+  "previousSignature": "2646929952:555",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2646929952,
-    "name": "Liminal",
-    "artists": "Altare",
-    "album": "Liminal"
+    "id": 2164306364,
+    "name": "小鸠（After Life After Death）",
+    "artists": "浅水ShallowEnd",
+    "album": "来世"
   }
 }
