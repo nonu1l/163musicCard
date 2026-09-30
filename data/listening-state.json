@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-30T12:14:41.125Z",
-  "latestSongId": 3435604508,
-  "weekPlayMinutes": 878,
-  "stateSignature": "3435604508:878",
-  "previousSignature": "1817399198:866",
+  "generatedAt": "2026-09-30T18:58:50.346Z",
+  "latestSongId": 769699,
+  "weekPlayMinutes": 1270,
+  "stateSignature": "769699:1270",
+  "previousSignature": "3435604508:878",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3435604508,
-    "name": "Delay（延迟）",
-    "artists": "T-Chenxi",
-    "album": "延迟"
+    "id": 769699,
+    "name": "film A moment",
+    "artists": "TK from 凛として時雨",
+    "album": "film A moment"
   }
 }
