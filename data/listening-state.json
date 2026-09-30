@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-30T04:56:46.244Z",
-  "latestSongId": 1817399198,
-  "weekPlayMinutes": 866,
-  "stateSignature": "1817399198:866",
+  "generatedAt": "2026-09-30T12:14:41.125Z",
+  "latestSongId": 3435604508,
+  "weekPlayMinutes": 878,
+  "stateSignature": "3435604508:878",
   "previousSignature": "1817399198:866",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1817399198,
-    "name": "Psyche",
-    "artists": "re:plus",
-    "album": "Floating in the midnight sun"
+    "id": 3435604508,
+    "name": "Delay（延迟）",
+    "artists": "T-Chenxi",
+    "album": "延迟"
   }
 }
