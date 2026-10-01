@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T05:10:03.817Z",
-  "latestSongId": 3312146708,
-  "weekPlayMinutes": 1360,
-  "stateSignature": "3312146708:1360",
-  "previousSignature": "3312146708:1368",
+  "generatedAt": "2026-10-01T12:49:09.865Z",
+  "latestSongId": 421807902,
+  "weekPlayMinutes": 1451,
+  "stateSignature": "421807902:1451",
+  "previousSignature": "3312146708:1360",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3312146708,
-    "name": "Masquerade Kill",
-    "artists": "御莉姫 / 廉",
-    "album": "Masquerade Kill"
+    "id": 421807902,
+    "name": "濾過装置の悲しい仕組み",
+    "artists": "別野加奈",
+    "album": "もう、見たくないよ、と言いつつそっと硝子の中に閉じ込めた展"
   }
 }
