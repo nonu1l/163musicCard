@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T12:49:09.865Z",
-  "latestSongId": 421807902,
-  "weekPlayMinutes": 1451,
-  "stateSignature": "421807902:1451",
-  "previousSignature": "3312146708:1360",
+  "generatedAt": "2026-10-01T19:21:26.086Z",
+  "latestSongId": 22747836,
+  "weekPlayMinutes": 1641,
+  "stateSignature": "22747836:1641",
+  "previousSignature": "421807902:1451",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 421807902,
-    "name": "濾過装置の悲しい仕組み",
-    "artists": "別野加奈",
-    "album": "もう、見たくないよ、と言いつつそっと硝子の中に閉じ込めた展"
+    "id": 22747836,
+    "name": "WITHOUT U feat. 4Minute (English Ver.)",
+    "artists": "青山テルマ / 4MINUTE",
+    "album": "LOVE STORY"
   }
 }
