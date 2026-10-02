@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T04:58:55.956Z",
-  "latestSongId": 3343912541,
-  "weekPlayMinutes": 1673,
-  "stateSignature": "3343912541:1673",
-  "previousSignature": "22747836:1641",
+  "generatedAt": "2026-10-02T12:12:41.350Z",
+  "latestSongId": 448317722,
+  "weekPlayMinutes": 1766,
+  "stateSignature": "448317722:1766",
+  "previousSignature": "3343912541:1673",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3343912541,
-    "name": "And I love you",
-    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
-    "album": "And I love you"
+    "id": 448317722,
+    "name": "消耗寂寞",
+    "artists": "郭静",
+    "album": "我们曾相爱"
   }
 }
