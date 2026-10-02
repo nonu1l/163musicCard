@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T12:12:41.350Z",
-  "latestSongId": 448317722,
-  "weekPlayMinutes": 1766,
-  "stateSignature": "448317722:1766",
-  "previousSignature": "3343912541:1673",
+  "generatedAt": "2026-10-02T19:04:42.784Z",
+  "latestSongId": 85544,
+  "weekPlayMinutes": 1768,
+  "stateSignature": "85544:1768",
+  "previousSignature": "448317722:1766",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 448317722,
-    "name": "消耗寂寞",
-    "artists": "郭静",
-    "album": "我们曾相爱"
+    "id": 85544,
+    "name": "勇气",
+    "artists": "光良",
+    "album": "约定"
   }
 }
