@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T23:47:45.626Z",
-  "latestSongId": 22747836,
-  "weekPlayMinutes": 1641,
-  "stateSignature": "22747836:1641",
+  "generatedAt": "2026-10-02T04:58:55.956Z",
+  "latestSongId": 3343912541,
+  "weekPlayMinutes": 1673,
+  "stateSignature": "3343912541:1673",
   "previousSignature": "22747836:1641",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22747836,
-    "name": "WITHOUT U feat. 4Minute (English Ver.)",
-    "artists": "青山テルマ / 4MINUTE",
-    "album": "LOVE STORY"
+    "id": 3343912541,
+    "name": "And I love you",
+    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
+    "album": "And I love you"
   }
 }
