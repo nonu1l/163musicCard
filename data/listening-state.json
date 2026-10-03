@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-02T23:38:33.171Z",
-  "latestSongId": 85544,
-  "weekPlayMinutes": 1768,
-  "stateSignature": "85544:1768",
+  "generatedAt": "2026-10-03T04:42:32.281Z",
+  "latestSongId": 31010776,
+  "weekPlayMinutes": 1862,
+  "stateSignature": "31010776:1862",
   "previousSignature": "85544:1768",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 85544,
-    "name": "勇气",
-    "artists": "光良",
-    "album": "约定"
+    "id": 31010776,
+    "name": "Light of Nibel (feat. Aeralie Brighton)",
+    "artists": "Gareth Coker / Aeralie Brighton",
+    "album": "Ori and the Blind Forest (Original Soundtrack)"
   }
 }
