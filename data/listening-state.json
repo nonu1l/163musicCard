@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-03T16:00:19.443Z",
-  "latestSongId": 3343912541,
+  "generatedAt": "2026-10-03T19:10:38.271Z",
+  "latestSongId": 3424734751,
   "weekPlayMinutes": 2038,
-  "stateSignature": "3343912541:2038",
-  "previousSignature": "26107975:1938",
+  "stateSignature": "3424734751:2038",
+  "previousSignature": "3343912541:2038",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3343912541,
-    "name": "And I love you",
-    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
-    "album": "And I love you"
+    "id": 3424734751,
+    "name": "FALA SÉRIO",
+    "artists": "Vico8 / GOLD999",
+    "album": "FALA SÉRIO"
   }
 }
