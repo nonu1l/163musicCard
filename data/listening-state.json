@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-03T11:23:34.953Z",
-  "latestSongId": 26107975,
-  "weekPlayMinutes": 1938,
-  "stateSignature": "26107975:1938",
-  "previousSignature": "31010776:1862",
+  "generatedAt": "2026-10-03T16:00:19.443Z",
+  "latestSongId": 3343912541,
+  "weekPlayMinutes": 2038,
+  "stateSignature": "3343912541:2038",
+  "previousSignature": "26107975:1938",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26107975,
-    "name": "Fall in the Dark",
-    "artists": "やなぎなぎ",
-    "album": "マジコカタストロフィ (Digital Edition)"
+    "id": 3343912541,
+    "name": "And I love you",
+    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
+    "album": "And I love you"
   }
 }
