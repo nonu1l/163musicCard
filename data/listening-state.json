@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-04T05:13:47.869Z",
-  "latestSongId": 3402830483,
-  "weekPlayMinutes": 2038,
-  "stateSignature": "3402830483:2038",
-  "previousSignature": "3424734751:2038",
+  "generatedAt": "2026-10-04T12:05:26.676Z",
+  "latestSongId": 34002515,
+  "weekPlayMinutes": 136,
+  "stateSignature": "34002515:136",
+  "previousSignature": "3402830483:2038",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3402830483,
-    "name": "破",
-    "artists": "Kira",
-    "album": "破 - Ink Motion"
+    "id": 34002515,
+    "name": "Reforge",
+    "artists": "void",
+    "album": "Artifiction"
   }
 }
