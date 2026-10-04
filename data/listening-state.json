@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-04T12:05:26.676Z",
-  "latestSongId": 34002515,
-  "weekPlayMinutes": 136,
-  "stateSignature": "34002515:136",
-  "previousSignature": "3402830483:2038",
+  "generatedAt": "2026-10-04T18:03:35.345Z",
+  "latestSongId": 2092188841,
+  "weekPlayMinutes": 141,
+  "stateSignature": "2092188841:141",
+  "previousSignature": "34002515:136",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 34002515,
-    "name": "Reforge",
-    "artists": "void",
-    "album": "Artifiction"
+    "id": 2092188841,
+    "name": "SO TIRED ROCK",
+    "artists": "NUEKI / TOLCHONOV / RAVENS ROCK",
+    "album": "SO TIRED ROCK"
   }
 }
