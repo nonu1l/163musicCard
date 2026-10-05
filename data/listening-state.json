@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T22:55:02.069Z",
+  "generatedAt": "2026-10-05T04:57:53.040Z",
   "latestSongId": 2092188841,
   "weekPlayMinutes": 141,
   "stateSignature": "2092188841:141",
   "previousSignature": "2092188841:141",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 2092188841,
     "name": "SO TIRED ROCK",
