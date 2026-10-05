@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T14:08:38.886Z",
-  "latestSongId": 2092188841,
-  "weekPlayMinutes": 141,
-  "stateSignature": "2092188841:141",
+  "generatedAt": "2026-10-05T22:25:15.759Z",
+  "latestSongId": 26107975,
+  "weekPlayMinutes": 331,
+  "stateSignature": "26107975:331",
   "previousSignature": "2092188841:141",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2092188841,
-    "name": "SO TIRED ROCK",
-    "artists": "NUEKI / TOLCHONOV / RAVENS ROCK",
-    "album": "SO TIRED ROCK"
+    "id": 26107975,
+    "name": "Fall in the Dark",
+    "artists": "やなぎなぎ",
+    "album": "マジコカタストロフィ (Digital Edition)"
   }
 }
