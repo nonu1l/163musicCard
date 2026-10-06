@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-06T13:05:47.942Z",
-  "latestSongId": 3386148807,
-  "weekPlayMinutes": 536,
-  "stateSignature": "3386148807:536",
-  "previousSignature": "3387562987:439",
+  "generatedAt": "2026-10-06T19:21:59.208Z",
+  "latestSongId": 3419497011,
+  "weekPlayMinutes": 581,
+  "stateSignature": "3419497011:581",
+  "previousSignature": "3386148807:536",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3386148807,
-    "name": "Love’s a Gun",
-    "artists": "Daniel Seavey",
-    "album": "Love’s a Gun"
+    "id": 3419497011,
+    "name": "树是风盈过夏天的绿海",
+    "artists": "Cloud3 Lab",
+    "album": "树是风盈过夏天的绿海"
   }
 }
