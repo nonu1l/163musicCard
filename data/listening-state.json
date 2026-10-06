@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T22:25:15.759Z",
-  "latestSongId": 26107975,
-  "weekPlayMinutes": 331,
-  "stateSignature": "26107975:331",
-  "previousSignature": "2092188841:141",
+  "generatedAt": "2026-10-06T05:45:41.415Z",
+  "latestSongId": 3387562987,
+  "weekPlayMinutes": 439,
+  "stateSignature": "3387562987:439",
+  "previousSignature": "26107975:331",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26107975,
-    "name": "Fall in the Dark",
-    "artists": "やなぎなぎ",
-    "album": "マジコカタストロフィ (Digital Edition)"
+    "id": 3387562987,
+    "name": "neon lights",
+    "artists": "4EVER",
+    "album": "neon light"
   }
 }
