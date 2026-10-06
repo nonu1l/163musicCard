@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-06T05:45:41.415Z",
-  "latestSongId": 3387562987,
-  "weekPlayMinutes": 439,
-  "stateSignature": "3387562987:439",
-  "previousSignature": "26107975:331",
+  "generatedAt": "2026-10-06T13:05:47.942Z",
+  "latestSongId": 3386148807,
+  "weekPlayMinutes": 536,
+  "stateSignature": "3386148807:536",
+  "previousSignature": "3387562987:439",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3387562987,
-    "name": "neon lights",
-    "artists": "4EVER",
-    "album": "neon light"
+    "id": 3386148807,
+    "name": "Love’s a Gun",
+    "artists": "Daniel Seavey",
+    "album": "Love’s a Gun"
   }
 }
