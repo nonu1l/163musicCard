@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-06T23:40:48.291Z",
-  "latestSongId": 3419497011,
-  "weekPlayMinutes": 581,
-  "stateSignature": "3419497011:581",
+  "generatedAt": "2026-10-07T05:17:15.259Z",
+  "latestSongId": 28302837,
+  "weekPlayMinutes": 602,
+  "stateSignature": "28302837:602",
   "previousSignature": "3419497011:581",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3419497011,
-    "name": "树是风盈过夏天的绿海",
-    "artists": "Cloud3 Lab",
-    "album": "树是风盈过夏天的绿海"
+    "id": 28302837,
+    "name": "minamo",
+    "artists": "ゆかな",
+    "album": "TVアニメ「アマガミSS」ENDING THEME COLLECTION"
   }
 }
