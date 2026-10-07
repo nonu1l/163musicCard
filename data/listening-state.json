@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-07T05:17:15.259Z",
-  "latestSongId": 28302837,
-  "weekPlayMinutes": 602,
-  "stateSignature": "28302837:602",
-  "previousSignature": "3419497011:581",
+  "generatedAt": "2026-10-07T13:00:22.049Z",
+  "latestSongId": 3424734751,
+  "weekPlayMinutes": 712,
+  "stateSignature": "3424734751:712",
+  "previousSignature": "28302837:602",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 28302837,
-    "name": "minamo",
-    "artists": "ゆかな",
-    "album": "TVアニメ「アマガミSS」ENDING THEME COLLECTION"
+    "id": 3424734751,
+    "name": "FALA SÉRIO",
+    "artists": "Vico8 / GOLD999",
+    "album": "FALA SÉRIO"
   }
 }
