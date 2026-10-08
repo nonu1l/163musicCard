@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T08:38:59.543Z",
-  "latestSongId": 3389570010,
-  "weekPlayMinutes": 785,
-  "stateSignature": "3389570010:785",
-  "previousSignature": "3424734751:712",
+  "generatedAt": "2026-10-08T17:17:41.195Z",
+  "latestSongId": 3422894741,
+  "weekPlayMinutes": 840,
+  "stateSignature": "3422894741:840",
+  "previousSignature": "3389570010:785",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3389570010,
-    "name": "SOFT（回忆）",
-    "artists": "T-Chenxi",
-    "album": "SOFT"
+    "id": 3422894741,
+    "name": "rainy city",
+    "artists": "Kkot / ADTurnUp",
+    "album": "slow rain"
   }
 }
