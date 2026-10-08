@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T19:49:13.783Z",
+  "generatedAt": "2026-10-08T00:05:06.799Z",
   "latestSongId": 3424734751,
   "weekPlayMinutes": 712,
   "stateSignature": "3424734751:712",
   "previousSignature": "3424734751:712",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3424734751,
     "name": "FALA SÉRIO",
