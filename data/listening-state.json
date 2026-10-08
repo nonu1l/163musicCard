@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T00:05:06.799Z",
-  "latestSongId": 3424734751,
-  "weekPlayMinutes": 712,
-  "stateSignature": "3424734751:712",
+  "generatedAt": "2026-10-08T08:38:59.543Z",
+  "latestSongId": 3389570010,
+  "weekPlayMinutes": 785,
+  "stateSignature": "3389570010:785",
   "previousSignature": "3424734751:712",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3424734751,
-    "name": "FALA SÉRIO",
-    "artists": "Vico8 / GOLD999",
-    "album": "FALA SÉRIO"
+    "id": 3389570010,
+    "name": "SOFT（回忆）",
+    "artists": "T-Chenxi",
+    "album": "SOFT"
   }
 }
