@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-09T05:30:19.412Z",
-  "latestSongId": 3409161813,
-  "weekPlayMinutes": 844,
-  "stateSignature": "3409161813:844",
-  "previousSignature": "3422894741:840",
+  "generatedAt": "2026-10-09T12:54:25.641Z",
+  "latestSongId": 1431299288,
+  "weekPlayMinutes": 940,
+  "stateSignature": "1431299288:940",
+  "previousSignature": "3409161813:844",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3409161813,
-    "name": "My one and only(House Mix)",
-    "artists": "MATANG",
-    "album": "My one and only"
+    "id": 1431299288,
+    "name": "Halcyon Days",
+    "artists": "工藤吉三",
+    "album": "十三機兵防衛圏　オリジナル・サウンドトラック"
   }
 }
