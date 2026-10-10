@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-10T12:12:27.557Z",
-  "latestSongId": 2114743243,
-  "weekPlayMinutes": 1031,
-  "stateSignature": "2114743243:1031",
-  "previousSignature": "1431299288:943",
+  "generatedAt": "2026-10-10T18:21:34.715Z",
+  "latestSongId": 3381689511,
+  "weekPlayMinutes": 1120,
+  "stateSignature": "3381689511:1120",
+  "previousSignature": "2114743243:1031",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2114743243,
-    "name": "散，作鸟兽",
-    "artists": "黑豹乐队",
-    "album": "Smokescreen视陷"
+    "id": 3381689511,
+    "name": "still holding on",
+    "artists": "Tris",
+    "album": "will care."
   }
 }
