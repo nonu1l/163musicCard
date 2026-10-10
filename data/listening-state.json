@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-10T05:14:13.727Z",
-  "latestSongId": 1431299288,
-  "weekPlayMinutes": 943,
-  "stateSignature": "1431299288:943",
-  "previousSignature": "1431299288:940",
+  "generatedAt": "2026-10-10T12:12:27.557Z",
+  "latestSongId": 2114743243,
+  "weekPlayMinutes": 1031,
+  "stateSignature": "2114743243:1031",
+  "previousSignature": "1431299288:943",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1431299288,
-    "name": "Halcyon Days",
-    "artists": "工藤吉三",
-    "album": "十三機兵防衛圏　オリジナル・サウンドトラック"
+    "id": 2114743243,
+    "name": "散，作鸟兽",
+    "artists": "黑豹乐队",
+    "album": "Smokescreen视陷"
   }
 }
