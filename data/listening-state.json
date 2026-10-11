@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-10T23:21:36.708Z",
-  "latestSongId": 3381689511,
+  "generatedAt": "2026-10-11T05:04:55.300Z",
+  "latestSongId": 27669599,
   "weekPlayMinutes": 1120,
-  "stateSignature": "3381689511:1120",
+  "stateSignature": "27669599:1120",
   "previousSignature": "3381689511:1120",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3381689511,
-    "name": "still holding on",
-    "artists": "Tris",
-    "album": "will care."
+    "id": 27669599,
+    "name": "Lithium (Acoustic Piano Mix)",
+    "artists": "Blue Horizon / Shyprince",
+    "album": "Lithium"
   }
 }
