@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-11T23:31:39.786Z",
-  "latestSongId": 3380977803,
-  "weekPlayMinutes": 107,
-  "stateSignature": "3380977803:107",
+  "generatedAt": "2026-10-12T05:18:56.353Z",
+  "latestSongId": 3428645201,
+  "weekPlayMinutes": 152,
+  "stateSignature": "3428645201:152",
   "previousSignature": "3380977803:107",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3380977803,
-    "name": "Only U",
-    "artists": "Paperman / TIC",
-    "album": "Only U"
+    "id": 3428645201,
+    "name": "MY ME TO GAVE",
+    "artists": "SMYE",
+    "album": "MY ME TO GAVE Pt2"
   }
 }
