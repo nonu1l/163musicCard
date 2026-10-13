@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-13T06:17:17.460Z",
-  "latestSongId": 288003,
-  "weekPlayMinutes": 289,
-  "stateSignature": "288003:289",
-  "previousSignature": "190246:274",
+  "generatedAt": "2026-10-13T15:45:59.086Z",
+  "latestSongId": 158655,
+  "weekPlayMinutes": 478,
+  "stateSignature": "158655:478",
+  "previousSignature": "288003:289",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 288003,
-    "name": "秋天的海",
-    "artists": "苏慧伦",
-    "album": "恋恋真言"
+    "id": 158655,
+    "name": "谁明浪子心",
+    "artists": "王杰",
+    "album": "谁明浪子心"
   }
 }
