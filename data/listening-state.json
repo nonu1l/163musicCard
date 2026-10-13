@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-12T22:49:10.746Z",
-  "latestSongId": 190246,
-  "weekPlayMinutes": 274,
-  "stateSignature": "190246:274",
-  "previousSignature": "168905:244",
+  "generatedAt": "2026-10-13T06:17:17.460Z",
+  "latestSongId": 288003,
+  "weekPlayMinutes": 289,
+  "stateSignature": "288003:289",
+  "previousSignature": "190246:274",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 190246,
-    "name": "囚鸟",
-    "artists": "张宇",
-    "album": "男人的好 新歌+精选"
+    "id": 288003,
+    "name": "秋天的海",
+    "artists": "苏慧伦",
+    "album": "恋恋真言"
   }
 }
