@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-13T15:45:59.086Z",
-  "latestSongId": 158655,
-  "weekPlayMinutes": 478,
-  "stateSignature": "158655:478",
-  "previousSignature": "288003:289",
+  "generatedAt": "2026-10-13T21:05:49.538Z",
+  "latestSongId": 25643328,
+  "weekPlayMinutes": 492,
+  "stateSignature": "25643328:492",
+  "previousSignature": "158655:478",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 158655,
-    "name": "谁明浪子心",
-    "artists": "王杰",
-    "album": "谁明浪子心"
+    "id": 25643328,
+    "name": "信仰",
+    "artists": "张信哲",
+    "album": "Jeff情歌精选"
   }
 }
