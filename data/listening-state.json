@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T18:24:43.641Z",
+  "generatedAt": "2026-10-14T23:04:20.386Z",
   "latestSongId": 17212858,
   "weekPlayMinutes": 605,
   "stateSignature": "17212858:605",
   "previousSignature": "17212858:605",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 17212858,
     "name": "Toy Soldiers",
