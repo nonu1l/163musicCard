@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-14T01:00:42.862Z",
-  "latestSongId": 25643328,
-  "weekPlayMinutes": 492,
-  "stateSignature": "25643328:492",
+  "generatedAt": "2026-10-14T07:19:35.749Z",
+  "latestSongId": 489768231,
+  "weekPlayMinutes": 557,
+  "stateSignature": "489768231:557",
   "previousSignature": "25643328:492",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 25643328,
-    "name": "信仰",
-    "artists": "张信哲",
-    "album": "Jeff情歌精选"
+    "id": 489768231,
+    "name": "Iron Hornet",
+    "artists": "Do As Infinity",
+    "album": "Alive / Iron Hornet"
   }
 }
