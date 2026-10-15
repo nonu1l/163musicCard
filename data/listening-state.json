@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T11:09:30.086Z",
-  "latestSongId": 349505,
-  "weekPlayMinutes": 712,
-  "stateSignature": "349505:712",
-  "previousSignature": "17212858:605",
+  "generatedAt": "2026-10-15T16:40:27.551Z",
+  "latestSongId": 3439761728,
+  "weekPlayMinutes": 748,
+  "stateSignature": "3439761728:748",
+  "previousSignature": "349505:712",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 349505,
-    "name": "情歌",
-    "artists": "草蜢",
-    "album": "三人主义"
+    "id": 3439761728,
+    "name": "Loving the Edge",
+    "artists": "DJ OKAWARI",
+    "album": "Fade"
   }
 }
