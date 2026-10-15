@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T04:01:26.246Z",
-  "latestSongId": 17212858,
-  "weekPlayMinutes": 605,
-  "stateSignature": "17212858:605",
+  "generatedAt": "2026-10-15T11:09:30.086Z",
+  "latestSongId": 349505,
+  "weekPlayMinutes": 712,
+  "stateSignature": "349505:712",
   "previousSignature": "17212858:605",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 17212858,
-    "name": "Toy Soldiers",
-    "artists": "Martika",
-    "album": "MARTIKA"
+    "id": 349505,
+    "name": "情歌",
+    "artists": "草蜢",
+    "album": "三人主义"
   }
 }
