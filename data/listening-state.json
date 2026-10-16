@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-16T06:54:03.360Z",
-  "latestSongId": 3342512598,
-  "weekPlayMinutes": 846,
-  "stateSignature": "3342512598:846",
-  "previousSignature": "3439761728:748",
+  "generatedAt": "2026-10-16T13:06:30.454Z",
+  "latestSongId": 2734795405,
+  "weekPlayMinutes": 959,
+  "stateSignature": "2734795405:959",
+  "previousSignature": "3342512598:846",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3342512598,
-    "name": "Stella",
-    "artists": "Motie Soul",
-    "album": "Stella"
+    "id": 2734795405,
+    "name": "Free \"蔑视Pt.2\" SASIOVERLXRD x BOBBY type beat 旋律孟菲斯",
+    "artists": "Tesor",
+    "album": "蔑视 pt.2 | 旋律孟菲斯"
   }
 }
