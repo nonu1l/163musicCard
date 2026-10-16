@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-16T00:09:58.040Z",
-  "latestSongId": 3439761728,
-  "weekPlayMinutes": 748,
-  "stateSignature": "3439761728:748",
+  "generatedAt": "2026-10-16T06:54:03.360Z",
+  "latestSongId": 3342512598,
+  "weekPlayMinutes": 846,
+  "stateSignature": "3342512598:846",
   "previousSignature": "3439761728:748",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3439761728,
-    "name": "Loving the Edge",
-    "artists": "DJ OKAWARI",
-    "album": "Fade"
+    "id": 3342512598,
+    "name": "Stella",
+    "artists": "Motie Soul",
+    "album": "Stella"
   }
 }
