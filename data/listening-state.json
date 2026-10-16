@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-16T13:06:30.454Z",
-  "latestSongId": 2734795405,
-  "weekPlayMinutes": 959,
-  "stateSignature": "2734795405:959",
-  "previousSignature": "3342512598:846",
+  "generatedAt": "2026-10-16T17:53:54.554Z",
+  "latestSongId": 3436763375,
+  "weekPlayMinutes": 964,
+  "stateSignature": "3436763375:964",
+  "previousSignature": "2734795405:959",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2734795405,
-    "name": "Free \"蔑视Pt.2\" SASIOVERLXRD x BOBBY type beat 旋律孟菲斯",
-    "artists": "Tesor",
-    "album": "蔑视 pt.2 | 旋律孟菲斯"
+    "id": 3436763375,
+    "name": "Double Wings",
+    "artists": "ASCA",
+    "album": "Double Wings"
   }
 }
