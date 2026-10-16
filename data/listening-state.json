@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T21:09:11.829Z",
+  "generatedAt": "2026-10-16T00:09:58.040Z",
   "latestSongId": 3439761728,
   "weekPlayMinutes": 748,
   "stateSignature": "3439761728:748",
   "previousSignature": "3439761728:748",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3439761728,
     "name": "Loving the Edge",
