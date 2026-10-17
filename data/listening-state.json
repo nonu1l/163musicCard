@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T20:45:51.345Z",
+  "generatedAt": "2026-10-17T00:13:09.891Z",
   "latestSongId": 3436763375,
   "weekPlayMinutes": 964,
   "stateSignature": "3436763375:964",
   "previousSignature": "3436763375:964",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3436763375,
     "name": "Double Wings",
