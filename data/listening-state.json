@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T16:55:21.047Z",
+  "generatedAt": "2026-10-17T20:22:06.081Z",
   "latestSongId": 2098311867,
   "weekPlayMinutes": 1136,
   "stateSignature": "2098311867:1136",
   "previousSignature": "2098311867:1136",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 2098311867,
     "name": "our painted sky./wind",
