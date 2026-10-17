@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-17T06:46:07.952Z",
-  "latestSongId": 3421999111,
-  "weekPlayMinutes": 1042,
-  "stateSignature": "3421999111:1042",
-  "previousSignature": "3436763375:964",
+  "generatedAt": "2026-10-17T12:03:12.686Z",
+  "latestSongId": 2098311867,
+  "weekPlayMinutes": 1136,
+  "stateSignature": "2098311867:1136",
+  "previousSignature": "3421999111:1042",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3421999111,
-    "name": "522 featuring Lili",
-    "artists": "leeeeon",
-    "album": "My Zone"
+    "id": 2098311867,
+    "name": "our painted sky./wind",
+    "artists": "Ceru_",
+    "album": "our painted sky.(Remixes)"
   }
 }
