@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-18T08:44:07.486Z",
-  "latestSongId": 188486,
-  "weekPlayMinutes": 108,
-  "stateSignature": "188486:108",
-  "previousSignature": "2133300623:1136",
+  "generatedAt": "2026-10-18T13:51:35.742Z",
+  "latestSongId": 22701841,
+  "weekPlayMinutes": 233,
+  "stateSignature": "22701841:233",
+  "previousSignature": "188486:108",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 188486,
-    "name": "摄氏零度(Live)",
-    "artists": "张敬轩",
-    "album": "轩动心弦演唱会"
+    "id": 22701841,
+    "name": "人間ってそんなものね",
+    "artists": "KOKIA",
+    "album": "trip trip"
   }
 }
