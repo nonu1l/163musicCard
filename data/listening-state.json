@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T17:10:53.510Z",
+  "generatedAt": "2026-10-18T20:23:05.964Z",
   "latestSongId": 22701841,
   "weekPlayMinutes": 233,
   "stateSignature": "22701841:233",
   "previousSignature": "22701841:233",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 22701841,
     "name": "人間ってそんなものね",
