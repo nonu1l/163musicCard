@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-19T00:01:28.068Z",
-  "latestSongId": 22701841,
-  "weekPlayMinutes": 233,
-  "stateSignature": "22701841:233",
+  "generatedAt": "2026-10-19T07:31:39.495Z",
+  "latestSongId": 202373,
+  "weekPlayMinutes": 243,
+  "stateSignature": "202373:243",
   "previousSignature": "22701841:233",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22701841,
-    "name": "人間ってそんなものね",
-    "artists": "KOKIA",
-    "album": "trip trip"
+    "id": 202373,
+    "name": "南方姑娘",
+    "artists": "赵雷",
+    "album": "赵小雷"
   }
 }
