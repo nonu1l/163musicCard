@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-19T07:31:39.495Z",
-  "latestSongId": 202373,
-  "weekPlayMinutes": 243,
-  "stateSignature": "202373:243",
-  "previousSignature": "22701841:233",
+  "generatedAt": "2026-10-19T15:24:23.517Z",
+  "latestSongId": 92939,
+  "weekPlayMinutes": 338,
+  "stateSignature": "92939:338",
+  "previousSignature": "202373:243",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 202373,
-    "name": "南方姑娘",
-    "artists": "赵雷",
-    "album": "赵小雷"
+    "id": 92939,
+    "name": "那女孩对我说",
+    "artists": "黄义达",
+    "album": "专属密码"
   }
 }
