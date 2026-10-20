@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T07:20:34.259Z",
-  "latestSongId": 2090162436,
-  "weekPlayMinutes": 419,
-  "stateSignature": "2090162436:419",
-  "previousSignature": "92939:338",
+  "generatedAt": "2026-10-20T13:27:02.902Z",
+  "latestSongId": 2736345300,
+  "weekPlayMinutes": 556,
+  "stateSignature": "2736345300:556",
+  "previousSignature": "2090162436:419",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2090162436,
-    "name": "奥德赛(Odyssey)",
-    "artists": "TCL",
-    "album": "奥德赛(Odyssey)"
+    "id": 2736345300,
+    "name": "Sealed My Fate (Out of Time: Part II)",
+    "artists": "Kalax",
+    "album": "Resurface"
   }
 }
