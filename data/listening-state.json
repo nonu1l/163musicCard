@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-19T20:56:16.987Z",
+  "generatedAt": "2026-10-20T00:58:59.221Z",
   "latestSongId": 92939,
   "weekPlayMinutes": 338,
   "stateSignature": "92939:338",
   "previousSignature": "92939:338",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 92939,
     "name": "那女孩对我说",
