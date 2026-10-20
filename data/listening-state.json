@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T00:58:59.221Z",
-  "latestSongId": 92939,
-  "weekPlayMinutes": 338,
-  "stateSignature": "92939:338",
+  "generatedAt": "2026-10-20T07:20:34.259Z",
+  "latestSongId": 2090162436,
+  "weekPlayMinutes": 419,
+  "stateSignature": "2090162436:419",
   "previousSignature": "92939:338",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 92939,
-    "name": "那女孩对我说",
-    "artists": "黄义达",
-    "album": "专属密码"
+    "id": 2090162436,
+    "name": "奥德赛(Odyssey)",
+    "artists": "TCL",
+    "album": "奥德赛(Odyssey)"
   }
 }
