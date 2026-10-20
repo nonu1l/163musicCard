@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T13:27:02.902Z",
-  "latestSongId": 2736345300,
-  "weekPlayMinutes": 556,
-  "stateSignature": "2736345300:556",
-  "previousSignature": "2090162436:419",
+  "generatedAt": "2026-10-20T18:24:04.496Z",
+  "latestSongId": 3435086942,
+  "weekPlayMinutes": 602,
+  "stateSignature": "3435086942:602",
+  "previousSignature": "2736345300:556",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2736345300,
-    "name": "Sealed My Fate (Out of Time: Part II)",
-    "artists": "Kalax",
-    "album": "Resurface"
+    "id": 3435086942,
+    "name": "Walk On in Silence（Solw）",
+    "artists": "R3T3@FL",
+    "album": "Walk On in Silence（默默前行）"
   }
 }
