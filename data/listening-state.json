@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-21T04:04:57.215Z",
-  "latestSongId": 114549,
-  "weekPlayMinutes": 655,
-  "stateSignature": "114549:655",
-  "previousSignature": "3435086942:602",
+  "generatedAt": "2026-10-21T11:28:57.129Z",
+  "latestSongId": 3441316817,
+  "weekPlayMinutes": 745,
+  "stateSignature": "3441316817:745",
+  "previousSignature": "114549:655",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 114549,
-    "name": "最近",
-    "artists": "李圣杰",
-    "album": "关于你的歌"
+    "id": 3441316817,
+    "name": "Feeling(万尺一线)",
+    "artists": "PATQ / Paperman",
+    "album": "Feeling(万尺一线)"
   }
 }
