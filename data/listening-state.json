@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-21T11:28:57.129Z",
-  "latestSongId": 3441316817,
-  "weekPlayMinutes": 745,
-  "stateSignature": "3441316817:745",
-  "previousSignature": "114549:655",
+  "generatedAt": "2026-10-21T16:55:55.870Z",
+  "latestSongId": 3434522219,
+  "weekPlayMinutes": 822,
+  "stateSignature": "3434522219:822",
+  "previousSignature": "3441316817:745",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3441316817,
-    "name": "Feeling(万尺一线)",
-    "artists": "PATQ / Paperman",
-    "album": "Feeling(万尺一线)"
+    "id": 3434522219,
+    "name": "Solace",
+    "artists": "Vicetone / Emily Vaughn",
+    "album": "Solace"
   }
 }
