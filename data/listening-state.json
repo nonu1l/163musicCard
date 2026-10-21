@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-20T23:04:09.515Z",
-  "latestSongId": 3435086942,
-  "weekPlayMinutes": 602,
-  "stateSignature": "3435086942:602",
+  "generatedAt": "2026-10-21T04:04:57.215Z",
+  "latestSongId": 114549,
+  "weekPlayMinutes": 655,
+  "stateSignature": "114549:655",
   "previousSignature": "3435086942:602",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3435086942,
-    "name": "Walk On in Silence（Solw）",
-    "artists": "R3T3@FL",
-    "album": "Walk On in Silence（默默前行）"
+    "id": 114549,
+    "name": "最近",
+    "artists": "李圣杰",
+    "album": "关于你的歌"
   }
 }
