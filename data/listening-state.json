@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-22T07:25:57.749Z",
-  "latestSongId": 2016868366,
-  "weekPlayMinutes": 952,
-  "stateSignature": "2016868366:952",
-  "previousSignature": "3411690453:823",
+  "generatedAt": "2026-10-22T13:38:24.975Z",
+  "latestSongId": 2021507968,
+  "weekPlayMinutes": 1013,
+  "stateSignature": "2021507968:1013",
+  "previousSignature": "2016868366:952",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2016868366,
-    "name": "hope to see you again",
-    "artists": "Antent",
-    "album": "hope to see you again"
+    "id": 2021507968,
+    "name": "Path",
+    "artists": "Altare / DEVILISH TRIO",
+    "album": "Path"
   }
 }
