@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-23T04:09:17.521Z",
-  "latestSongId": 1311680933,
-  "weekPlayMinutes": 1048,
-  "stateSignature": "1311680933:1048",
-  "previousSignature": "2021507968:1014",
+  "generatedAt": "2026-10-23T11:18:37.651Z",
+  "latestSongId": 2132303184,
+  "weekPlayMinutes": 1157,
+  "stateSignature": "2132303184:1157",
+  "previousSignature": "1311680933:1048",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1311680933,
-    "name": "活动战役VI",
-    "artists": "月代彩",
-    "album": "战舰少女R 四周年+远洋破袭作战: 钢铁启示录 原声音乐"
+    "id": 2132303184,
+    "name": "Free Sad Guitar Type Beat - \"I am lost\"",
+    "artists": "EVO MUSIC",
+    "album": "Free Sad Guitar Type Beat - \"I am lost\""
   }
 }
