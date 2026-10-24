@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-24T00:24:08.851Z",
-  "latestSongId": 2132303184,
-  "weekPlayMinutes": 1157,
-  "stateSignature": "2132303184:1157",
+  "generatedAt": "2026-10-24T07:02:49.022Z",
+  "latestSongId": 1941522336,
+  "weekPlayMinutes": 1313,
+  "stateSignature": "1941522336:1313",
   "previousSignature": "2132303184:1157",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2132303184,
-    "name": "Free Sad Guitar Type Beat - \"I am lost\"",
-    "artists": "EVO MUSIC",
-    "album": "Free Sad Guitar Type Beat - \"I am lost\""
+    "id": 1941522336,
+    "name": "We Find Ourselves",
+    "artists": "JODA",
+    "album": "We Find Ourselves"
   }
 }
