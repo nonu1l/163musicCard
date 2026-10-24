@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-24T07:02:49.022Z",
-  "latestSongId": 1941522336,
-  "weekPlayMinutes": 1313,
-  "stateSignature": "1941522336:1313",
-  "previousSignature": "2132303184:1157",
+  "generatedAt": "2026-10-24T12:31:37.002Z",
+  "latestSongId": 2672607235,
+  "weekPlayMinutes": 1327,
+  "stateSignature": "2672607235:1327",
+  "previousSignature": "1941522336:1313",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1941522336,
-    "name": "We Find Ourselves",
-    "artists": "JODA",
-    "album": "We Find Ourselves"
+    "id": 2672607235,
+    "name": "93",
+    "artists": "Flora Cash",
+    "album": "93"
   }
 }
