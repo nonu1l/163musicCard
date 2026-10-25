@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T20:38:04.235Z",
+  "generatedAt": "2026-10-25T23:58:56.789Z",
   "latestSongId": 29004400,
   "weekPlayMinutes": 245,
   "stateSignature": "29004400:245",
   "previousSignature": "29004400:245",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 29004400,
     "name": "烟火里的尘埃",
