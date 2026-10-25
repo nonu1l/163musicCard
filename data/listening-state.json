@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-25T00:07:51.160Z",
-  "latestSongId": 2672607235,
-  "weekPlayMinutes": 1327,
-  "stateSignature": "2672607235:1327",
+  "generatedAt": "2026-10-25T07:27:06.203Z",
+  "latestSongId": 857881,
+  "weekPlayMinutes": 145,
+  "stateSignature": "857881:145",
   "previousSignature": "2672607235:1327",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2672607235,
-    "name": "93",
-    "artists": "Flora Cash",
-    "album": "93"
+    "id": 857881,
+    "name": "Sometime",
+    "artists": "Valentin",
+    "album": "My View"
   }
 }
