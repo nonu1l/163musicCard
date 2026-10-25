@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-25T13:04:55.460Z",
-  "latestSongId": 179768,
-  "weekPlayMinutes": 148,
-  "stateSignature": "179768:148",
-  "previousSignature": "857881:145",
+  "generatedAt": "2026-10-25T17:31:23.041Z",
+  "latestSongId": 29004400,
+  "weekPlayMinutes": 245,
+  "stateSignature": "29004400:245",
+  "previousSignature": "179768:148",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 179768,
-    "name": "心碎(粤)",
-    "artists": "易欣",
-    "album": "别让我为你心碎"
+    "id": 29004400,
+    "name": "烟火里的尘埃",
+    "artists": "华晨宇",
+    "album": "烟火里的尘埃"
   }
 }
