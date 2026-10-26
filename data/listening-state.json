@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-26T04:32:18.243Z",
-  "latestSongId": 86943,
-  "weekPlayMinutes": 272,
-  "stateSignature": "86943:272",
-  "previousSignature": "29004400:245",
+  "generatedAt": "2026-10-26T12:35:23.414Z",
+  "latestSongId": 1441758913,
+  "weekPlayMinutes": 454,
+  "stateSignature": "1441758913:454",
+  "previousSignature": "86943:272",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 86943,
-    "name": "必杀技",
-    "artists": "古巨基",
-    "album": "游戏 基"
+    "id": 1441758913,
+    "name": "阿拉斯加海湾",
+    "artists": "菲道尔",
+    "album": "A Letter."
   }
 }
