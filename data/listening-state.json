@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T19:48:22.869Z",
+  "generatedAt": "2026-10-26T23:39:29.679Z",
   "latestSongId": 1441758913,
   "weekPlayMinutes": 454,
   "stateSignature": "1441758913:454",
   "previousSignature": "1441758913:454",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1441758913,
     "name": "阿拉斯加海湾",
