@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-25T23:58:56.789Z",
-  "latestSongId": 29004400,
-  "weekPlayMinutes": 245,
-  "stateSignature": "29004400:245",
+  "generatedAt": "2026-10-26T04:32:18.243Z",
+  "latestSongId": 86943,
+  "weekPlayMinutes": 272,
+  "stateSignature": "86943:272",
   "previousSignature": "29004400:245",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29004400,
-    "name": "烟火里的尘埃",
-    "artists": "华晨宇",
-    "album": "烟火里的尘埃"
+    "id": 86943,
+    "name": "必杀技",
+    "artists": "古巨基",
+    "album": "游戏 基"
   }
 }
