@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-27T04:27:01.781Z",
-  "latestSongId": 186385,
-  "weekPlayMinutes": 508,
-  "stateSignature": "186385:508",
-  "previousSignature": "1441758913:454",
+  "generatedAt": "2026-10-27T11:52:33.444Z",
+  "latestSongId": 2166118109,
+  "weekPlayMinutes": 625,
+  "stateSignature": "2166118109:625",
+  "previousSignature": "186385:508",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 186385,
-    "name": "别怕我伤心",
-    "artists": "张信哲",
-    "album": "张信哲精选"
+    "id": 2166118109,
+    "name": "短发 (Live版)",
+    "artists": "陈楚生 / 梁咏琪",
+    "album": "天赐的声音第五季 第8期"
   }
 }
