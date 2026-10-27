@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-27T11:52:33.444Z",
-  "latestSongId": 2166118109,
-  "weekPlayMinutes": 625,
-  "stateSignature": "2166118109:625",
-  "previousSignature": "186385:508",
+  "generatedAt": "2026-10-27T17:46:38.293Z",
+  "latestSongId": 29897962,
+  "weekPlayMinutes": 673,
+  "stateSignature": "29897962:673",
+  "previousSignature": "2166118109:625",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2166118109,
-    "name": "短发 (Live版)",
-    "artists": "陈楚生 / 梁咏琪",
-    "album": "天赐的声音第五季 第8期"
+    "id": 29897962,
+    "name": "遇见神 (Live)",
+    "artists": "张敬轩",
+    "album": "Hins Live in Passion 张敬轩演唱会 2014"
   }
 }
