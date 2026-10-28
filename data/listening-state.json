@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-28T16:30:42.071Z",
-  "latestSongId": 3395677407,
-  "weekPlayMinutes": 956,
-  "stateSignature": "3395677407:956",
-  "previousSignature": "3361570899:809",
+  "generatedAt": "2026-10-28T22:23:55.019Z",
+  "latestSongId": 3327128594,
+  "weekPlayMinutes": 957,
+  "stateSignature": "3327128594:957",
+  "previousSignature": "3395677407:956",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3395677407,
-    "name": "Could Stay Here",
-    "artists": "HKYE",
-    "album": "Could Stay Here"
+    "id": 3327128594,
+    "name": "需要人陪",
+    "artists": "雾屿",
+    "album": "雾屿Cover合集"
   }
 }
