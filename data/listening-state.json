@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29T05:09:53.468Z",
-  "latestSongId": 4136890,
-  "weekPlayMinutes": 1085,
-  "stateSignature": "4136890:1085",
-  "previousSignature": "3327128594:957",
+  "generatedAt": "2026-10-29T12:38:19.807Z",
+  "latestSongId": 3443989683,
+  "weekPlayMinutes": 1191,
+  "stateSignature": "3443989683:1191",
+  "previousSignature": "4136890:1085",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 4136890,
-    "name": "Livin My Life",
-    "artists": "Jon Young & J. Cash",
-    "album": "A New Era"
+    "id": 3443989683,
+    "name": "Grey trails live on",
+    "artists": "Dirk / Echo",
+    "album": "Grey trails live on"
   }
 }
