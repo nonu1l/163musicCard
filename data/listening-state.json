@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-28T22:23:55.019Z",
-  "latestSongId": 3327128594,
-  "weekPlayMinutes": 957,
-  "stateSignature": "3327128594:957",
-  "previousSignature": "3395677407:956",
+  "generatedAt": "2026-10-29T05:09:53.468Z",
+  "latestSongId": 4136890,
+  "weekPlayMinutes": 1085,
+  "stateSignature": "4136890:1085",
+  "previousSignature": "3327128594:957",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3327128594,
-    "name": "需要人陪",
-    "artists": "雾屿",
-    "album": "雾屿Cover合集"
+    "id": 4136890,
+    "name": "Livin My Life",
+    "artists": "Jon Young & J. Cash",
+    "album": "A New Era"
   }
 }
