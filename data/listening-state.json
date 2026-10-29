@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29T12:38:19.807Z",
-  "latestSongId": 3443989683,
-  "weekPlayMinutes": 1191,
-  "stateSignature": "3443989683:1191",
-  "previousSignature": "4136890:1085",
+  "generatedAt": "2026-10-29T19:28:10.645Z",
+  "latestSongId": 1438173558,
+  "weekPlayMinutes": 1221,
+  "stateSignature": "1438173558:1221",
+  "previousSignature": "3443989683:1191",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3443989683,
-    "name": "Grey trails live on",
-    "artists": "Dirk / Echo",
-    "album": "Grey trails live on"
+    "id": 1438173558,
+    "name": "Rewind (Acoustic)",
+    "artists": "Neverest",
+    "album": "The Lost Tracks"
   }
 }
