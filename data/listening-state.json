@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T23:31:40.901Z",
+  "generatedAt": "2026-10-31T04:55:03.560Z",
   "latestSongId": 1438173558,
-  "weekPlayMinutes": 1221,
-  "stateSignature": "1438173558:1221",
+  "weekPlayMinutes": 1231,
+  "stateSignature": "1438173558:1231",
   "previousSignature": "1438173558:1221",
-  "stableBuildCount": 6,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
     "id": 1438173558,
     "name": "Rewind (Acoustic)",
