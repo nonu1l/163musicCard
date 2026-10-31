@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-31T04:55:03.560Z",
-  "latestSongId": 1438173558,
-  "weekPlayMinutes": 1231,
-  "stateSignature": "1438173558:1231",
-  "previousSignature": "1438173558:1221",
+  "generatedAt": "2026-10-31T11:57:35.434Z",
+  "latestSongId": 64643,
+  "weekPlayMinutes": 1324,
+  "stateSignature": "64643:1324",
+  "previousSignature": "1438173558:1231",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1438173558,
-    "name": "Rewind (Acoustic)",
-    "artists": "Neverest",
-    "album": "The Lost Tracks"
+    "id": 64643,
+    "name": "心腹",
+    "artists": "陈奕迅",
+    "album": "Time Flies"
   }
 }
