@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-01T00:50:26.106Z",
-  "latestSongId": 64643,
-  "weekPlayMinutes": 1324,
-  "stateSignature": "64643:1324",
+  "generatedAt": "2026-11-01T08:56:50.001Z",
+  "latestSongId": 3344426667,
+  "weekPlayMinutes": 81,
+  "stateSignature": "3344426667:81",
   "previousSignature": "64643:1324",
-  "stableBuildCount": 4,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 64643,
-    "name": "心腹",
-    "artists": "陈奕迅",
-    "album": "Time Flies"
+    "id": 3344426667,
+    "name": "赤马Do or Die",
+    "artists": "程安 / Richy",
+    "album": "赤马Do or Die"
   }
 }
