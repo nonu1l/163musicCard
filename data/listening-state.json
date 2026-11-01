@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-01T08:56:50.001Z",
-  "latestSongId": 3344426667,
-  "weekPlayMinutes": 81,
-  "stateSignature": "3344426667:81",
-  "previousSignature": "64643:1324",
+  "generatedAt": "2026-11-01T16:40:44.672Z",
+  "latestSongId": 422094684,
+  "weekPlayMinutes": 166,
+  "stateSignature": "422094684:166",
+  "previousSignature": "3344426667:81",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3344426667,
-    "name": "赤马Do or Die",
-    "artists": "程安 / Richy",
-    "album": "赤马Do or Die"
+    "id": 422094684,
+    "name": "Импульсы",
+    "artists": "Елена Темникова",
+    "album": "Импульсы"
   }
 }
