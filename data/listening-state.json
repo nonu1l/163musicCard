@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-02T01:23:19.466Z",
-  "latestSongId": 422094684,
-  "weekPlayMinutes": 168,
-  "stateSignature": "422094684:168",
-  "previousSignature": "422094684:166",
+  "generatedAt": "2026-11-02T09:07:40.567Z",
+  "latestSongId": 3339827986,
+  "weekPlayMinutes": 214,
+  "stateSignature": "3339827986:214",
+  "previousSignature": "422094684:168",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 422094684,
-    "name": "Импульсы",
-    "artists": "Елена Темникова",
-    "album": "Импульсы"
+    "id": 3339827986,
+    "name": "让我走向你",
+    "artists": "忘乡",
+    "album": "让我走向你"
   }
 }
