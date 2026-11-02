@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-02T09:07:40.567Z",
-  "latestSongId": 3339827986,
-  "weekPlayMinutes": 214,
-  "stateSignature": "3339827986:214",
-  "previousSignature": "422094684:168",
+  "generatedAt": "2026-11-02T20:07:31.053Z",
+  "latestSongId": 461544048,
+  "weekPlayMinutes": 225,
+  "stateSignature": "461544048:225",
+  "previousSignature": "3339827986:214",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3339827986,
-    "name": "让我走向你",
-    "artists": "忘乡",
-    "album": "让我走向你"
+    "id": 461544048,
+    "name": "FIRE ON",
+    "artists": "山本康太",
+    "album": "青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック"
   }
 }
