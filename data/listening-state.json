@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T03:23:01.129Z",
-  "latestSongId": 24851086,
-  "weekPlayMinutes": 298,
-  "stateSignature": "24851086:298",
-  "previousSignature": "461544048:225",
+  "generatedAt": "2026-11-03T11:45:05.766Z",
+  "latestSongId": 22800558,
+  "weekPlayMinutes": 370,
+  "stateSignature": "22800558:370",
+  "previousSignature": "24851086:298",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 24851086,
-    "name": "Beautiful Lies",
-    "artists": "B-Complex",
-    "album": "Sick Music"
+    "id": 22800558,
+    "name": "Sunset IN THE Lake Featuring Yoshiki Of 姫神",
+    "artists": "DAISHI DANCE",
+    "album": "Spectacle"
   }
 }
