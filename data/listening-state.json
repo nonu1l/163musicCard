@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-03T11:45:05.766Z",
-  "latestSongId": 22800558,
-  "weekPlayMinutes": 370,
-  "stateSignature": "22800558:370",
-  "previousSignature": "24851086:298",
+  "generatedAt": "2026-11-03T19:17:51.090Z",
+  "latestSongId": 3442258629,
+  "weekPlayMinutes": 400,
+  "stateSignature": "3442258629:400",
+  "previousSignature": "22800558:370",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22800558,
-    "name": "Sunset IN THE Lake Featuring Yoshiki Of 姫神",
-    "artists": "DAISHI DANCE",
-    "album": "Spectacle"
+    "id": 3442258629,
+    "name": "时落叶影Pt. 3",
+    "artists": "kilo呀 / Maple暖枫",
+    "album": "时落叶影Pt. 3"
   }
 }
