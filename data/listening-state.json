@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04T08:50:30.008Z",
-  "latestSongId": 16946081,
-  "weekPlayMinutes": 424,
-  "stateSignature": "16946081:424",
-  "previousSignature": "3442258629:400",
+  "generatedAt": "2026-11-04T17:52:19.318Z",
+  "latestSongId": 3429019046,
+  "weekPlayMinutes": 524,
+  "stateSignature": "3429019046:524",
+  "previousSignature": "16946081:424",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 16946081,
-    "name": "Love The Fall",
-    "artists": "Michael Paynter",
-    "album": "Love The Fall"
+    "id": 3429019046,
+    "name": "Won't You Stay",
+    "artists": "PATQ",
+    "album": "Won't You Stay"
   }
 }
