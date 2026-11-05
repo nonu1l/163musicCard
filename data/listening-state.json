@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-05T05:58:03.106Z",
-  "latestSongId": 3368958802,
-  "weekPlayMinutes": 568,
-  "stateSignature": "3368958802:568",
-  "previousSignature": "3429019046:524",
+  "generatedAt": "2026-11-05T14:29:53.516Z",
+  "latestSongId": 3313985886,
+  "weekPlayMinutes": 692,
+  "stateSignature": "3313985886:692",
+  "previousSignature": "3368958802:568",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3368958802,
-    "name": "Shatter Planet",
-    "artists": "LICHO",
-    "album": "Shatter Planet"
+    "id": 3313985886,
+    "name": "跨界（Lazy）",
+    "artists": "freezepain",
+    "album": "An Ode to Time 跨界（Lazy）"
   }
 }
