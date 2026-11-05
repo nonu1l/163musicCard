@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-05T14:29:53.516Z",
-  "latestSongId": 3313985886,
-  "weekPlayMinutes": 692,
-  "stateSignature": "3313985886:692",
-  "previousSignature": "3368958802:568",
+  "generatedAt": "2026-11-05T21:50:41.297Z",
+  "latestSongId": 3435498064,
+  "weekPlayMinutes": 701,
+  "stateSignature": "3435498064:701",
+  "previousSignature": "3313985886:692",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3313985886,
-    "name": "跨界（Lazy）",
-    "artists": "freezepain",
-    "album": "An Ode to Time 跨界（Lazy）"
+    "id": 3435498064,
+    "name": "Always You-Vibe",
+    "artists": "Agera",
+    "album": "Always You"
   }
 }
