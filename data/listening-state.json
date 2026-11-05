@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-04T23:27:07.039Z",
-  "latestSongId": 3429019046,
-  "weekPlayMinutes": 524,
-  "stateSignature": "3429019046:524",
+  "generatedAt": "2026-11-05T05:58:03.106Z",
+  "latestSongId": 3368958802,
+  "weekPlayMinutes": 568,
+  "stateSignature": "3368958802:568",
   "previousSignature": "3429019046:524",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3429019046,
-    "name": "Won't You Stay",
-    "artists": "PATQ",
-    "album": "Won't You Stay"
+    "id": 3368958802,
+    "name": "Shatter Planet",
+    "artists": "LICHO",
+    "album": "Shatter Planet"
   }
 }
