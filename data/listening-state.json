@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-06T11:56:48.413Z",
-  "latestSongId": 238780,
-  "weekPlayMinutes": 809,
-  "stateSignature": "238780:809",
-  "previousSignature": "3313985886:714",
+  "generatedAt": "2026-11-06T19:15:27.519Z",
+  "latestSongId": 3452583568,
+  "weekPlayMinutes": 852,
+  "stateSignature": "3452583568:852",
+  "previousSignature": "238780:809",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 238780,
-    "name": "美丽的神话",
-    "artists": "韩红 / 孙楠",
-    "album": "恋曲神话"
+    "id": 3452583568,
+    "name": "SLAVIA FUNK",
+    "artists": "A3LIZ / 花柚Flower / HFHW",
+    "album": "SLAVIA FUNK"
   }
 }
