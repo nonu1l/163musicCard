@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-06T02:06:09.800Z",
-  "latestSongId": 3313985886,
-  "weekPlayMinutes": 714,
-  "stateSignature": "3313985886:714",
-  "previousSignature": "3435498064:701",
+  "generatedAt": "2026-11-06T11:56:48.413Z",
+  "latestSongId": 238780,
+  "weekPlayMinutes": 809,
+  "stateSignature": "238780:809",
+  "previousSignature": "3313985886:714",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3313985886,
-    "name": "跨界（Lazy）",
-    "artists": "freezepain",
-    "album": "An Ode to Time 跨界（Lazy）"
+    "id": 238780,
+    "name": "美丽的神话",
+    "artists": "韩红 / 孙楠",
+    "album": "恋曲神话"
   }
 }
