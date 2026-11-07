@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-07T16:11:47.118Z",
-  "latestSongId": 3334065880,
+  "generatedAt": "2026-11-07T21:38:26.920Z",
+  "latestSongId": 2712778973,
   "weekPlayMinutes": 1301,
-  "stateSignature": "3334065880:1301",
-  "previousSignature": "642795:1019",
+  "stateSignature": "2712778973:1301",
+  "previousSignature": "3334065880:1301",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3334065880,
-    "name": "no answer",
-    "artists": "MRZ",
-    "album": "Pop RnB type beat'no answer'"
+    "id": 2712778973,
+    "name": "Escape",
+    "artists": "EREAL",
+    "album": "Escape"
   }
 }
