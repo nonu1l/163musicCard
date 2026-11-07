@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-06T19:15:27.519Z",
-  "latestSongId": 3452583568,
-  "weekPlayMinutes": 852,
-  "stateSignature": "3452583568:852",
-  "previousSignature": "238780:809",
+  "generatedAt": "2026-11-07T00:00:26.705Z",
+  "latestSongId": 3396526264,
+  "weekPlayMinutes": 881,
+  "stateSignature": "3396526264:881",
+  "previousSignature": "3452583568:852",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3452583568,
-    "name": "SLAVIA FUNK",
-    "artists": "A3LIZ / 花柚Flower / HFHW",
-    "album": "SLAVIA FUNK"
+    "id": 3396526264,
+    "name": "梓",
+    "artists": "x 江澜",
+    "album": "梓"
   }
 }
