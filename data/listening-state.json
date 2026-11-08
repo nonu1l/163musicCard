@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-08T01:12:58.312Z",
-  "latestSongId": 2712778973,
-  "weekPlayMinutes": 1293,
-  "stateSignature": "2712778973:1293",
-  "previousSignature": "2712778973:1301",
+  "generatedAt": "2026-11-08T08:46:57.668Z",
+  "latestSongId": 3313985886,
+  "weekPlayMinutes": 64,
+  "stateSignature": "3313985886:64",
+  "previousSignature": "2712778973:1293",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2712778973,
-    "name": "Escape",
-    "artists": "EREAL",
-    "album": "Escape"
+    "id": 3313985886,
+    "name": "跨界（Lazy）",
+    "artists": "freezepain",
+    "album": "An Ode to Time 跨界（Lazy）"
   }
 }
