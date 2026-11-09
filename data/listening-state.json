@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T21:52:16.271Z",
+  "generatedAt": "2026-11-09T01:31:29.616Z",
   "latestSongId": 1307330106,
   "weekPlayMinutes": 141,
   "stateSignature": "1307330106:141",
   "previousSignature": "1307330106:141",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 1307330106,
     "name": "我本人 (Live)",
