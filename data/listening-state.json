@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-09T01:31:29.616Z",
-  "latestSongId": 1307330106,
-  "weekPlayMinutes": 141,
-  "stateSignature": "1307330106:141",
+  "generatedAt": "2026-11-09T09:27:19.842Z",
+  "latestSongId": 66842,
+  "weekPlayMinutes": 176,
+  "stateSignature": "66842:176",
   "previousSignature": "1307330106:141",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1307330106,
-    "name": "我本人 (Live)",
-    "artists": "张敬轩",
-    "album": "HINSIDEOUT张敬轩演唱会2018"
+    "id": 66842,
+    "name": "十年",
+    "artists": "陈奕迅",
+    "album": "黑白灰"
   }
 }
