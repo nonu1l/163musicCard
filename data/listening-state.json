@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-10T12:28:58.007Z",
-  "latestSongId": 1901371647,
-  "weekPlayMinutes": 221,
-  "stateSignature": "1901371647:221",
-  "previousSignature": "1901371647:220",
+  "generatedAt": "2026-11-10T20:44:11.051Z",
+  "latestSongId": 3429738032,
+  "weekPlayMinutes": 222,
+  "stateSignature": "3429738032:222",
+  "previousSignature": "1901371647:221",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1901371647,
-    "name": "孤勇者",
-    "artists": "陈奕迅",
-    "album": "孤勇者"
+    "id": 3429738032,
+    "name": "爱才",
+    "artists": "卫兰",
+    "album": "Janice Vidal I"
   }
 }
