@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-09T20:32:15.782Z",
-  "latestSongId": 65538,
-  "weekPlayMinutes": 191,
-  "stateSignature": "65538:191",
-  "previousSignature": "66842:176",
+  "generatedAt": "2026-11-10T03:59:51.681Z",
+  "latestSongId": 1901371647,
+  "weekPlayMinutes": 220,
+  "stateSignature": "1901371647:220",
+  "previousSignature": "65538:191",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 65538,
-    "name": "好久不见",
+    "id": 1901371647,
+    "name": "孤勇者",
     "artists": "陈奕迅",
-    "album": "认了吧"
+    "album": "孤勇者"
   }
 }
