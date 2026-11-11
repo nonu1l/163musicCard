@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-11T09:03:22.143Z",
-  "latestSongId": 3429738032,
-  "weekPlayMinutes": 222,
-  "stateSignature": "3429738032:222",
+  "generatedAt": "2026-11-11T17:46:51.959Z",
+  "latestSongId": 3396526264,
+  "weekPlayMinutes": 269,
+  "stateSignature": "3396526264:269",
   "previousSignature": "3429738032:222",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3429738032,
-    "name": "爱才",
-    "artists": "卫兰",
-    "album": "Janice Vidal I"
+    "id": 3396526264,
+    "name": "梓",
+    "artists": "x 江澜",
+    "album": "梓"
   }
 }
