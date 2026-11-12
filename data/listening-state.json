@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T00:19:13.519Z",
+  "generatedAt": "2026-11-12T09:32:13.450Z",
   "latestSongId": 3396526264,
   "weekPlayMinutes": 269,
   "stateSignature": "3396526264:269",
   "previousSignature": "3396526264:269",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3396526264,
     "name": "梓",
