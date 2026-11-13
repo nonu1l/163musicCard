@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-13T00:57:32.487Z",
-  "latestSongId": 3396526264,
-  "weekPlayMinutes": 269,
-  "stateSignature": "3396526264:269",
+  "generatedAt": "2026-11-13T09:18:16.244Z",
+  "latestSongId": 3366392741,
+  "weekPlayMinutes": 322,
+  "stateSignature": "3366392741:322",
   "previousSignature": "3396526264:269",
-  "stableBuildCount": 5,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3396526264,
-    "name": "梓",
-    "artists": "x 江澜",
-    "album": "梓"
+    "id": 3366392741,
+    "name": "Losing You",
+    "artists": "YaKio / Wehti / Trispect",
+    "album": "Losing You"
   }
 }
