@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-14T13:15:34.074Z",
-  "latestSongId": 3366392741,
+  "generatedAt": "2026-11-14T18:58:53.993Z",
+  "latestSongId": 3429738032,
   "weekPlayMinutes": 322,
-  "stateSignature": "3366392741:322",
+  "stateSignature": "3429738032:322",
   "previousSignature": "3366392741:322",
-  "stableBuildCount": 5,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3366392741,
-    "name": "Losing You",
-    "artists": "YaKio / Wehti / Trispect",
-    "album": "Losing You"
+    "id": 3429738032,
+    "name": "爱才",
+    "artists": "卫兰",
+    "album": "Janice Vidal I"
   }
 }
