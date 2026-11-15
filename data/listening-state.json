@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T19:38:45.920Z",
+  "generatedAt": "2026-11-15T23:52:19.109Z",
   "latestSongId": 3429738032,
   "weekPlayMinutes": 0,
   "stateSignature": "3429738032:0",
   "previousSignature": "3429738032:0",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3429738032,
     "name": "爱才",
