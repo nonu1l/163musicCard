@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-15T23:52:19.109Z",
-  "latestSongId": 3429738032,
-  "weekPlayMinutes": 0,
-  "stateSignature": "3429738032:0",
+  "generatedAt": "2026-11-16T05:45:12.928Z",
+  "latestSongId": 3352697487,
+  "weekPlayMinutes": 36,
+  "stateSignature": "3352697487:36",
   "previousSignature": "3429738032:0",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3429738032,
-    "name": "爱才",
-    "artists": "卫兰",
-    "album": "Janice Vidal I"
+    "id": 3352697487,
+    "name": "GrayPixel",
+    "artists": "Fuzzymemory",
+    "album": "GrayPixel"
   }
 }
