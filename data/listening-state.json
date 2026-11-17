@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-17T00:05:17.881Z",
-  "latestSongId": 3352697487,
-  "weekPlayMinutes": 36,
-  "stateSignature": "3352697487:36",
+  "generatedAt": "2026-11-17T10:25:44.175Z",
+  "latestSongId": 3343912541,
+  "weekPlayMinutes": 911,
+  "stateSignature": "3343912541:911",
   "previousSignature": "3352697487:36",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3352697487,
-    "name": "GrayPixel",
-    "artists": "Fuzzymemory",
-    "album": "GrayPixel"
+    "id": 3343912541,
+    "name": "And I love you",
+    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
+    "album": "And I love you"
   }
 }
