@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T15:20:27.589Z",
+  "generatedAt": "2026-11-17T00:05:17.881Z",
   "latestSongId": 3352697487,
   "weekPlayMinutes": 36,
   "stateSignature": "3352697487:36",
   "previousSignature": "3352697487:36",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3352697487,
     "name": "GrayPixel",
