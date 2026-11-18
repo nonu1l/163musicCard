@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-18T12:49:32.416Z",
-  "latestSongId": 3343912541,
-  "weekPlayMinutes": 97,
-  "stateSignature": "3343912541:97",
+  "generatedAt": "2026-11-18T21:44:53.559Z",
+  "latestSongId": 3435643403,
+  "weekPlayMinutes": 818,
+  "stateSignature": "3435643403:818",
   "previousSignature": "3343912541:97",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3343912541,
-    "name": "And I love you",
-    "artists": "YaKio / Wehti / BLACK EGG / sleepyyer / freezepain / Haze / Trispect / T-Chenxi",
-    "album": "And I love you"
+    "id": 3435643403,
+    "name": "Skip（雀跃）",
+    "artists": "Lumi",
+    "album": "Skip（雀跃）"
   }
 }
