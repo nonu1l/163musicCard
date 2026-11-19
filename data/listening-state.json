@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T03:01:04.284Z",
+  "generatedAt": "2026-11-19T12:40:25.146Z",
   "latestSongId": 3435643403,
   "weekPlayMinutes": 818,
   "stateSignature": "3435643403:818",
   "previousSignature": "3435643403:818",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3435643403,
     "name": "Skip（雀跃）",
