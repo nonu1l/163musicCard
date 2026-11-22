@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T21:36:01.008Z",
+  "generatedAt": "2026-11-22T01:58:48.217Z",
   "latestSongId": 3343191281,
   "weekPlayMinutes": 187,
   "stateSignature": "3343191281:187",
   "previousSignature": "3343191281:187",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 3343191281,
     "name": "Hey Hey You + 天使与魔鬼的对话 (Live)",
