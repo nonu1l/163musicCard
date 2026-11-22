@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T01:58:48.217Z",
-  "latestSongId": 3343191281,
-  "weekPlayMinutes": 187,
-  "stateSignature": "3343191281:187",
+  "generatedAt": "2026-11-22T09:39:36.822Z",
+  "latestSongId": 168976,
+  "weekPlayMinutes": 68,
+  "stateSignature": "168976:68",
   "previousSignature": "3343191281:187",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 3343191281,
-    "name": "Hey Hey You + 天使与魔鬼的对话 (Live)",
-    "artists": "蔡健雅",
-    "album": "Let's Depart! 给世界最悠长的吻 演唱会实录"
+    "id": 168976,
+    "name": "一了百了",
+    "artists": "谢霆锋",
+    "album": "零距离"
   }
 }
