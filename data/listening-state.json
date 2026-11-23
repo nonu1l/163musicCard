@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-22T23:26:50.674Z",
+  "generatedAt": "2026-11-23T06:49:44.245Z",
   "latestSongId": 29897927,
   "weekPlayMinutes": 68,
   "stateSignature": "29897927:68",
   "previousSignature": "29897927:68",
-  "stableBuildCount": 2,
-  "isRecentlyPlaying": true,
+  "stableBuildCount": 3,
+  "isRecentlyPlaying": false,
   "latestSong": {
     "id": 29897927,
     "name": "我的天 (Live)",
