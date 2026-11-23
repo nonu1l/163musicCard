@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-23T06:49:44.245Z",
-  "latestSongId": 29897927,
-  "weekPlayMinutes": 68,
-  "stateSignature": "29897927:68",
+  "generatedAt": "2026-11-23T19:59:06.746Z",
+  "latestSongId": 22701841,
+  "weekPlayMinutes": 259,
+  "stateSignature": "22701841:259",
   "previousSignature": "29897927:68",
-  "stableBuildCount": 3,
-  "isRecentlyPlaying": false,
+  "stableBuildCount": 1,
+  "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 29897927,
-    "name": "我的天 (Live)",
-    "artists": "张敬轩",
-    "album": "Hins Live in Passion 张敬轩演唱会 2014"
+    "id": 22701841,
+    "name": "人間ってそんなものね",
+    "artists": "KOKIA",
+    "album": "trip trip"
   }
 }
