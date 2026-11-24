@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-24T04:42:22.135Z",
-  "latestSongId": 22701841,
-  "weekPlayMinutes": 259,
-  "stateSignature": "22701841:259",
+  "generatedAt": "2026-11-24T17:17:52.391Z",
+  "latestSongId": 2606350401,
+  "weekPlayMinutes": 504,
+  "stateSignature": "2606350401:504",
   "previousSignature": "22701841:259",
-  "stableBuildCount": 2,
+  "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 22701841,
-    "name": "人間ってそんなものね",
-    "artists": "KOKIA",
-    "album": "trip trip"
+    "id": 2606350401,
+    "name": "Turn Off The Lights (Extended Mix)",
+    "artists": "Max Oazo",
+    "album": "Turn Off The Lights"
   }
 }
