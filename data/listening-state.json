@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T02:05:21.355Z",
-  "latestSongId": 2606350401,
-  "weekPlayMinutes": 503,
-  "stateSignature": "2606350401:503",
-  "previousSignature": "2606350401:504",
+  "generatedAt": "2026-11-25T14:01:41.717Z",
+  "latestSongId": 498124,
+  "weekPlayMinutes": 619,
+  "stateSignature": "498124:619",
+  "previousSignature": "2606350401:503",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 2606350401,
-    "name": "Turn Off The Lights (Extended Mix)",
-    "artists": "Max Oazo",
-    "album": "Turn Off The Lights"
+    "id": 498124,
+    "name": "Βασιλευζ",
+    "artists": "澤野弘之",
+    "album": "ギルティクラウン オリジナルサウンドトラック"
   }
 }
