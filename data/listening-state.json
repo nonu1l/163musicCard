@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-26T10:39:01.096Z",
-  "latestSongId": 1442466883,
-  "weekPlayMinutes": 877,
-  "stateSignature": "1442466883:877",
-  "previousSignature": "498124:620",
+  "generatedAt": "2026-11-26T21:12:46.051Z",
+  "latestSongId": 26830927,
+  "weekPlayMinutes": 1177,
+  "stateSignature": "26830927:1177",
+  "previousSignature": "1442466883:877",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 1442466883,
-    "name": "花に亡霊",
-    "artists": "ヨルシカ",
-    "album": "花に亡霊"
+    "id": 26830927,
+    "name": "Natural Cause",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn"
   }
 }
