@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-26T00:04:29.112Z",
-  "latestSongId": 498124,
-  "weekPlayMinutes": 620,
-  "stateSignature": "498124:620",
-  "previousSignature": "498124:619",
+  "generatedAt": "2026-11-26T10:39:01.096Z",
+  "latestSongId": 1442466883,
+  "weekPlayMinutes": 877,
+  "stateSignature": "1442466883:877",
+  "previousSignature": "498124:620",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 498124,
-    "name": "Βασιλευζ",
-    "artists": "澤野弘之",
-    "album": "ギルティクラウン オリジナルサウンドトラック"
+    "id": 1442466883,
+    "name": "花に亡霊",
+    "artists": "ヨルシカ",
+    "album": "花に亡霊"
   }
 }
