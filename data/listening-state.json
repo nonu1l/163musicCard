@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-27T03:59:47.456Z",
-  "latestSongId": 26830927,
-  "weekPlayMinutes": 1173,
-  "stateSignature": "26830927:1173",
-  "previousSignature": "26830927:1177",
+  "generatedAt": "2026-11-27T13:44:01.017Z",
+  "latestSongId": 34078322,
+  "weekPlayMinutes": 1479,
+  "stateSignature": "34078322:1479",
+  "previousSignature": "26830927:1173",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 26830927,
-    "name": "Natural Cause",
-    "artists": "Emancipator",
-    "album": "Dusk to Dawn"
+    "id": 34078322,
+    "name": "Answer",
+    "artists": "V.A.",
+    "album": "「うみねこのなく頃に」Episode.2 オリジナルサウンドトラック"
   }
 }
