@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-28T07:09:02.393Z",
-  "latestSongId": 18098479,
-  "weekPlayMinutes": 1544,
-  "stateSignature": "18098479:1544",
-  "previousSignature": "34078322:1480",
+  "generatedAt": "2026-11-28T16:43:52.087Z",
+  "latestSongId": 499188,
+  "weekPlayMinutes": 1718,
+  "stateSignature": "499188:1718",
+  "previousSignature": "18098479:1544",
   "stableBuildCount": 1,
   "isRecentlyPlaying": true,
   "latestSong": {
-    "id": 18098479,
-    "name": "Far Away From Home",
-    "artists": "Groove Coverage",
-    "album": "Covergirl"
+    "id": 499188,
+    "name": "Illusion",
+    "artists": "小林未郁",
+    "album": "「まっすぐな男」オリジナルサウンドトラック"
   }
 }
